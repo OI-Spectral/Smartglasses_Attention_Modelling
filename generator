@@ -1,0 +1,22 @@
+import json, random
+from datetime import datetime, timedelta
+
+random.seed(42)  # same "random" data every run — crucial for testing
+
+brands = ["Nike", "Adidas", "Coca-Cola", "Apple", "Spotify", "Red Bull"]
+events = []
+t = datetime(2026, 6, 16, 14, 0, 0)
+
+for _ in range(200):
+    t += timedelta(seconds=random.randint(1, 30))
+    events.append({
+        "timestamp": t.isoformat(),
+        "brand": random.choice(brands),
+        "confidence": round(random.uniform(0.6, 0.99), 2),
+        "dwell_seconds": round(random.uniform(0.5, 6.0), 1),
+    })
+
+with open("events.json", "w") as f:
+    json.dump(events, f, indent=2)
+
+print(f"Wrote {len(events)} events.")
