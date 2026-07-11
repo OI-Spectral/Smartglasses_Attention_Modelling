@@ -1,22 +1,122 @@
 import json, random
 from datetime import datetime, timedelta
+import pandas as pd 
+import matplotlib.pyplot as plt
 
-random.seed(42)  # same "random" data every run — crucial for testing
+class Event:
+        def __init__(self, timestamp, brand, confidence, dwell_seconds):
+            self.timestamp = timestamp
+            self.brand = brand
+            self.confidence = confidence
+            self.dwell_seconds = dwell_seconds
 
-brands = ["Nike", "Adidas", "Coca-Cola", "Apple", "Spotify", "Red Bull"]
-events = []
-t = datetime(2026, 6, 16, 14, 0, 0)
+        def __repr__(self):
+            return f"Event(timestamp={self.timestamp}, brand={self.brand}, confidence={self.confidence}, dwell_seconds={self.dwell_seconds})"
+        
+        def to_dict(self):
+            return {"timestamp": self.timestamp, 
+             "brand": self.brand, 
+             "confidence": self.confidence, 
+             "dwell_seconds": self.dwell_seconds}
 
-for _ in range(200):
-    t += timedelta(seconds=random.randint(1, 30))
-    events.append({
-        "timestamp": t.isoformat(),
-        "brand": random.choice(brands),
-        "confidence": round(random.uniform(0.6, 0.99), 2),
-        "dwell_seconds": round(random.uniform(0.5, 6.0), 1),
-    })
+class Session:
+    def __init__(self, events: list[Event] ):
+        self.events = events
+    
+    def dwell_time_by_brand(self):
+        dwell = {}
+        for event in self.events:
+            brand = event.brand
+            dwell[brand] = dwell.get(brand,0) + event.dwell_seconds
 
-with open("events.json", "w") as f:
-    json.dump(events, f, indent=2)
+        for brand, total_dwell in dwell.items():
+            print(f"{brand} dwell time: {total_dwell:.1f} seconds." )
+        
+        def report():
+            with open("report.txt", "w") as f:
+                for brand, total_dwell in dwell.items():
+                    f.write(f"{brand} dwell time: {total_dwell:.1f} seconds.\n")
+    
+        report()
 
-print(f"Wrote {len(events)} events.")
+    def exposure_per_hour(self):
+        exposure = {}
+        for event in self.events:
+            hour = event.timestamp[:13]
+            seconds = event.dwell_seconds
+            exposure[hour] = exposure.get(hour, 0) + seconds
+
+        for hour, count in exposure.items():
+            print(f"{hour}:00 - {count:.1f} dwell_seconds.")
+
+    def top_brands(self, n):
+        brand_seconds = {}
+        for event in self.events:
+            brand = event.brand
+            brand_seconds[brand] = brand_seconds.get(brand, 0) + event.dwell_seconds  
+        sorted_brands = sorted(brand_seconds.items(), key=lambda x: x[1], reverse=True)
+        top_n_brands = [x[0] for x in sorted_brands[:n]]
+        print(f"Top {n} brands by dwell time are {top_n_brands}")
+
+def generate_events():
+    random.seed(42)  # same "random" data every run — crucial for testing
+
+    brands = ["Nike", "Adidas", "Coca-Cola", "Apple", "Spotify", "Red Bull"]
+    events = []
+    t = datetime(2026, 6, 16, 0, 0, 0)
+
+    for _ in range(500):
+        t += timedelta(seconds=random.randint(1, 100))
+        events.append({
+            "timestamp": t.isoformat(),
+            "brand": random.choice(brands),
+            "confidence": round(random.uniform(0.6, 0.99), 2),
+            "dwell_seconds": round(random.uniform(0.5, 6.0), 1),
+        })    
+
+    with open("events.json", "w") as f:
+        json.dump(events, f, indent=2)
+
+    print(f"Wrote {len(events)} events.")
+
+def load_events():
+    with open("events.json", "r") as f:
+        events = json.load(f)
+    return [Event(event["timestamp"], event["brand"], event["confidence"], event["dwell_seconds"]) for event in events]   
+
+def low_confidence():
+    events = load_events()
+
+    low_confidence_events = [e.to_dict() for e in events if e.confidence < 0.7]
+    high_confidence_events = [e.to_dict() for e in events if e.confidence >= 0.7]
+
+    with open("low_confidence.json", "w") as f:
+        json.dump(low_confidence_events, f, indent=2)
+
+    with open("events.json", "w") as f:
+        json.dump(high_confidence_events, f, indent=2)
+
+    print(f"Removed {len(low_confidence_events)} low confidence events.")
+
+def dwell_time_information():
+    session = Session(load_events())
+    session.dwell_time_by_brand()
+    session.top_brands(n=3)
+    session.exposure_per_hour()
+
+def dataframe():
+    df = pd.read_json("events.json")
+
+    grouped = df.groupby("brand")["dwell_seconds"].sum()
+
+    x = grouped.index
+    y = grouped.values
+
+    plt.bar(x,y)
+    plt.show()
+    
+if __name__ == "__main__":
+    generate_events()
+    low_confidence()
+    dwell_time_information()
+    dataframe()
