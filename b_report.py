@@ -2,7 +2,6 @@ import json
 import pandas as pd 
 import matplotlib.pyplot as plt
 from a_models import Event, Session
-from c_cli import inputs
 
 def load_events(filetitle):
     try:    
@@ -17,7 +16,7 @@ def load_events(filetitle):
     return [Event(event["timestamp"], event["brand"], event["confidence"], event["dwell_seconds"]) for event in events]   
 
 def low_confidence():
-    events = load_events(filetitle = "events.json")
+    events = load_events("events.json")
 
     low_confidence_events = [e.to_dict() for e in events if e.confidence < 0.7]
     high_confidence_events = [e.to_dict() for e in events if e.confidence >= 0.7]
@@ -27,11 +26,12 @@ def low_confidence():
 
     with open("high_confidence.json", "w") as f:
         json.dump(high_confidence_events, f, indent=2)
+        hig_confidence_file = "high_confidence.json"
 
     print(f"Removed {len(low_confidence_events)} low confidence events.")
 
-def dwell_time_information(args):
-    session = Session(load_events(filetitle = args.events_file))
+def dwell_time_information(args , high_confidence_file = "high_confidence.json"):
+    session = Session(load_events(filetitle = high_confidence_file))
     dwell = session.dwell_time_by_brand()
     session.report(dwell)
     session.top_brands(n = args.top)
