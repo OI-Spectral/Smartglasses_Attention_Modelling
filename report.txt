@@ -1,6 +1,6 @@
-Spotify dwell time: 299.2 seconds.
-Nike dwell time: 251.2 seconds.
-Coca-Cola dwell time: 204.8 seconds.
-Apple dwell time: 266.0 seconds.
-Adidas dwell time: 312.1 seconds.
-Red Bull dwell time: 291.2 seconds.
+Spotify dwell time: 242.0 seconds.
+Nike dwell time: 193.2 seconds.
+Adidas dwell time: 235.0 seconds.
+Red Bull dwell time: 235.9 seconds.
+Apple dwell time: 191.2 seconds.
+Coca-Cola dwell time: 152.9 seconds.
