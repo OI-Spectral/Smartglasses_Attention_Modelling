@@ -12,46 +12,16 @@
     "dwell_seconds": 5.8
   },
   {
-    "timestamp": "2026-06-16T00:02:08",
-    "brand": "Coca-Cola",
-    "confidence": 0.6,
-    "dwell_seconds": 3.7
-  },
-  {
     "timestamp": "2026-06-16T00:02:30",
     "brand": "Nike",
     "confidence": 0.92,
     "dwell_seconds": 3.8
   },
   {
-    "timestamp": "2026-06-16T00:03:47",
-    "brand": "Apple",
-    "confidence": 0.64,
-    "dwell_seconds": 2.1
-  },
-  {
-    "timestamp": "2026-06-16T00:04:24",
-    "brand": "Apple",
-    "confidence": 0.65,
-    "dwell_seconds": 2.8
-  },
-  {
-    "timestamp": "2026-06-16T00:05:52",
-    "brand": "Adidas",
-    "confidence": 0.64,
-    "dwell_seconds": 1.4
-  },
-  {
     "timestamp": "2026-06-16T00:06:32",
     "brand": "Adidas",
     "confidence": 0.76,
     "dwell_seconds": 3.2
-  },
-  {
-    "timestamp": "2026-06-16T00:07:42",
-    "brand": "Spotify",
-    "confidence": 0.66,
-    "dwell_seconds": 1.2
   },
   {
     "timestamp": "2026-06-16T00:08:38",
@@ -150,12 +120,6 @@
     "dwell_seconds": 1.4
   },
   {
-    "timestamp": "2026-06-16T00:21:41",
-    "brand": "Apple",
-    "confidence": 0.65,
-    "dwell_seconds": 5.7
-  },
-  {
     "timestamp": "2026-06-16T00:21:55",
     "brand": "Nike",
     "confidence": 0.74,
@@ -172,12 +136,6 @@
     "brand": "Adidas",
     "confidence": 0.72,
     "dwell_seconds": 3.6
-  },
-  {
-    "timestamp": "2026-06-16T00:22:53",
-    "brand": "Coca-Cola",
-    "confidence": 0.65,
-    "dwell_seconds": 5.3
   },
   {
     "timestamp": "2026-06-16T00:24:03",
@@ -288,22 +246,10 @@
     "dwell_seconds": 1.7
   },
   {
-    "timestamp": "2026-06-16T00:41:30",
-    "brand": "Coca-Cola",
-    "confidence": 0.62,
-    "dwell_seconds": 4.8
-  },
-  {
     "timestamp": "2026-06-16T00:42:04",
     "brand": "Adidas",
     "confidence": 0.73,
     "dwell_seconds": 5.0
-  },
-  {
-    "timestamp": "2026-06-16T00:42:54",
-    "brand": "Nike",
-    "confidence": 0.62,
-    "dwell_seconds": 3.2
   },
   {
     "timestamp": "2026-06-16T00:44:03",
@@ -312,28 +258,10 @@
     "dwell_seconds": 1.3
   },
   {
-    "timestamp": "2026-06-16T00:45:04",
-    "brand": "Adidas",
-    "confidence": 0.62,
-    "dwell_seconds": 4.4
-  },
-  {
-    "timestamp": "2026-06-16T00:46:32",
-    "brand": "Coca-Cola",
-    "confidence": 0.67,
-    "dwell_seconds": 3.7
-  },
-  {
     "timestamp": "2026-06-16T00:47:06",
     "brand": "Adidas",
     "confidence": 0.7,
     "dwell_seconds": 1.4
-  },
-  {
-    "timestamp": "2026-06-16T00:48:04",
-    "brand": "Adidas",
-    "confidence": 0.67,
-    "dwell_seconds": 1.5
   },
   {
     "timestamp": "2026-06-16T00:48:59",
@@ -354,40 +282,10 @@
     "dwell_seconds": 5.3
   },
   {
-    "timestamp": "2026-06-16T00:51:24",
-    "brand": "Spotify",
-    "confidence": 0.65,
-    "dwell_seconds": 3.9
-  },
-  {
-    "timestamp": "2026-06-16T00:51:50",
-    "brand": "Red Bull",
-    "confidence": 0.67,
-    "dwell_seconds": 3.9
-  },
-  {
     "timestamp": "2026-06-16T00:52:22",
     "brand": "Red Bull",
     "confidence": 0.95,
     "dwell_seconds": 5.8
-  },
-  {
-    "timestamp": "2026-06-16T00:52:37",
-    "brand": "Red Bull",
-    "confidence": 0.69,
-    "dwell_seconds": 2.5
-  },
-  {
-    "timestamp": "2026-06-16T00:52:56",
-    "brand": "Apple",
-    "confidence": 0.67,
-    "dwell_seconds": 5.1
-  },
-  {
-    "timestamp": "2026-06-16T00:54:03",
-    "brand": "Red Bull",
-    "confidence": 0.68,
-    "dwell_seconds": 4.4
   },
   {
     "timestamp": "2026-06-16T00:55:39",
@@ -406,12 +304,6 @@
     "brand": "Apple",
     "confidence": 0.84,
     "dwell_seconds": 1.7
-  },
-  {
-    "timestamp": "2026-06-16T00:58:22",
-    "brand": "Spotify",
-    "confidence": 0.61,
-    "dwell_seconds": 5.3
   },
   {
     "timestamp": "2026-06-16T00:58:35",
@@ -442,12 +334,6 @@
     "brand": "Red Bull",
     "confidence": 0.88,
     "dwell_seconds": 3.6
-  },
-  {
-    "timestamp": "2026-06-16T01:02:08",
-    "brand": "Adidas",
-    "confidence": 0.67,
-    "dwell_seconds": 2.4
   },
   {
     "timestamp": "2026-06-16T01:02:11",
@@ -510,24 +396,6 @@
     "dwell_seconds": 4.6
   },
   {
-    "timestamp": "2026-06-16T01:10:27",
-    "brand": "Apple",
-    "confidence": 0.67,
-    "dwell_seconds": 3.4
-  },
-  {
-    "timestamp": "2026-06-16T01:10:33",
-    "brand": "Adidas",
-    "confidence": 0.61,
-    "dwell_seconds": 4.3
-  },
-  {
-    "timestamp": "2026-06-16T01:10:49",
-    "brand": "Adidas",
-    "confidence": 0.67,
-    "dwell_seconds": 5.4
-  },
-  {
     "timestamp": "2026-06-16T01:11:51",
     "brand": "Nike",
     "confidence": 0.74,
@@ -550,12 +418,6 @@
     "brand": "Nike",
     "confidence": 0.79,
     "dwell_seconds": 2.1
-  },
-  {
-    "timestamp": "2026-06-16T01:16:01",
-    "brand": "Spotify",
-    "confidence": 0.6,
-    "dwell_seconds": 4.8
   },
   {
     "timestamp": "2026-06-16T01:16:57",
@@ -582,34 +444,10 @@
     "dwell_seconds": 0.6
   },
   {
-    "timestamp": "2026-06-16T01:21:15",
-    "brand": "Red Bull",
-    "confidence": 0.62,
-    "dwell_seconds": 4.5
-  },
-  {
-    "timestamp": "2026-06-16T01:21:58",
-    "brand": "Red Bull",
-    "confidence": 0.6,
-    "dwell_seconds": 0.8
-  },
-  {
     "timestamp": "2026-06-16T01:23:06",
     "brand": "Red Bull",
     "confidence": 0.92,
     "dwell_seconds": 5.4
-  },
-  {
-    "timestamp": "2026-06-16T01:24:14",
-    "brand": "Nike",
-    "confidence": 0.62,
-    "dwell_seconds": 3.6
-  },
-  {
-    "timestamp": "2026-06-16T01:25:09",
-    "brand": "Red Bull",
-    "confidence": 0.68,
-    "dwell_seconds": 1.8
   },
   {
     "timestamp": "2026-06-16T01:26:37",
@@ -648,12 +486,6 @@
     "dwell_seconds": 5.9
   },
   {
-    "timestamp": "2026-06-16T01:32:52",
-    "brand": "Adidas",
-    "confidence": 0.69,
-    "dwell_seconds": 4.8
-  },
-  {
     "timestamp": "2026-06-16T01:34:01",
     "brand": "Coca-Cola",
     "confidence": 0.7,
@@ -678,12 +510,6 @@
     "dwell_seconds": 2.0
   },
   {
-    "timestamp": "2026-06-16T01:36:33",
-    "brand": "Coca-Cola",
-    "confidence": 0.63,
-    "dwell_seconds": 0.9
-  },
-  {
     "timestamp": "2026-06-16T01:37:36",
     "brand": "Nike",
     "confidence": 0.84,
@@ -700,12 +526,6 @@
     "brand": "Adidas",
     "confidence": 0.8,
     "dwell_seconds": 5.3
-  },
-  {
-    "timestamp": "2026-06-16T01:41:07",
-    "brand": "Spotify",
-    "confidence": 0.68,
-    "dwell_seconds": 1.6
   },
   {
     "timestamp": "2026-06-16T01:41:25",
@@ -726,28 +546,10 @@
     "dwell_seconds": 4.5
   },
   {
-    "timestamp": "2026-06-16T01:44:32",
-    "brand": "Adidas",
-    "confidence": 0.66,
-    "dwell_seconds": 4.6
-  },
-  {
-    "timestamp": "2026-06-16T01:45:40",
-    "brand": "Nike",
-    "confidence": 0.61,
-    "dwell_seconds": 2.3
-  },
-  {
     "timestamp": "2026-06-16T01:46:10",
     "brand": "Spotify",
     "confidence": 0.93,
     "dwell_seconds": 4.2
-  },
-  {
-    "timestamp": "2026-06-16T01:47:18",
-    "brand": "Apple",
-    "confidence": 0.63,
-    "dwell_seconds": 3.4
   },
   {
     "timestamp": "2026-06-16T01:48:14",
@@ -786,30 +588,6 @@
     "dwell_seconds": 2.7
   },
   {
-    "timestamp": "2026-06-16T01:51:33",
-    "brand": "Adidas",
-    "confidence": 0.68,
-    "dwell_seconds": 4.2
-  },
-  {
-    "timestamp": "2026-06-16T01:52:46",
-    "brand": "Red Bull",
-    "confidence": 0.67,
-    "dwell_seconds": 1.8
-  },
-  {
-    "timestamp": "2026-06-16T01:53:33",
-    "brand": "Apple",
-    "confidence": 0.69,
-    "dwell_seconds": 3.0
-  },
-  {
-    "timestamp": "2026-06-16T01:55:00",
-    "brand": "Red Bull",
-    "confidence": 0.68,
-    "dwell_seconds": 1.2
-  },
-  {
     "timestamp": "2026-06-16T01:55:50",
     "brand": "Apple",
     "confidence": 0.82,
@@ -820,12 +598,6 @@
     "brand": "Spotify",
     "confidence": 0.75,
     "dwell_seconds": 3.8
-  },
-  {
-    "timestamp": "2026-06-16T01:57:18",
-    "brand": "Apple",
-    "confidence": 0.68,
-    "dwell_seconds": 4.4
   },
   {
     "timestamp": "2026-06-16T01:58:45",
@@ -888,22 +660,10 @@
     "dwell_seconds": 2.6
   },
   {
-    "timestamp": "2026-06-16T02:07:08",
-    "brand": "Spotify",
-    "confidence": 0.63,
-    "dwell_seconds": 2.7
-  },
-  {
     "timestamp": "2026-06-16T02:08:22",
     "brand": "Adidas",
     "confidence": 0.91,
     "dwell_seconds": 0.5
-  },
-  {
-    "timestamp": "2026-06-16T02:09:05",
-    "brand": "Spotify",
-    "confidence": 0.6,
-    "dwell_seconds": 4.8
   },
   {
     "timestamp": "2026-06-16T02:09:59",
@@ -948,22 +708,10 @@
     "dwell_seconds": 0.8
   },
   {
-    "timestamp": "2026-06-16T02:15:50",
-    "brand": "Apple",
-    "confidence": 0.67,
-    "dwell_seconds": 4.2
-  },
-  {
     "timestamp": "2026-06-16T02:16:49",
     "brand": "Spotify",
     "confidence": 0.77,
     "dwell_seconds": 3.0
-  },
-  {
-    "timestamp": "2026-06-16T02:16:59",
-    "brand": "Nike",
-    "confidence": 0.68,
-    "dwell_seconds": 1.6
   },
   {
     "timestamp": "2026-06-16T02:18:08",
@@ -976,12 +724,6 @@
     "brand": "Spotify",
     "confidence": 0.93,
     "dwell_seconds": 5.9
-  },
-  {
-    "timestamp": "2026-06-16T02:20:24",
-    "brand": "Nike",
-    "confidence": 0.61,
-    "dwell_seconds": 5.4
   },
   {
     "timestamp": "2026-06-16T02:21:11",
@@ -1008,12 +750,6 @@
     "dwell_seconds": 2.9
   },
   {
-    "timestamp": "2026-06-16T02:24:43",
-    "brand": "Adidas",
-    "confidence": 0.65,
-    "dwell_seconds": 2.7
-  },
-  {
     "timestamp": "2026-06-16T02:25:03",
     "brand": "Coca-Cola",
     "confidence": 0.89,
@@ -1024,30 +760,6 @@
     "brand": "Apple",
     "confidence": 0.87,
     "dwell_seconds": 2.0
-  },
-  {
-    "timestamp": "2026-06-16T02:27:51",
-    "brand": "Adidas",
-    "confidence": 0.68,
-    "dwell_seconds": 1.7
-  },
-  {
-    "timestamp": "2026-06-16T02:28:41",
-    "brand": "Coca-Cola",
-    "confidence": 0.64,
-    "dwell_seconds": 2.8
-  },
-  {
-    "timestamp": "2026-06-16T02:29:43",
-    "brand": "Red Bull",
-    "confidence": 0.6,
-    "dwell_seconds": 1.5
-  },
-  {
-    "timestamp": "2026-06-16T02:31:15",
-    "brand": "Apple",
-    "confidence": 0.63,
-    "dwell_seconds": 5.9
   },
   {
     "timestamp": "2026-06-16T02:32:42",
@@ -1128,12 +840,6 @@
     "dwell_seconds": 1.7
   },
   {
-    "timestamp": "2026-06-16T02:46:41",
-    "brand": "Adidas",
-    "confidence": 0.62,
-    "dwell_seconds": 1.5
-  },
-  {
     "timestamp": "2026-06-16T02:47:59",
     "brand": "Spotify",
     "confidence": 0.8,
@@ -1146,12 +852,6 @@
     "dwell_seconds": 3.1
   },
   {
-    "timestamp": "2026-06-16T02:49:42",
-    "brand": "Apple",
-    "confidence": 0.69,
-    "dwell_seconds": 3.0
-  },
-  {
     "timestamp": "2026-06-16T02:50:04",
     "brand": "Coca-Cola",
     "confidence": 0.86,
@@ -1162,12 +862,6 @@
     "brand": "Spotify",
     "confidence": 0.76,
     "dwell_seconds": 5.5
-  },
-  {
-    "timestamp": "2026-06-16T02:51:22",
-    "brand": "Red Bull",
-    "confidence": 0.65,
-    "dwell_seconds": 4.2
   },
   {
     "timestamp": "2026-06-16T02:52:11",
@@ -1206,12 +900,6 @@
     "dwell_seconds": 1.8
   },
   {
-    "timestamp": "2026-06-16T02:56:28",
-    "brand": "Red Bull",
-    "confidence": 0.63,
-    "dwell_seconds": 1.6
-  },
-  {
     "timestamp": "2026-06-16T02:56:53",
     "brand": "Spotify",
     "confidence": 0.96,
@@ -1222,12 +910,6 @@
     "brand": "Coca-Cola",
     "confidence": 0.75,
     "dwell_seconds": 2.9
-  },
-  {
-    "timestamp": "2026-06-16T02:58:31",
-    "brand": "Apple",
-    "confidence": 0.62,
-    "dwell_seconds": 2.4
   },
   {
     "timestamp": "2026-06-16T02:59:24",
@@ -1308,12 +990,6 @@
     "dwell_seconds": 5.8
   },
   {
-    "timestamp": "2026-06-16T03:12:56",
-    "brand": "Red Bull",
-    "confidence": 0.61,
-    "dwell_seconds": 3.6
-  },
-  {
     "timestamp": "2026-06-16T03:13:11",
     "brand": "Nike",
     "confidence": 0.75,
@@ -1344,12 +1020,6 @@
     "dwell_seconds": 1.2
   },
   {
-    "timestamp": "2026-06-16T03:16:06",
-    "brand": "Red Bull",
-    "confidence": 0.62,
-    "dwell_seconds": 0.8
-  },
-  {
     "timestamp": "2026-06-16T03:17:17",
     "brand": "Adidas",
     "confidence": 0.94,
@@ -1374,22 +1044,10 @@
     "dwell_seconds": 5.8
   },
   {
-    "timestamp": "2026-06-16T03:20:04",
-    "brand": "Red Bull",
-    "confidence": 0.67,
-    "dwell_seconds": 3.2
-  },
-  {
     "timestamp": "2026-06-16T03:21:14",
     "brand": "Spotify",
     "confidence": 0.86,
     "dwell_seconds": 3.4
-  },
-  {
-    "timestamp": "2026-06-16T03:22:39",
-    "brand": "Coca-Cola",
-    "confidence": 0.67,
-    "dwell_seconds": 1.3
   },
   {
     "timestamp": "2026-06-16T03:23:42",
@@ -1404,12 +1062,6 @@
     "dwell_seconds": 5.2
   },
   {
-    "timestamp": "2026-06-16T03:26:07",
-    "brand": "Red Bull",
-    "confidence": 0.64,
-    "dwell_seconds": 3.4
-  },
-  {
     "timestamp": "2026-06-16T03:27:13",
     "brand": "Apple",
     "confidence": 0.73,
@@ -1420,12 +1072,6 @@
     "brand": "Coca-Cola",
     "confidence": 0.9,
     "dwell_seconds": 2.0
-  },
-  {
-    "timestamp": "2026-06-16T03:29:13",
-    "brand": "Spotify",
-    "confidence": 0.67,
-    "dwell_seconds": 4.4
   },
   {
     "timestamp": "2026-06-16T03:30:46",
@@ -1464,12 +1110,6 @@
     "dwell_seconds": 0.9
   },
   {
-    "timestamp": "2026-06-16T03:37:47",
-    "brand": "Coca-Cola",
-    "confidence": 0.68,
-    "dwell_seconds": 4.7
-  },
-  {
     "timestamp": "2026-06-16T03:38:52",
     "brand": "Nike",
     "confidence": 0.94,
@@ -1504,12 +1144,6 @@
     "brand": "Nike",
     "confidence": 0.88,
     "dwell_seconds": 5.1
-  },
-  {
-    "timestamp": "2026-06-16T03:47:18",
-    "brand": "Adidas",
-    "confidence": 0.67,
-    "dwell_seconds": 3.5
   },
   {
     "timestamp": "2026-06-16T03:48:13",
@@ -1596,18 +1230,6 @@
     "dwell_seconds": 2.7
   },
   {
-    "timestamp": "2026-06-16T03:58:45",
-    "brand": "Adidas",
-    "confidence": 0.61,
-    "dwell_seconds": 3.5
-  },
-  {
-    "timestamp": "2026-06-16T03:58:49",
-    "brand": "Red Bull",
-    "confidence": 0.68,
-    "dwell_seconds": 3.6
-  },
-  {
     "timestamp": "2026-06-16T04:00:22",
     "brand": "Coca-Cola",
     "confidence": 0.79,
@@ -1668,22 +1290,10 @@
     "dwell_seconds": 3.0
   },
   {
-    "timestamp": "2026-06-16T04:08:39",
-    "brand": "Nike",
-    "confidence": 0.68,
-    "dwell_seconds": 5.0
-  },
-  {
     "timestamp": "2026-06-16T04:08:40",
     "brand": "Adidas",
     "confidence": 0.77,
     "dwell_seconds": 3.1
-  },
-  {
-    "timestamp": "2026-06-16T04:09:59",
-    "brand": "Spotify",
-    "confidence": 0.69,
-    "dwell_seconds": 4.4
   },
   {
     "timestamp": "2026-06-16T04:10:23",
@@ -1722,28 +1332,10 @@
     "dwell_seconds": 2.5
   },
   {
-    "timestamp": "2026-06-16T04:16:33",
-    "brand": "Adidas",
-    "confidence": 0.68,
-    "dwell_seconds": 0.7
-  },
-  {
-    "timestamp": "2026-06-16T04:17:49",
-    "brand": "Coca-Cola",
-    "confidence": 0.64,
-    "dwell_seconds": 1.2
-  },
-  {
     "timestamp": "2026-06-16T04:18:52",
     "brand": "Apple",
     "confidence": 0.7,
     "dwell_seconds": 3.4
-  },
-  {
-    "timestamp": "2026-06-16T04:19:21",
-    "brand": "Nike",
-    "confidence": 0.65,
-    "dwell_seconds": 3.5
   },
   {
     "timestamp": "2026-06-16T04:19:42",
@@ -1770,34 +1362,16 @@
     "dwell_seconds": 4.7
   },
   {
-    "timestamp": "2026-06-16T04:22:36",
-    "brand": "Nike",
-    "confidence": 0.69,
-    "dwell_seconds": 1.4
-  },
-  {
     "timestamp": "2026-06-16T04:22:54",
     "brand": "Adidas",
     "confidence": 0.78,
     "dwell_seconds": 4.5
   },
   {
-    "timestamp": "2026-06-16T04:24:24",
-    "brand": "Spotify",
-    "confidence": 0.62,
-    "dwell_seconds": 2.6
-  },
-  {
     "timestamp": "2026-06-16T04:24:39",
     "brand": "Nike",
     "confidence": 0.78,
     "dwell_seconds": 3.6
-  },
-  {
-    "timestamp": "2026-06-16T04:25:19",
-    "brand": "Coca-Cola",
-    "confidence": 0.6,
-    "dwell_seconds": 3.8
   },
   {
     "timestamp": "2026-06-16T04:25:20",
@@ -1824,34 +1398,10 @@
     "dwell_seconds": 5.3
   },
   {
-    "timestamp": "2026-06-16T04:28:46",
-    "brand": "Nike",
-    "confidence": 0.69,
-    "dwell_seconds": 1.9
-  },
-  {
     "timestamp": "2026-06-16T04:29:30",
     "brand": "Spotify",
     "confidence": 0.99,
     "dwell_seconds": 0.5
-  },
-  {
-    "timestamp": "2026-06-16T04:30:38",
-    "brand": "Spotify",
-    "confidence": 0.61,
-    "dwell_seconds": 1.9
-  },
-  {
-    "timestamp": "2026-06-16T04:31:50",
-    "brand": "Red Bull",
-    "confidence": 0.68,
-    "dwell_seconds": 2.9
-  },
-  {
-    "timestamp": "2026-06-16T04:32:50",
-    "brand": "Apple",
-    "confidence": 0.69,
-    "dwell_seconds": 4.4
   },
   {
     "timestamp": "2026-06-16T04:34:21",
@@ -1902,12 +1452,6 @@
     "dwell_seconds": 2.6
   },
   {
-    "timestamp": "2026-06-16T04:39:42",
-    "brand": "Adidas",
-    "confidence": 0.62,
-    "dwell_seconds": 5.7
-  },
-  {
     "timestamp": "2026-06-16T04:40:57",
     "brand": "Adidas",
     "confidence": 0.8,
@@ -1918,12 +1462,6 @@
     "brand": "Nike",
     "confidence": 0.98,
     "dwell_seconds": 3.3
-  },
-  {
-    "timestamp": "2026-06-16T04:42:39",
-    "brand": "Red Bull",
-    "confidence": 0.62,
-    "dwell_seconds": 1.6
   },
   {
     "timestamp": "2026-06-16T04:42:42",
@@ -1960,12 +1498,6 @@
     "brand": "Nike",
     "confidence": 0.96,
     "dwell_seconds": 2.2
-  },
-  {
-    "timestamp": "2026-06-16T04:49:19",
-    "brand": "Coca-Cola",
-    "confidence": 0.65,
-    "dwell_seconds": 2.6
   },
   {
     "timestamp": "2026-06-16T04:50:05",
@@ -2016,28 +1548,10 @@
     "dwell_seconds": 4.0
   },
   {
-    "timestamp": "2026-06-16T04:57:23",
-    "brand": "Spotify",
-    "confidence": 0.65,
-    "dwell_seconds": 2.6
-  },
-  {
-    "timestamp": "2026-06-16T04:58:44",
-    "brand": "Nike",
-    "confidence": 0.66,
-    "dwell_seconds": 0.8
-  },
-  {
     "timestamp": "2026-06-16T04:59:07",
     "brand": "Spotify",
     "confidence": 0.85,
     "dwell_seconds": 2.0
-  },
-  {
-    "timestamp": "2026-06-16T05:00:22",
-    "brand": "Adidas",
-    "confidence": 0.65,
-    "dwell_seconds": 1.7
   },
   {
     "timestamp": "2026-06-16T05:01:02",
@@ -2088,34 +1602,10 @@
     "dwell_seconds": 0.8
   },
   {
-    "timestamp": "2026-06-16T05:09:17",
-    "brand": "Apple",
-    "confidence": 0.69,
-    "dwell_seconds": 3.5
-  },
-  {
-    "timestamp": "2026-06-16T05:10:00",
-    "brand": "Coca-Cola",
-    "confidence": 0.61,
-    "dwell_seconds": 5.9
-  },
-  {
     "timestamp": "2026-06-16T05:11:23",
     "brand": "Apple",
     "confidence": 0.91,
     "dwell_seconds": 2.9
-  },
-  {
-    "timestamp": "2026-06-16T05:12:29",
-    "brand": "Coca-Cola",
-    "confidence": 0.68,
-    "dwell_seconds": 1.4
-  },
-  {
-    "timestamp": "2026-06-16T05:12:35",
-    "brand": "Apple",
-    "confidence": 0.68,
-    "dwell_seconds": 1.3
   },
   {
     "timestamp": "2026-06-16T05:12:45",
@@ -2130,18 +1620,6 @@
     "dwell_seconds": 1.9
   },
   {
-    "timestamp": "2026-06-16T05:14:26",
-    "brand": "Coca-Cola",
-    "confidence": 0.62,
-    "dwell_seconds": 2.8
-  },
-  {
-    "timestamp": "2026-06-16T05:15:22",
-    "brand": "Apple",
-    "confidence": 0.66,
-    "dwell_seconds": 3.6
-  },
-  {
     "timestamp": "2026-06-16T05:16:58",
     "brand": "Nike",
     "confidence": 0.71,
@@ -2152,12 +1630,6 @@
     "brand": "Red Bull",
     "confidence": 0.79,
     "dwell_seconds": 5.9
-  },
-  {
-    "timestamp": "2026-06-16T05:18:03",
-    "brand": "Nike",
-    "confidence": 0.63,
-    "dwell_seconds": 4.5
   },
   {
     "timestamp": "2026-06-16T05:18:30",
@@ -2286,22 +1758,10 @@
     "dwell_seconds": 4.0
   },
   {
-    "timestamp": "2026-06-16T05:37:21",
-    "brand": "Adidas",
-    "confidence": 0.67,
-    "dwell_seconds": 4.4
-  },
-  {
     "timestamp": "2026-06-16T05:37:31",
     "brand": "Apple",
     "confidence": 0.84,
     "dwell_seconds": 1.7
-  },
-  {
-    "timestamp": "2026-06-16T05:38:05",
-    "brand": "Adidas",
-    "confidence": 0.65,
-    "dwell_seconds": 1.2
   },
   {
     "timestamp": "2026-06-16T05:39:40",
@@ -2334,12 +1794,6 @@
     "dwell_seconds": 5.5
   },
   {
-    "timestamp": "2026-06-16T05:43:25",
-    "brand": "Adidas",
-    "confidence": 0.67,
-    "dwell_seconds": 2.9
-  },
-  {
     "timestamp": "2026-06-16T05:43:56",
     "brand": "Adidas",
     "confidence": 0.77,
@@ -2368,12 +1822,6 @@
     "brand": "Spotify",
     "confidence": 0.83,
     "dwell_seconds": 5.5
-  },
-  {
-    "timestamp": "2026-06-16T05:48:11",
-    "brand": "Red Bull",
-    "confidence": 0.63,
-    "dwell_seconds": 1.8
   },
   {
     "timestamp": "2026-06-16T05:48:27",
@@ -2436,12 +1884,6 @@
     "dwell_seconds": 2.4
   },
   {
-    "timestamp": "2026-06-16T05:56:43",
-    "brand": "Nike",
-    "confidence": 0.67,
-    "dwell_seconds": 1.4
-  },
-  {
     "timestamp": "2026-06-16T05:57:48",
     "brand": "Nike",
     "confidence": 0.83,
@@ -2458,12 +1900,6 @@
     "brand": "Spotify",
     "confidence": 0.72,
     "dwell_seconds": 5.9
-  },
-  {
-    "timestamp": "2026-06-16T06:00:40",
-    "brand": "Apple",
-    "confidence": 0.66,
-    "dwell_seconds": 4.9
   },
   {
     "timestamp": "2026-06-16T06:01:05",
@@ -2514,12 +1950,6 @@
     "dwell_seconds": 2.7
   },
   {
-    "timestamp": "2026-06-16T06:06:46",
-    "brand": "Spotify",
-    "confidence": 0.67,
-    "dwell_seconds": 0.7
-  },
-  {
     "timestamp": "2026-06-16T06:08:01",
     "brand": "Coca-Cola",
     "confidence": 0.93,
@@ -2538,12 +1968,6 @@
     "dwell_seconds": 0.6
   },
   {
-    "timestamp": "2026-06-16T06:11:20",
-    "brand": "Apple",
-    "confidence": 0.67,
-    "dwell_seconds": 1.8
-  },
-  {
     "timestamp": "2026-06-16T06:11:45",
     "brand": "Red Bull",
     "confidence": 0.75,
@@ -2554,12 +1978,6 @@
     "brand": "Nike",
     "confidence": 0.72,
     "dwell_seconds": 2.6
-  },
-  {
-    "timestamp": "2026-06-16T06:13:58",
-    "brand": "Nike",
-    "confidence": 0.68,
-    "dwell_seconds": 1.4
   },
   {
     "timestamp": "2026-06-16T06:14:54",
@@ -2590,12 +2008,6 @@
     "brand": "Nike",
     "confidence": 0.76,
     "dwell_seconds": 4.8
-  },
-  {
-    "timestamp": "2026-06-16T06:20:15",
-    "brand": "Coca-Cola",
-    "confidence": 0.66,
-    "dwell_seconds": 6.0
   },
   {
     "timestamp": "2026-06-16T06:21:22",
@@ -2658,12 +2070,6 @@
     "dwell_seconds": 1.1
   },
   {
-    "timestamp": "2026-06-16T06:29:04",
-    "brand": "Adidas",
-    "confidence": 0.62,
-    "dwell_seconds": 2.2
-  },
-  {
     "timestamp": "2026-06-16T06:30:20",
     "brand": "Spotify",
     "confidence": 0.89,
@@ -2686,18 +2092,6 @@
     "brand": "Red Bull",
     "confidence": 0.76,
     "dwell_seconds": 3.9
-  },
-  {
-    "timestamp": "2026-06-16T06:33:39",
-    "brand": "Apple",
-    "confidence": 0.63,
-    "dwell_seconds": 5.4
-  },
-  {
-    "timestamp": "2026-06-16T06:33:48",
-    "brand": "Adidas",
-    "confidence": 0.69,
-    "dwell_seconds": 4.7
   },
   {
     "timestamp": "2026-06-16T06:33:56",
@@ -2730,12 +2124,6 @@
     "dwell_seconds": 3.9
   },
   {
-    "timestamp": "2026-06-16T06:38:44",
-    "brand": "Adidas",
-    "confidence": 0.65,
-    "dwell_seconds": 3.9
-  },
-  {
     "timestamp": "2026-06-16T06:39:59",
     "brand": "Adidas",
     "confidence": 0.94,
@@ -2764,18 +2152,6 @@
     "brand": "Nike",
     "confidence": 0.82,
     "dwell_seconds": 3.8
-  },
-  {
-    "timestamp": "2026-06-16T06:44:42",
-    "brand": "Nike",
-    "confidence": 0.61,
-    "dwell_seconds": 1.3
-  },
-  {
-    "timestamp": "2026-06-16T06:46:02",
-    "brand": "Spotify",
-    "confidence": 0.6,
-    "dwell_seconds": 2.2
   },
   {
     "timestamp": "2026-06-16T06:47:18",
@@ -2814,18 +2190,6 @@
     "dwell_seconds": 2.3
   },
   {
-    "timestamp": "2026-06-16T06:50:22",
-    "brand": "Spotify",
-    "confidence": 0.62,
-    "dwell_seconds": 3.4
-  },
-  {
-    "timestamp": "2026-06-16T06:51:53",
-    "brand": "Nike",
-    "confidence": 0.66,
-    "dwell_seconds": 5.7
-  },
-  {
     "timestamp": "2026-06-16T06:53:15",
     "brand": "Adidas",
     "confidence": 0.81,
@@ -2836,12 +2200,6 @@
     "brand": "Red Bull",
     "confidence": 0.85,
     "dwell_seconds": 4.4
-  },
-  {
-    "timestamp": "2026-06-16T06:53:53",
-    "brand": "Nike",
-    "confidence": 0.65,
-    "dwell_seconds": 2.2
   },
   {
     "timestamp": "2026-06-16T06:54:34",
@@ -2856,12 +2214,6 @@
     "dwell_seconds": 5.1
   },
   {
-    "timestamp": "2026-06-16T06:55:30",
-    "brand": "Nike",
-    "confidence": 0.62,
-    "dwell_seconds": 2.9
-  },
-  {
     "timestamp": "2026-06-16T06:55:34",
     "brand": "Adidas",
     "confidence": 0.87,
@@ -2874,34 +2226,10 @@
     "dwell_seconds": 4.9
   },
   {
-    "timestamp": "2026-06-16T06:56:50",
-    "brand": "Nike",
-    "confidence": 0.66,
-    "dwell_seconds": 5.1
-  },
-  {
-    "timestamp": "2026-06-16T06:57:03",
-    "brand": "Spotify",
-    "confidence": 0.66,
-    "dwell_seconds": 5.8
-  },
-  {
     "timestamp": "2026-06-16T06:58:17",
     "brand": "Spotify",
     "confidence": 0.84,
     "dwell_seconds": 1.8
-  },
-  {
-    "timestamp": "2026-06-16T06:59:54",
-    "brand": "Spotify",
-    "confidence": 0.69,
-    "dwell_seconds": 4.9
-  },
-  {
-    "timestamp": "2026-06-16T07:01:15",
-    "brand": "Apple",
-    "confidence": 0.66,
-    "dwell_seconds": 3.9
   },
   {
     "timestamp": "2026-06-16T07:02:51",
@@ -2914,30 +2242,6 @@
     "brand": "Spotify",
     "confidence": 0.95,
     "dwell_seconds": 3.9
-  },
-  {
-    "timestamp": "2026-06-16T07:04:33",
-    "brand": "Nike",
-    "confidence": 0.64,
-    "dwell_seconds": 4.8
-  },
-  {
-    "timestamp": "2026-06-16T07:04:45",
-    "brand": "Adidas",
-    "confidence": 0.63,
-    "dwell_seconds": 3.8
-  },
-  {
-    "timestamp": "2026-06-16T07:06:21",
-    "brand": "Red Bull",
-    "confidence": 0.66,
-    "dwell_seconds": 2.5
-  },
-  {
-    "timestamp": "2026-06-16T07:06:55",
-    "brand": "Red Bull",
-    "confidence": 0.66,
-    "dwell_seconds": 3.7
   },
   {
     "timestamp": "2026-06-16T07:08:28",
@@ -2980,18 +2284,6 @@
     "brand": "Adidas",
     "confidence": 0.87,
     "dwell_seconds": 1.8
-  },
-  {
-    "timestamp": "2026-06-16T07:15:10",
-    "brand": "Apple",
-    "confidence": 0.64,
-    "dwell_seconds": 0.6
-  },
-  {
-    "timestamp": "2026-06-16T07:16:25",
-    "brand": "Coca-Cola",
-    "confidence": 0.69,
-    "dwell_seconds": 1.0
   },
   {
     "timestamp": "2026-06-16T07:17:19",
