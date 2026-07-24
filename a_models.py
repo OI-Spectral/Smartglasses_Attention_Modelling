@@ -1,3 +1,5 @@
+import json
+
 class Event:
         def __init__(self, timestamp, brand, confidence, dwell_seconds):
             self.timestamp = timestamp
@@ -14,10 +16,27 @@ class Event:
              "confidence": self.confidence, 
              "dwell_seconds": self.dwell_seconds}
 
+        def is_low_confidence(self, threshold = 0.7):
+            return self.confidence < threshold
+        
 class Session:
     def __init__(self, events: list[Event]):
         self.events = events
-    
+
+    def confidence_filter(self):
+        low_confidence_events = [e.to_dict() for e in self.events if e.is_low_confidence()]
+        high_confidence_events = [e.to_dict() for e in self.events if not e.is_low_confidence()]
+
+        with open("low_confidence.json", "w") as f:
+            json.dump(low_confidence_events, f, indent=2)
+       
+        with open("high_confidence.json", "w") as f:
+            json.dump(high_confidence_events, f, indent=2)
+       
+        print(f"Removed {len(low_confidence_events)} low confidence events.")
+
+        return [Event(event["timestamp"], event["brand"], event["confidence"], event["dwell_seconds"]) for event in high_confidence_events] 
+
     def dwell_time_by_brand(self):
         dwell = {}
         for event in self.events:
