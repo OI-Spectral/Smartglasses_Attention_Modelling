@@ -2,7 +2,7 @@ import json
 import pandas as pd 
 import matplotlib.pyplot as plt
 from a_models import Event, Session
-from database import load_database
+from database_upgraded import load_database
 
 # def load_events(filetitle):
 #     try:    
@@ -36,7 +36,7 @@ def dwell_time_information(args):
     session = Session(confidence_filtered)
     dwell = session.dwell_time_by_brand()
     session.report(dwell)
-    session.top_brands(n = args.top)
+    session.heapq_top_brands(n = args.top)
     session.exposure_per_hour()
 
 def dataframe():

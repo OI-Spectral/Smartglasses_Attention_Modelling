@@ -69,3 +69,12 @@ class Session:
         sorted_brands = sorted(brand_seconds.items(), key=lambda x: x[1], reverse=True)
         top_n_brands = [x[0] for x in sorted_brands[:n]]
         print(f"Top {n} brands by dwell time are {top_n_brands}")
+
+    def heapq_top_brands(self, n):
+        import heapq
+        brand_seconds = {}
+        for event in self.events:
+            brand = event.brand
+            brand_seconds[brand] = brand_seconds.get(brand, 0) + event.dwell_seconds
+        top_n_brands = heapq.nlargest(n, brand_seconds.items(), key = lambda x: x[1])
+        print(f"Top {n} brands in dwell time are {[x[0] for x in top_n_brands]}")

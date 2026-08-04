@@ -12,5 +12,7 @@ pyparsing==3.3.2
 python-dateutil==2.9.0.post0
 pytz==2026.2
 six==1.17.0
+sqlalchemy==2.0.51
+typing-extensions==4.16.0
 tzdata==2026.2
 zipp==3.23.1

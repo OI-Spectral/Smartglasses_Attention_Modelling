@@ -1,6 +1,6 @@
 import argparse
 from b_report import dwell_time_information, dataframe
-from database import create_database
+from database_upgraded import write_to_database
 
 def inputs():
     parser = argparse.ArgumentParser(description="Generate events and analyse dwell time by brand.")
@@ -14,7 +14,7 @@ def inputs():
 
 if __name__ == "__main__":
     args = inputs()
-    create_database(args)
+    write_to_database(args)
     dwell_time_information(args)
     dataframe()
 
