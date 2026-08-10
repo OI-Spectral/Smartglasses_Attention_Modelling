@@ -18,6 +18,7 @@ class Brand_Table(Base):
 class Event_Table(Base):
     __tablename__ = "events"
     id: Mapped[int] = mapped_column(primary_key=True)
+    session_id: Mapped[int] = mapped_column(index=True)
     timestamp: Mapped[str] = mapped_column(index=True)
     brand_id: Mapped[int] = mapped_column(ForeignKey("brands.id"), index=True)
     confidence: Mapped[float]
@@ -27,6 +28,8 @@ class Event_Table(Base):
 Base.metadata.create_all(engine)
 
 def write_to_database(args):
+    Base.metadata.drop_all(engine)
+    Base.metadata.create_all(engine)
     with Session(engine) as session:
         with open(args.events_file, "r") as f:
             events = json.load(f)
@@ -43,14 +46,14 @@ def write_to_database(args):
                 session.add(brand)
                 brand_dict[name] = brand
             
-            session.add(Event_Table(timestamp = event["timestamp"], brand = brand, confidence = event["confidence"], dwell_time = event["dwell_seconds"]))
+            session.add(Event_Table(session_id = event["session_id"], timestamp = event["timestamp"], brand = brand, confidence = event["confidence"], dwell_time = event["dwell_seconds"]))
 
         session.commit()
 
 def load_database():
     with Session(engine) as session:
         events = session.scalars(select(Event_Table)).all()
-        return [Event(e.timestamp, e.brand.name, e.confidence, e.dwell_time) for e in events]
+        return [Event(e.session_id, e.timestamp, e.brand.name, e.confidence, e.dwell_time) for e in events]
 
 def total_dwell_per_brand():
     with Session(engine) as session:

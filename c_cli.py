@@ -1,6 +1,8 @@
 import argparse
 from b_report import dwell_time_information, dataframe
-from database_upgraded import write_to_database
+from database_upgraded import load_database, write_to_database
+from e_algorithmns import adjacency_list, bfs
+from a_models import Session
 
 def inputs():
     parser = argparse.ArgumentParser(description="Generate events and analyse dwell time by brand.")
@@ -16,6 +18,7 @@ if __name__ == "__main__":
     args = inputs()
     write_to_database(args)
     dwell_time_information(args)
-    dataframe()
+    dataframe() 
+    bfs(adjacency_list(Session(load_database())), "Adidas", 1)
 
     

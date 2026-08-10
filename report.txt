@@ -1,6 +1,26 @@
-Spotify dwell time: 242.0 seconds.
-Nike dwell time: 193.2 seconds.
-Adidas dwell time: 235.0 seconds.
-Red Bull dwell time: 235.9 seconds.
-Apple dwell time: 191.2 seconds.
-Coca-Cola dwell time: 152.9 seconds.
+Trainline dwell time: 400.9 seconds.
+Zara dwell time: 1053.0 seconds.
+Apple dwell time: 1449.6 seconds.
+Sephora dwell time: 849.9 seconds.
+Uniqlo dwell time: 980.5 seconds.
+H&M dwell time: 963.0 seconds.
+Nike dwell time: 1264.6 seconds.
+Pret dwell time: 377.5 seconds.
+Innocent dwell time: 386.5 seconds.
+Oatly dwell time: 537.6 seconds.
+Costa dwell time: 735.4 seconds.
+Starbucks dwell time: 262.3 seconds.
+Gatorade dwell time: 536.0 seconds.
+Lucozade dwell time: 407.3 seconds.
+Under Armour dwell time: 623.0 seconds.
+Adidas dwell time: 407.4 seconds.
+Spotify dwell time: 324.0 seconds.
+Heinz dwell time: 769.5 seconds.
+Cadbury dwell time: 660.7 seconds.
+Tesco dwell time: 853.6 seconds.
+Kellogg's dwell time: 764.4 seconds.
+Coca-Cola dwell time: 851.7 seconds.
+Slack dwell time: 501.7 seconds.
+Dell dwell time: 565.2 seconds.
+Post-it dwell time: 517.0 seconds.
+Nespresso dwell time: 758.5 seconds.

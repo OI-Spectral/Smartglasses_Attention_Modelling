@@ -1,19 +1,21 @@
 import json
 
 class Event:
-        def __init__(self, timestamp, brand, confidence, dwell_seconds):
+        def __init__(self, session_id, timestamp, brand, confidence, dwell_seconds):
+            self.session_id = session_id
             self.timestamp = timestamp
             self.brand = brand
             self.confidence = confidence
             self.dwell_seconds = dwell_seconds
 
         def __repr__(self):
-            return f"Event(timestamp={self.timestamp}, brand={self.brand}, confidence={self.confidence}, dwell_seconds={self.dwell_seconds})"
-        
+            return f"Event(session_id={self.session_id}, timestamp={self.timestamp}, brand={self.brand}, confidence={self.confidence}, dwell_seconds={self.dwell_seconds})"
+
         def to_dict(self):
-            return {"timestamp": self.timestamp, 
-             "brand": self.brand, 
-             "confidence": self.confidence, 
+            return {"session_id": self.session_id,
+             "timestamp": self.timestamp,
+             "brand": self.brand,
+             "confidence": self.confidence,
              "dwell_seconds": self.dwell_seconds}
 
         def is_low_confidence(self, threshold = 0.7):
@@ -35,7 +37,7 @@ class Session:
        
         print(f"Removed {len(low_confidence_events)} low confidence events.")
 
-        return [Event(event["timestamp"], event["brand"], event["confidence"], event["dwell_seconds"]) for event in high_confidence_events] 
+        return [Event(event["session_id"], event["timestamp"], event["brand"], event["confidence"], event["dwell_seconds"]) for event in high_confidence_events]
 
     def dwell_time_by_brand(self):
         dwell = {}
