@@ -1,0 +1,8002 @@
+[
+  {
+    "id": 1,
+    "session_id": 2,
+    "timestamp": "2026-01-05T16:08:34.476983+00:00",
+    "brand": "Innocent",
+    "confidence": 0.755,
+    "dwell_seconds": 2.83
+  },
+  {
+    "id": 2,
+    "session_id": 3,
+    "timestamp": "2026-01-05T12:21:13.538476+00:00",
+    "brand": "H&M",
+    "confidence": 0.954,
+    "dwell_seconds": 3.02
+  },
+  {
+    "id": 3,
+    "session_id": 3,
+    "timestamp": "2026-01-05T12:21:25.538476+00:00",
+    "brand": "H&M",
+    "confidence": 0.785,
+    "dwell_seconds": 2.9
+  },
+  {
+    "id": 4,
+    "session_id": 3,
+    "timestamp": "2026-01-05T12:21:41.538476+00:00",
+    "brand": "H&M",
+    "confidence": 0.748,
+    "dwell_seconds": 2.95
+  },
+  {
+    "id": 5,
+    "session_id": 3,
+    "timestamp": "2026-01-05T12:21:48.538476+00:00",
+    "brand": "H&M",
+    "confidence": 0.664,
+    "dwell_seconds": 2.47
+  },
+  {
+    "id": 6,
+    "session_id": 3,
+    "timestamp": "2026-01-05T12:22:03.538476+00:00",
+    "brand": "H&M",
+    "confidence": 0.968,
+    "dwell_seconds": 3.96
+  },
+  {
+    "id": 7,
+    "session_id": 3,
+    "timestamp": "2026-01-05T12:22:22.538476+00:00",
+    "brand": "H&M",
+    "confidence": 0.799,
+    "dwell_seconds": 2.25
+  },
+  {
+    "id": 8,
+    "session_id": 3,
+    "timestamp": "2026-01-05T12:22:39.538476+00:00",
+    "brand": "H&M",
+    "confidence": 0.757,
+    "dwell_seconds": 2.86
+  },
+  {
+    "id": 9,
+    "session_id": 4,
+    "timestamp": "2026-01-06T21:19:41.907900+00:00",
+    "brand": "Netflix",
+    "confidence": 0.852,
+    "dwell_seconds": 3.28
+  },
+  {
+    "id": 10,
+    "session_id": 4,
+    "timestamp": "2026-01-06T21:25:17.907900+00:00",
+    "brand": "Deliveroo",
+    "confidence": 0.865,
+    "dwell_seconds": 3.68
+  },
+  {
+    "id": 11,
+    "session_id": 4,
+    "timestamp": "2026-01-06T21:28:36.907900+00:00",
+    "brand": "Deliveroo",
+    "confidence": 0.793,
+    "dwell_seconds": 4.14
+  },
+  {
+    "id": 12,
+    "session_id": 4,
+    "timestamp": "2026-01-06T21:33:08.907900+00:00",
+    "brand": "Samsung",
+    "confidence": 0.731,
+    "dwell_seconds": 2.88
+  },
+  {
+    "id": 13,
+    "session_id": 4,
+    "timestamp": "2026-01-06T21:36:04.907900+00:00",
+    "brand": "Samsung",
+    "confidence": 0.768,
+    "dwell_seconds": 3.33
+  },
+  {
+    "id": 14,
+    "session_id": 4,
+    "timestamp": "2026-01-06T21:39:23.907900+00:00",
+    "brand": "Samsung",
+    "confidence": 0.918,
+    "dwell_seconds": 2.53
+  },
+  {
+    "id": 15,
+    "session_id": 4,
+    "timestamp": "2026-01-06T21:44:03.907900+00:00",
+    "brand": "Samsung",
+    "confidence": 0.876,
+    "dwell_seconds": 3.57
+  },
+  {
+    "id": 16,
+    "session_id": 4,
+    "timestamp": "2026-01-06T21:46:30.907900+00:00",
+    "brand": "Samsung",
+    "confidence": 0.891,
+    "dwell_seconds": 3.59
+  },
+  {
+    "id": 17,
+    "session_id": 4,
+    "timestamp": "2026-01-06T21:51:46.907900+00:00",
+    "brand": "Samsung",
+    "confidence": 0.671,
+    "dwell_seconds": 2.63
+  },
+  {
+    "id": 18,
+    "session_id": 4,
+    "timestamp": "2026-01-06T21:55:01.907900+00:00",
+    "brand": "Samsung",
+    "confidence": 0.943,
+    "dwell_seconds": 3.17
+  },
+  {
+    "id": 19,
+    "session_id": 4,
+    "timestamp": "2026-01-06T21:57:22.907900+00:00",
+    "brand": "Netflix",
+    "confidence": 0.814,
+    "dwell_seconds": 3.05
+  },
+  {
+    "id": 20,
+    "session_id": 4,
+    "timestamp": "2026-01-06T21:58:58.907900+00:00",
+    "brand": "Netflix",
+    "confidence": 0.843,
+    "dwell_seconds": 4.15
+  },
+  {
+    "id": 21,
+    "session_id": 4,
+    "timestamp": "2026-01-06T22:00:58.907900+00:00",
+    "brand": "Netflix",
+    "confidence": 0.773,
+    "dwell_seconds": 3.55
+  },
+  {
+    "id": 22,
+    "session_id": 4,
+    "timestamp": "2026-01-06T22:05:44.907900+00:00",
+    "brand": "Netflix",
+    "confidence": 0.89,
+    "dwell_seconds": 3.14
+  },
+  {
+    "id": 23,
+    "session_id": 4,
+    "timestamp": "2026-01-06T22:09:54.907900+00:00",
+    "brand": "Netflix",
+    "confidence": 0.738,
+    "dwell_seconds": 3.46
+  },
+  {
+    "id": 24,
+    "session_id": 4,
+    "timestamp": "2026-01-06T22:12:33.907900+00:00",
+    "brand": "IKEA",
+    "confidence": 0.849,
+    "dwell_seconds": 3.33
+  },
+  {
+    "id": 25,
+    "session_id": 4,
+    "timestamp": "2026-01-06T22:17:26.907900+00:00",
+    "brand": "Sony",
+    "confidence": 0.884,
+    "dwell_seconds": 3.83
+  },
+  {
+    "id": 26,
+    "session_id": 4,
+    "timestamp": "2026-01-06T22:23:18.907900+00:00",
+    "brand": "Sony",
+    "confidence": 0.819,
+    "dwell_seconds": 2.94
+  },
+  {
+    "id": 27,
+    "session_id": 4,
+    "timestamp": "2026-01-06T22:27:38.907900+00:00",
+    "brand": "IKEA",
+    "confidence": 0.904,
+    "dwell_seconds": 3.32
+  },
+  {
+    "id": 28,
+    "session_id": 4,
+    "timestamp": "2026-01-06T22:32:49.907900+00:00",
+    "brand": "IKEA",
+    "confidence": 0.838,
+    "dwell_seconds": 2.87
+  },
+  {
+    "id": 29,
+    "session_id": 4,
+    "timestamp": "2026-01-06T22:38:14.907900+00:00",
+    "brand": "IKEA",
+    "confidence": 0.916,
+    "dwell_seconds": 3.74
+  },
+  {
+    "id": 30,
+    "session_id": 4,
+    "timestamp": "2026-01-06T22:44:23.907900+00:00",
+    "brand": "IKEA",
+    "confidence": 0.682,
+    "dwell_seconds": 2.65
+  },
+  {
+    "id": 31,
+    "session_id": 5,
+    "timestamp": "2026-01-06T21:04:01.381288+00:00",
+    "brand": "Ben & Jerry's",
+    "confidence": 0.779,
+    "dwell_seconds": 3.42
+  },
+  {
+    "id": 32,
+    "session_id": 5,
+    "timestamp": "2026-01-06T21:05:39.381288+00:00",
+    "brand": "Ben & Jerry's",
+    "confidence": 0.739,
+    "dwell_seconds": 2.9
+  },
+  {
+    "id": 33,
+    "session_id": 5,
+    "timestamp": "2026-01-06T21:06:25.381288+00:00",
+    "brand": "Ben & Jerry's",
+    "confidence": 0.919,
+    "dwell_seconds": 3.41
+  },
+  {
+    "id": 34,
+    "session_id": 5,
+    "timestamp": "2026-01-06T21:09:39.381288+00:00",
+    "brand": "Odeon",
+    "confidence": 0.791,
+    "dwell_seconds": 3.39
+  },
+  {
+    "id": 35,
+    "session_id": 5,
+    "timestamp": "2026-01-06T21:10:56.381288+00:00",
+    "brand": "Odeon",
+    "confidence": 0.712,
+    "dwell_seconds": 3.16
+  },
+  {
+    "id": 36,
+    "session_id": 5,
+    "timestamp": "2026-01-06T21:15:02.381288+00:00",
+    "brand": "Odeon",
+    "confidence": 0.8,
+    "dwell_seconds": 3.8
+  },
+  {
+    "id": 37,
+    "session_id": 5,
+    "timestamp": "2026-01-06T21:19:50.381288+00:00",
+    "brand": "Odeon",
+    "confidence": 0.89,
+    "dwell_seconds": 3.75
+  },
+  {
+    "id": 38,
+    "session_id": 5,
+    "timestamp": "2026-01-06T21:24:01.381288+00:00",
+    "brand": "Odeon",
+    "confidence": 0.925,
+    "dwell_seconds": 3.16
+  },
+  {
+    "id": 39,
+    "session_id": 6,
+    "timestamp": "2026-01-06T09:34:29.264921+00:00",
+    "brand": "Innocent",
+    "confidence": 0.986,
+    "dwell_seconds": 3.21
+  },
+  {
+    "id": 40,
+    "session_id": 6,
+    "timestamp": "2026-01-06T09:36:18.264921+00:00",
+    "brand": "Costa",
+    "confidence": 0.609,
+    "dwell_seconds": 2.96
+  },
+  {
+    "id": 41,
+    "session_id": 6,
+    "timestamp": "2026-01-06T09:39:22.264921+00:00",
+    "brand": "Costa",
+    "confidence": 0.94,
+    "dwell_seconds": 3.17
+  },
+  {
+    "id": 42,
+    "session_id": 6,
+    "timestamp": "2026-01-06T09:41:29.264921+00:00",
+    "brand": "Pret",
+    "confidence": 0.876,
+    "dwell_seconds": 3.48
+  },
+  {
+    "id": 43,
+    "session_id": 6,
+    "timestamp": "2026-01-06T09:43:23.264921+00:00",
+    "brand": "Pret",
+    "confidence": 0.814,
+    "dwell_seconds": 3.08
+  },
+  {
+    "id": 44,
+    "session_id": 6,
+    "timestamp": "2026-01-06T09:45:09.264921+00:00",
+    "brand": "Oatly",
+    "confidence": 0.851,
+    "dwell_seconds": 3.3
+  },
+  {
+    "id": 45,
+    "session_id": 6,
+    "timestamp": "2026-01-06T09:48:03.264921+00:00",
+    "brand": "Oatly",
+    "confidence": 0.822,
+    "dwell_seconds": 3.23
+  },
+  {
+    "id": 46,
+    "session_id": 6,
+    "timestamp": "2026-01-06T09:49:34.264921+00:00",
+    "brand": "Oatly",
+    "confidence": 0.939,
+    "dwell_seconds": 3.53
+  },
+  {
+    "id": 47,
+    "session_id": 6,
+    "timestamp": "2026-01-06T09:50:16.264921+00:00",
+    "brand": "Oatly",
+    "confidence": 0.966,
+    "dwell_seconds": 3.39
+  },
+  {
+    "id": 48,
+    "session_id": 7,
+    "timestamp": "2026-01-07T16:05:00.950972+00:00",
+    "brand": "Sephora",
+    "confidence": 0.78,
+    "dwell_seconds": 3.11
+  },
+  {
+    "id": 49,
+    "session_id": 7,
+    "timestamp": "2026-01-07T16:05:21.950972+00:00",
+    "brand": "Sephora",
+    "confidence": 0.763,
+    "dwell_seconds": 3.78
+  },
+  {
+    "id": 50,
+    "session_id": 7,
+    "timestamp": "2026-01-07T16:05:40.950972+00:00",
+    "brand": "H&M",
+    "confidence": 0.839,
+    "dwell_seconds": 3.42
+  },
+  {
+    "id": 51,
+    "session_id": 7,
+    "timestamp": "2026-01-07T16:05:50.950972+00:00",
+    "brand": "H&M",
+    "confidence": 0.798,
+    "dwell_seconds": 2.89
+  },
+  {
+    "id": 52,
+    "session_id": 7,
+    "timestamp": "2026-01-07T16:06:05.950972+00:00",
+    "brand": "H&M",
+    "confidence": 0.95,
+    "dwell_seconds": 3.43
+  },
+  {
+    "id": 53,
+    "session_id": 7,
+    "timestamp": "2026-01-07T16:06:19.950972+00:00",
+    "brand": "Uniqlo",
+    "confidence": 0.948,
+    "dwell_seconds": 2.74
+  },
+  {
+    "id": 54,
+    "session_id": 7,
+    "timestamp": "2026-01-07T16:06:26.950972+00:00",
+    "brand": "H&M",
+    "confidence": 0.705,
+    "dwell_seconds": 2.32
+  },
+  {
+    "id": 55,
+    "session_id": 7,
+    "timestamp": "2026-01-07T16:06:32.950972+00:00",
+    "brand": "H&M",
+    "confidence": 0.748,
+    "dwell_seconds": 2.98
+  },
+  {
+    "id": 56,
+    "session_id": 7,
+    "timestamp": "2026-01-07T16:06:48.950972+00:00",
+    "brand": "Uniqlo",
+    "confidence": 0.511,
+    "dwell_seconds": 2.72
+  },
+  {
+    "id": 57,
+    "session_id": 7,
+    "timestamp": "2026-01-07T16:07:04.950972+00:00",
+    "brand": "H&M",
+    "confidence": 0.973,
+    "dwell_seconds": 3.45
+  },
+  {
+    "id": 58,
+    "session_id": 7,
+    "timestamp": "2026-01-07T16:07:23.950972+00:00",
+    "brand": "H&M",
+    "confidence": 0.795,
+    "dwell_seconds": 2.6
+  },
+  {
+    "id": 59,
+    "session_id": 7,
+    "timestamp": "2026-01-07T16:07:30.950972+00:00",
+    "brand": "H&M",
+    "confidence": 0.867,
+    "dwell_seconds": 3.19
+  },
+  {
+    "id": 60,
+    "session_id": 7,
+    "timestamp": "2026-01-07T16:07:39.950972+00:00",
+    "brand": "H&M",
+    "confidence": 0.88,
+    "dwell_seconds": 2.38
+  },
+  {
+    "id": 61,
+    "session_id": 7,
+    "timestamp": "2026-01-07T16:07:56.950972+00:00",
+    "brand": "H&M",
+    "confidence": 0.802,
+    "dwell_seconds": 2.53
+  },
+  {
+    "id": 62,
+    "session_id": 7,
+    "timestamp": "2026-01-07T16:08:09.950972+00:00",
+    "brand": "H&M",
+    "confidence": 0.824,
+    "dwell_seconds": 2.46
+  },
+  {
+    "id": 63,
+    "session_id": 7,
+    "timestamp": "2026-01-07T16:08:28.950972+00:00",
+    "brand": "Sephora",
+    "confidence": 0.826,
+    "dwell_seconds": 2.44
+  },
+  {
+    "id": 64,
+    "session_id": 7,
+    "timestamp": "2026-01-07T16:08:32.950972+00:00",
+    "brand": "Sephora",
+    "confidence": 0.739,
+    "dwell_seconds": 3.93
+  },
+  {
+    "id": 65,
+    "session_id": 7,
+    "timestamp": "2026-01-07T16:08:54.950972+00:00",
+    "brand": "Sephora",
+    "confidence": 0.783,
+    "dwell_seconds": 2.65
+  },
+  {
+    "id": 66,
+    "session_id": 7,
+    "timestamp": "2026-01-07T16:09:03.950972+00:00",
+    "brand": "Sephora",
+    "confidence": 0.971,
+    "dwell_seconds": 3.02
+  },
+  {
+    "id": 67,
+    "session_id": 7,
+    "timestamp": "2026-01-07T16:09:26.950972+00:00",
+    "brand": "Sephora",
+    "confidence": 0.869,
+    "dwell_seconds": 3.05
+  },
+  {
+    "id": 68,
+    "session_id": 7,
+    "timestamp": "2026-01-07T16:09:51.950972+00:00",
+    "brand": "H&M",
+    "confidence": 0.719,
+    "dwell_seconds": 3.36
+  },
+  {
+    "id": 69,
+    "session_id": 8,
+    "timestamp": "2026-01-07T08:22:52.731812+00:00",
+    "brand": "British Airways",
+    "confidence": 0.797,
+    "dwell_seconds": 3.05
+  },
+  {
+    "id": 70,
+    "session_id": 8,
+    "timestamp": "2026-01-07T08:24:27.731812+00:00",
+    "brand": "Samsonite",
+    "confidence": 0.782,
+    "dwell_seconds": 2.12
+  },
+  {
+    "id": 71,
+    "session_id": 8,
+    "timestamp": "2026-01-07T08:25:12.731812+00:00",
+    "brand": "Booking.com",
+    "confidence": 0.849,
+    "dwell_seconds": 2.51
+  },
+  {
+    "id": 72,
+    "session_id": 8,
+    "timestamp": "2026-01-07T08:25:39.731812+00:00",
+    "brand": "Booking.com",
+    "confidence": 0.868,
+    "dwell_seconds": 2.92
+  },
+  {
+    "id": 73,
+    "session_id": 8,
+    "timestamp": "2026-01-07T08:26:23.731812+00:00",
+    "brand": "Booking.com",
+    "confidence": 0.79,
+    "dwell_seconds": 2.27
+  },
+  {
+    "id": 74,
+    "session_id": 8,
+    "timestamp": "2026-01-07T08:27:06.731812+00:00",
+    "brand": "Samsonite",
+    "confidence": 0.875,
+    "dwell_seconds": 2.42
+  },
+  {
+    "id": 75,
+    "session_id": 8,
+    "timestamp": "2026-01-07T08:27:31.731812+00:00",
+    "brand": "Samsonite",
+    "confidence": 0.851,
+    "dwell_seconds": 2.46
+  },
+  {
+    "id": 76,
+    "session_id": 8,
+    "timestamp": "2026-01-07T08:28:53.731812+00:00",
+    "brand": "Samsonite",
+    "confidence": 0.899,
+    "dwell_seconds": 2.46
+  },
+  {
+    "id": 77,
+    "session_id": 8,
+    "timestamp": "2026-01-07T08:29:25.731812+00:00",
+    "brand": "Samsonite",
+    "confidence": 0.813,
+    "dwell_seconds": 2.17
+  },
+  {
+    "id": 78,
+    "session_id": 8,
+    "timestamp": "2026-01-07T08:30:37.731812+00:00",
+    "brand": "Samsonite",
+    "confidence": 0.847,
+    "dwell_seconds": 2.0
+  },
+  {
+    "id": 79,
+    "session_id": 8,
+    "timestamp": "2026-01-07T08:32:26.731812+00:00",
+    "brand": "Booking.com",
+    "confidence": 0.942,
+    "dwell_seconds": 2.94
+  },
+  {
+    "id": 80,
+    "session_id": 8,
+    "timestamp": "2026-01-07T08:33:38.731812+00:00",
+    "brand": "Booking.com",
+    "confidence": 0.956,
+    "dwell_seconds": 3.71
+  },
+  {
+    "id": 81,
+    "session_id": 8,
+    "timestamp": "2026-01-07T08:34:46.731812+00:00",
+    "brand": "Booking.com",
+    "confidence": 0.836,
+    "dwell_seconds": 2.38
+  },
+  {
+    "id": 82,
+    "session_id": 8,
+    "timestamp": "2026-01-07T08:36:18.731812+00:00",
+    "brand": "Booking.com",
+    "confidence": 0.703,
+    "dwell_seconds": 2.39
+  },
+  {
+    "id": 83,
+    "session_id": 8,
+    "timestamp": "2026-01-07T08:37:22.731812+00:00",
+    "brand": "Uber",
+    "confidence": 0.92,
+    "dwell_seconds": 3.46
+  },
+  {
+    "id": 84,
+    "session_id": 8,
+    "timestamp": "2026-01-07T08:39:19.731812+00:00",
+    "brand": "Uber",
+    "confidence": 0.858,
+    "dwell_seconds": 3.26
+  },
+  {
+    "id": 85,
+    "session_id": 8,
+    "timestamp": "2026-01-07T08:41:19.731812+00:00",
+    "brand": "Uber",
+    "confidence": 0.83,
+    "dwell_seconds": 3.33
+  },
+  {
+    "id": 86,
+    "session_id": 8,
+    "timestamp": "2026-01-07T08:42:22.731812+00:00",
+    "brand": "Uber",
+    "confidence": 0.841,
+    "dwell_seconds": 3.13
+  },
+  {
+    "id": 87,
+    "session_id": 8,
+    "timestamp": "2026-01-07T08:42:42.731812+00:00",
+    "brand": "British Airways",
+    "confidence": 0.938,
+    "dwell_seconds": 3.35
+  },
+  {
+    "id": 88,
+    "session_id": 8,
+    "timestamp": "2026-01-07T08:44:22.731812+00:00",
+    "brand": "British Airways",
+    "confidence": 0.872,
+    "dwell_seconds": 2.67
+  },
+  {
+    "id": 89,
+    "session_id": 8,
+    "timestamp": "2026-01-07T08:45:04.731812+00:00",
+    "brand": "British Airways",
+    "confidence": 0.772,
+    "dwell_seconds": 2.51
+  },
+  {
+    "id": 90,
+    "session_id": 8,
+    "timestamp": "2026-01-07T08:46:30.731812+00:00",
+    "brand": "British Airways",
+    "confidence": 0.873,
+    "dwell_seconds": 2.94
+  },
+  {
+    "id": 91,
+    "session_id": 8,
+    "timestamp": "2026-01-07T08:47:04.731812+00:00",
+    "brand": "British Airways",
+    "confidence": 0.904,
+    "dwell_seconds": 2.52
+  },
+  {
+    "id": 92,
+    "session_id": 8,
+    "timestamp": "2026-01-07T08:48:49.731812+00:00",
+    "brand": "British Airways",
+    "confidence": 0.961,
+    "dwell_seconds": 3.01
+  },
+  {
+    "id": 93,
+    "session_id": 8,
+    "timestamp": "2026-01-07T08:50:34.731812+00:00",
+    "brand": "British Airways",
+    "confidence": 0.602,
+    "dwell_seconds": 2.58
+  },
+  {
+    "id": 94,
+    "session_id": 9,
+    "timestamp": "2026-01-07T10:52:09.968213+00:00",
+    "brand": "Oatly",
+    "confidence": 0.897,
+    "dwell_seconds": 4.33
+  },
+  {
+    "id": 95,
+    "session_id": 9,
+    "timestamp": "2026-01-07T10:54:50.968213+00:00",
+    "brand": "Oatly",
+    "confidence": 0.884,
+    "dwell_seconds": 3.93
+  },
+  {
+    "id": 96,
+    "session_id": 9,
+    "timestamp": "2026-01-07T10:56:30.968213+00:00",
+    "brand": "Oatly",
+    "confidence": 0.682,
+    "dwell_seconds": 3.49
+  },
+  {
+    "id": 97,
+    "session_id": 9,
+    "timestamp": "2026-01-07T10:57:23.968213+00:00",
+    "brand": "Oatly",
+    "confidence": 0.695,
+    "dwell_seconds": 3.25
+  },
+  {
+    "id": 98,
+    "session_id": 9,
+    "timestamp": "2026-01-07T10:59:34.968213+00:00",
+    "brand": "Oatly",
+    "confidence": 0.848,
+    "dwell_seconds": 4.29
+  },
+  {
+    "id": 99,
+    "session_id": 9,
+    "timestamp": "2026-01-07T11:02:42.968213+00:00",
+    "brand": "Innocent",
+    "confidence": 0.914,
+    "dwell_seconds": 3.91
+  },
+  {
+    "id": 100,
+    "session_id": 9,
+    "timestamp": "2026-01-07T11:04:24.968213+00:00",
+    "brand": "Innocent",
+    "confidence": 0.921,
+    "dwell_seconds": 2.98
+  },
+  {
+    "id": 101,
+    "session_id": 9,
+    "timestamp": "2026-01-07T11:05:13.968213+00:00",
+    "brand": "Innocent",
+    "confidence": 0.767,
+    "dwell_seconds": 3.52
+  },
+  {
+    "id": 102,
+    "session_id": 10,
+    "timestamp": "2026-01-07T18:58:26.946762+00:00",
+    "brand": "Tesco",
+    "confidence": 0.866,
+    "dwell_seconds": 2.96
+  },
+  {
+    "id": 103,
+    "session_id": 10,
+    "timestamp": "2026-01-07T18:58:54.946762+00:00",
+    "brand": "Tesco",
+    "confidence": 0.887,
+    "dwell_seconds": 3.92
+  },
+  {
+    "id": 104,
+    "session_id": 10,
+    "timestamp": "2026-01-07T18:59:24.946762+00:00",
+    "brand": "Heinz",
+    "confidence": 0.56,
+    "dwell_seconds": 2.59
+  },
+  {
+    "id": 105,
+    "session_id": 10,
+    "timestamp": "2026-01-07T18:59:54.946762+00:00",
+    "brand": "Heinz",
+    "confidence": 0.983,
+    "dwell_seconds": 3.22
+  },
+  {
+    "id": 106,
+    "session_id": 10,
+    "timestamp": "2026-01-07T19:00:03.946762+00:00",
+    "brand": "Tesco",
+    "confidence": 0.824,
+    "dwell_seconds": 3.03
+  },
+  {
+    "id": 107,
+    "session_id": 10,
+    "timestamp": "2026-01-07T19:00:15.946762+00:00",
+    "brand": "Tesco",
+    "confidence": 0.984,
+    "dwell_seconds": 3.82
+  },
+  {
+    "id": 108,
+    "session_id": 10,
+    "timestamp": "2026-01-07T19:00:42.946762+00:00",
+    "brand": "Heinz",
+    "confidence": 0.95,
+    "dwell_seconds": 3.2
+  },
+  {
+    "id": 109,
+    "session_id": 10,
+    "timestamp": "2026-01-07T19:01:14.946762+00:00",
+    "brand": "Heinz",
+    "confidence": 0.803,
+    "dwell_seconds": 2.96
+  },
+  {
+    "id": 110,
+    "session_id": 10,
+    "timestamp": "2026-01-07T19:01:42.946762+00:00",
+    "brand": "Kellogg's",
+    "confidence": 0.734,
+    "dwell_seconds": 3.15
+  },
+  {
+    "id": 111,
+    "session_id": 10,
+    "timestamp": "2026-01-07T19:02:11.946762+00:00",
+    "brand": "Kellogg's",
+    "confidence": 0.816,
+    "dwell_seconds": 3.39
+  },
+  {
+    "id": 112,
+    "session_id": 10,
+    "timestamp": "2026-01-07T19:02:44.946762+00:00",
+    "brand": "Kellogg's",
+    "confidence": 0.867,
+    "dwell_seconds": 3.02
+  },
+  {
+    "id": 113,
+    "session_id": 10,
+    "timestamp": "2026-01-07T19:02:56.946762+00:00",
+    "brand": "Heinz",
+    "confidence": 0.903,
+    "dwell_seconds": 2.53
+  },
+  {
+    "id": 114,
+    "session_id": 10,
+    "timestamp": "2026-01-07T19:03:22.946762+00:00",
+    "brand": "Heinz",
+    "confidence": 0.987,
+    "dwell_seconds": 3.25
+  },
+  {
+    "id": 115,
+    "session_id": 10,
+    "timestamp": "2026-01-07T19:03:44.946762+00:00",
+    "brand": "Cadbury",
+    "confidence": 0.873,
+    "dwell_seconds": 3.18
+  },
+  {
+    "id": 116,
+    "session_id": 10,
+    "timestamp": "2026-01-07T19:04:11.946762+00:00",
+    "brand": "Cadbury",
+    "confidence": 0.929,
+    "dwell_seconds": 3.74
+  },
+  {
+    "id": 117,
+    "session_id": 10,
+    "timestamp": "2026-01-07T19:04:45.946762+00:00",
+    "brand": "Cadbury",
+    "confidence": 0.93,
+    "dwell_seconds": 3.5
+  },
+  {
+    "id": 118,
+    "session_id": 10,
+    "timestamp": "2026-01-07T19:05:17.946762+00:00",
+    "brand": "Kellogg's",
+    "confidence": 0.899,
+    "dwell_seconds": 3.22
+  },
+  {
+    "id": 119,
+    "session_id": 10,
+    "timestamp": "2026-01-07T19:05:27.946762+00:00",
+    "brand": "Kellogg's",
+    "confidence": 0.914,
+    "dwell_seconds": 3.45
+  },
+  {
+    "id": 120,
+    "session_id": 10,
+    "timestamp": "2026-01-07T19:06:01.946762+00:00",
+    "brand": "Tesco",
+    "confidence": 0.725,
+    "dwell_seconds": 2.68
+  },
+  {
+    "id": 121,
+    "session_id": 10,
+    "timestamp": "2026-01-07T19:06:19.946762+00:00",
+    "brand": "Cadbury",
+    "confidence": 0.764,
+    "dwell_seconds": 2.68
+  },
+  {
+    "id": 122,
+    "session_id": 10,
+    "timestamp": "2026-01-07T19:06:48.946762+00:00",
+    "brand": "Cadbury",
+    "confidence": 0.866,
+    "dwell_seconds": 2.98
+  },
+  {
+    "id": 123,
+    "session_id": 10,
+    "timestamp": "2026-01-07T19:07:01.946762+00:00",
+    "brand": "Cadbury",
+    "confidence": 0.922,
+    "dwell_seconds": 3.91
+  },
+  {
+    "id": 124,
+    "session_id": 10,
+    "timestamp": "2026-01-07T19:07:15.946762+00:00",
+    "brand": "Cadbury",
+    "confidence": 0.858,
+    "dwell_seconds": 3.33
+  },
+  {
+    "id": 125,
+    "session_id": 10,
+    "timestamp": "2026-01-07T19:07:45.946762+00:00",
+    "brand": "Cadbury",
+    "confidence": 0.868,
+    "dwell_seconds": 3.1
+  },
+  {
+    "id": 126,
+    "session_id": 10,
+    "timestamp": "2026-01-07T19:08:01.946762+00:00",
+    "brand": "Tesco",
+    "confidence": 0.918,
+    "dwell_seconds": 3.57
+  },
+  {
+    "id": 127,
+    "session_id": 10,
+    "timestamp": "2026-01-07T19:08:17.946762+00:00",
+    "brand": "Tesco",
+    "confidence": 0.802,
+    "dwell_seconds": 3.05
+  },
+  {
+    "id": 128,
+    "session_id": 10,
+    "timestamp": "2026-01-07T19:08:34.946762+00:00",
+    "brand": "Tesco",
+    "confidence": 0.973,
+    "dwell_seconds": 3.35
+  },
+  {
+    "id": 129,
+    "session_id": 10,
+    "timestamp": "2026-01-07T19:08:53.946762+00:00",
+    "brand": "Kellogg's",
+    "confidence": 0.91,
+    "dwell_seconds": 3.04
+  },
+  {
+    "id": 130,
+    "session_id": 10,
+    "timestamp": "2026-01-07T19:09:17.946762+00:00",
+    "brand": "Kellogg's",
+    "confidence": 0.764,
+    "dwell_seconds": 2.22
+  },
+  {
+    "id": 131,
+    "session_id": 10,
+    "timestamp": "2026-01-07T19:09:43.946762+00:00",
+    "brand": "Kellogg's",
+    "confidence": 0.89,
+    "dwell_seconds": 3.26
+  },
+  {
+    "id": 132,
+    "session_id": 10,
+    "timestamp": "2026-01-07T19:09:50.946762+00:00",
+    "brand": "Heinz",
+    "confidence": 0.857,
+    "dwell_seconds": 3.13
+  },
+  {
+    "id": 133,
+    "session_id": 10,
+    "timestamp": "2026-01-07T19:10:00.946762+00:00",
+    "brand": "Tesco",
+    "confidence": 0.901,
+    "dwell_seconds": 3.46
+  },
+  {
+    "id": 134,
+    "session_id": 10,
+    "timestamp": "2026-01-07T19:10:32.946762+00:00",
+    "brand": "Coca-Cola",
+    "confidence": 0.629,
+    "dwell_seconds": 3.03
+  },
+  {
+    "id": 135,
+    "session_id": 11,
+    "timestamp": "2026-01-08T20:11:05.060672+00:00",
+    "brand": "Nike",
+    "confidence": 0.84,
+    "dwell_seconds": 2.9
+  },
+  {
+    "id": 136,
+    "session_id": 11,
+    "timestamp": "2026-01-08T20:11:43.060672+00:00",
+    "brand": "Under Armour",
+    "confidence": 0.803,
+    "dwell_seconds": 3.64
+  },
+  {
+    "id": 137,
+    "session_id": 11,
+    "timestamp": "2026-01-08T20:12:03.060672+00:00",
+    "brand": "Under Armour",
+    "confidence": 0.893,
+    "dwell_seconds": 2.84
+  },
+  {
+    "id": 138,
+    "session_id": 11,
+    "timestamp": "2026-01-08T20:12:35.060672+00:00",
+    "brand": "Lucozade",
+    "confidence": 0.908,
+    "dwell_seconds": 3.61
+  },
+  {
+    "id": 139,
+    "session_id": 11,
+    "timestamp": "2026-01-08T20:13:11.060672+00:00",
+    "brand": "Lucozade",
+    "confidence": 0.937,
+    "dwell_seconds": 3.87
+  },
+  {
+    "id": 140,
+    "session_id": 11,
+    "timestamp": "2026-01-08T20:13:39.060672+00:00",
+    "brand": "Lucozade",
+    "confidence": 0.799,
+    "dwell_seconds": 3.02
+  },
+  {
+    "id": 141,
+    "session_id": 11,
+    "timestamp": "2026-01-08T20:13:56.060672+00:00",
+    "brand": "Lucozade",
+    "confidence": 0.809,
+    "dwell_seconds": 3.47
+  },
+  {
+    "id": 142,
+    "session_id": 11,
+    "timestamp": "2026-01-08T20:14:10.060672+00:00",
+    "brand": "Lucozade",
+    "confidence": 0.765,
+    "dwell_seconds": 3.14
+  },
+  {
+    "id": 143,
+    "session_id": 11,
+    "timestamp": "2026-01-08T20:14:50.060672+00:00",
+    "brand": "Under Armour",
+    "confidence": 0.746,
+    "dwell_seconds": 3.2
+  },
+  {
+    "id": 144,
+    "session_id": 11,
+    "timestamp": "2026-01-08T20:15:24.060672+00:00",
+    "brand": "Under Armour",
+    "confidence": 0.931,
+    "dwell_seconds": 3.05
+  },
+  {
+    "id": 145,
+    "session_id": 11,
+    "timestamp": "2026-01-08T20:15:37.060672+00:00",
+    "brand": "Under Armour",
+    "confidence": 0.844,
+    "dwell_seconds": 3.62
+  },
+  {
+    "id": 146,
+    "session_id": 11,
+    "timestamp": "2026-01-08T20:16:10.060672+00:00",
+    "brand": "Under Armour",
+    "confidence": 0.959,
+    "dwell_seconds": 2.94
+  },
+  {
+    "id": 147,
+    "session_id": 11,
+    "timestamp": "2026-01-08T20:16:26.060672+00:00",
+    "brand": "Under Armour",
+    "confidence": 0.871,
+    "dwell_seconds": 2.87
+  },
+  {
+    "id": 148,
+    "session_id": 11,
+    "timestamp": "2026-01-08T20:17:03.060672+00:00",
+    "brand": "Gatorade",
+    "confidence": 0.837,
+    "dwell_seconds": 2.88
+  },
+  {
+    "id": 149,
+    "session_id": 11,
+    "timestamp": "2026-01-08T20:17:32.060672+00:00",
+    "brand": "Gatorade",
+    "confidence": 0.927,
+    "dwell_seconds": 3.08
+  },
+  {
+    "id": 150,
+    "session_id": 11,
+    "timestamp": "2026-01-08T20:17:46.060672+00:00",
+    "brand": "Gatorade",
+    "confidence": 0.929,
+    "dwell_seconds": 3.15
+  },
+  {
+    "id": 151,
+    "session_id": 11,
+    "timestamp": "2026-01-08T20:18:21.060672+00:00",
+    "brand": "Gatorade",
+    "confidence": 0.846,
+    "dwell_seconds": 3.47
+  },
+  {
+    "id": 152,
+    "session_id": 11,
+    "timestamp": "2026-01-08T20:19:06.060672+00:00",
+    "brand": "Nike",
+    "confidence": 0.853,
+    "dwell_seconds": 3.32
+  },
+  {
+    "id": 153,
+    "session_id": 11,
+    "timestamp": "2026-01-08T20:19:39.060672+00:00",
+    "brand": "Nike",
+    "confidence": 0.879,
+    "dwell_seconds": 3.05
+  },
+  {
+    "id": 154,
+    "session_id": 11,
+    "timestamp": "2026-01-08T20:20:04.060672+00:00",
+    "brand": "Lucozade",
+    "confidence": 0.93,
+    "dwell_seconds": 4.13
+  },
+  {
+    "id": 155,
+    "session_id": 12,
+    "timestamp": "2026-01-08T13:45:53.622187+00:00",
+    "brand": "Post-it",
+    "confidence": 0.772,
+    "dwell_seconds": 3.72
+  },
+  {
+    "id": 156,
+    "session_id": 12,
+    "timestamp": "2026-01-08T13:48:33.622187+00:00",
+    "brand": "Post-it",
+    "confidence": 0.856,
+    "dwell_seconds": 4.03
+  },
+  {
+    "id": 157,
+    "session_id": 12,
+    "timestamp": "2026-01-08T13:51:07.622187+00:00",
+    "brand": "Post-it",
+    "confidence": 0.77,
+    "dwell_seconds": 3.84
+  },
+  {
+    "id": 158,
+    "session_id": 12,
+    "timestamp": "2026-01-08T13:53:44.622187+00:00",
+    "brand": "Post-it",
+    "confidence": 0.661,
+    "dwell_seconds": 3.6
+  },
+  {
+    "id": 159,
+    "session_id": 12,
+    "timestamp": "2026-01-08T13:56:44.622187+00:00",
+    "brand": "Post-it",
+    "confidence": 0.697,
+    "dwell_seconds": 3.12
+  },
+  {
+    "id": 160,
+    "session_id": 12,
+    "timestamp": "2026-01-08T13:57:04.622187+00:00",
+    "brand": "Nespresso",
+    "confidence": 0.853,
+    "dwell_seconds": 3.73
+  },
+  {
+    "id": 161,
+    "session_id": 12,
+    "timestamp": "2026-01-08T13:58:35.622187+00:00",
+    "brand": "Nespresso",
+    "confidence": 0.883,
+    "dwell_seconds": 4.19
+  },
+  {
+    "id": 162,
+    "session_id": 12,
+    "timestamp": "2026-01-08T14:01:35.622187+00:00",
+    "brand": "Nespresso",
+    "confidence": 0.804,
+    "dwell_seconds": 3.49
+  },
+  {
+    "id": 163,
+    "session_id": 12,
+    "timestamp": "2026-01-08T14:03:07.622187+00:00",
+    "brand": "Nespresso",
+    "confidence": 0.9,
+    "dwell_seconds": 4.53
+  },
+  {
+    "id": 164,
+    "session_id": 12,
+    "timestamp": "2026-01-08T14:05:29.622187+00:00",
+    "brand": "Nespresso",
+    "confidence": 0.758,
+    "dwell_seconds": 2.63
+  },
+  {
+    "id": 165,
+    "session_id": 12,
+    "timestamp": "2026-01-08T14:06:48.622187+00:00",
+    "brand": "Slack",
+    "confidence": 0.786,
+    "dwell_seconds": 3.58
+  },
+  {
+    "id": 166,
+    "session_id": 12,
+    "timestamp": "2026-01-08T14:09:30.622187+00:00",
+    "brand": "Slack",
+    "confidence": 0.959,
+    "dwell_seconds": 4.0
+  },
+  {
+    "id": 167,
+    "session_id": 12,
+    "timestamp": "2026-01-08T14:09:51.622187+00:00",
+    "brand": "Nespresso",
+    "confidence": 0.963,
+    "dwell_seconds": 4.13
+  },
+  {
+    "id": 168,
+    "session_id": 12,
+    "timestamp": "2026-01-08T14:10:35.622187+00:00",
+    "brand": "Nespresso",
+    "confidence": 0.893,
+    "dwell_seconds": 3.7
+  },
+  {
+    "id": 169,
+    "session_id": 12,
+    "timestamp": "2026-01-08T14:11:27.622187+00:00",
+    "brand": "Nespresso",
+    "confidence": 0.928,
+    "dwell_seconds": 3.06
+  },
+  {
+    "id": 170,
+    "session_id": 12,
+    "timestamp": "2026-01-08T14:12:26.622187+00:00",
+    "brand": "Post-it",
+    "confidence": 0.865,
+    "dwell_seconds": 4.26
+  },
+  {
+    "id": 171,
+    "session_id": 13,
+    "timestamp": "2026-01-08T15:38:20.805362+00:00",
+    "brand": "Dell",
+    "confidence": 0.818,
+    "dwell_seconds": 3.45
+  },
+  {
+    "id": 172,
+    "session_id": 13,
+    "timestamp": "2026-01-08T15:40:09.805362+00:00",
+    "brand": "Slack",
+    "confidence": 0.862,
+    "dwell_seconds": 3.45
+  },
+  {
+    "id": 173,
+    "session_id": 13,
+    "timestamp": "2026-01-08T15:43:07.805362+00:00",
+    "brand": "Dell",
+    "confidence": 0.816,
+    "dwell_seconds": 3.11
+  },
+  {
+    "id": 174,
+    "session_id": 13,
+    "timestamp": "2026-01-08T15:46:06.805362+00:00",
+    "brand": "Post-it",
+    "confidence": 0.904,
+    "dwell_seconds": 3.61
+  },
+  {
+    "id": 175,
+    "session_id": 13,
+    "timestamp": "2026-01-08T15:47:31.805362+00:00",
+    "brand": "Post-it",
+    "confidence": 0.903,
+    "dwell_seconds": 3.74
+  },
+  {
+    "id": 176,
+    "session_id": 13,
+    "timestamp": "2026-01-08T15:49:19.805362+00:00",
+    "brand": "Post-it",
+    "confidence": 0.924,
+    "dwell_seconds": 3.73
+  },
+  {
+    "id": 177,
+    "session_id": 13,
+    "timestamp": "2026-01-08T15:50:54.805362+00:00",
+    "brand": "Nespresso",
+    "confidence": 0.863,
+    "dwell_seconds": 2.96
+  },
+  {
+    "id": 178,
+    "session_id": 13,
+    "timestamp": "2026-01-08T15:53:52.805362+00:00",
+    "brand": "Nespresso",
+    "confidence": 0.803,
+    "dwell_seconds": 3.79
+  },
+  {
+    "id": 179,
+    "session_id": 13,
+    "timestamp": "2026-01-08T15:56:10.805362+00:00",
+    "brand": "Nespresso",
+    "confidence": 0.809,
+    "dwell_seconds": 3.36
+  },
+  {
+    "id": 180,
+    "session_id": 13,
+    "timestamp": "2026-01-08T15:58:10.805362+00:00",
+    "brand": "Dell",
+    "confidence": 0.763,
+    "dwell_seconds": 3.88
+  },
+  {
+    "id": 181,
+    "session_id": 13,
+    "timestamp": "2026-01-08T16:00:06.805362+00:00",
+    "brand": "Nespresso",
+    "confidence": 0.853,
+    "dwell_seconds": 4.08
+  },
+  {
+    "id": 182,
+    "session_id": 13,
+    "timestamp": "2026-01-08T16:01:39.805362+00:00",
+    "brand": "Apple",
+    "confidence": 0.944,
+    "dwell_seconds": 2.57
+  },
+  {
+    "id": 183,
+    "session_id": 13,
+    "timestamp": "2026-01-08T16:03:41.805362+00:00",
+    "brand": "Apple",
+    "confidence": 0.849,
+    "dwell_seconds": 3.33
+  },
+  {
+    "id": 184,
+    "session_id": 13,
+    "timestamp": "2026-01-08T16:04:11.805362+00:00",
+    "brand": "Apple",
+    "confidence": 0.683,
+    "dwell_seconds": 2.54
+  },
+  {
+    "id": 185,
+    "session_id": 13,
+    "timestamp": "2026-01-08T16:06:03.805362+00:00",
+    "brand": "Apple",
+    "confidence": 0.888,
+    "dwell_seconds": 3.5
+  },
+  {
+    "id": 186,
+    "session_id": 13,
+    "timestamp": "2026-01-08T16:08:36.805362+00:00",
+    "brand": "Dell",
+    "confidence": 0.885,
+    "dwell_seconds": 3.13
+  },
+  {
+    "id": 187,
+    "session_id": 13,
+    "timestamp": "2026-01-08T16:10:05.805362+00:00",
+    "brand": "Dell",
+    "confidence": 0.971,
+    "dwell_seconds": 3.37
+  },
+  {
+    "id": 188,
+    "session_id": 13,
+    "timestamp": "2026-01-08T16:11:06.805362+00:00",
+    "brand": "Dell",
+    "confidence": 0.931,
+    "dwell_seconds": 3.85
+  },
+  {
+    "id": 189,
+    "session_id": 13,
+    "timestamp": "2026-01-08T16:12:39.805362+00:00",
+    "brand": "Dell",
+    "confidence": 0.87,
+    "dwell_seconds": 3.09
+  },
+  {
+    "id": 190,
+    "session_id": 13,
+    "timestamp": "2026-01-08T16:14:12.805362+00:00",
+    "brand": "Dell",
+    "confidence": 0.846,
+    "dwell_seconds": 3.05
+  },
+  {
+    "id": 191,
+    "session_id": 13,
+    "timestamp": "2026-01-08T16:14:42.805362+00:00",
+    "brand": "Nespresso",
+    "confidence": 0.845,
+    "dwell_seconds": 3.13
+  },
+  {
+    "id": 192,
+    "session_id": 13,
+    "timestamp": "2026-01-08T16:16:36.805362+00:00",
+    "brand": "Nespresso",
+    "confidence": 0.779,
+    "dwell_seconds": 2.68
+  },
+  {
+    "id": 193,
+    "session_id": 13,
+    "timestamp": "2026-01-08T16:17:45.805362+00:00",
+    "brand": "Dell",
+    "confidence": 0.844,
+    "dwell_seconds": 3.58
+  },
+  {
+    "id": 194,
+    "session_id": 13,
+    "timestamp": "2026-01-08T16:19:56.805362+00:00",
+    "brand": "Nespresso",
+    "confidence": 0.838,
+    "dwell_seconds": 3.52
+  },
+  {
+    "id": 195,
+    "session_id": 13,
+    "timestamp": "2026-01-08T16:20:21.805362+00:00",
+    "brand": "Post-it",
+    "confidence": 0.862,
+    "dwell_seconds": 3.06
+  },
+  {
+    "id": 196,
+    "session_id": 13,
+    "timestamp": "2026-01-08T16:21:11.805362+00:00",
+    "brand": "Slack",
+    "confidence": 0.953,
+    "dwell_seconds": 3.36
+  },
+  {
+    "id": 197,
+    "session_id": 14,
+    "timestamp": "2026-01-09T16:37:40.532663+00:00",
+    "brand": "Trainline",
+    "confidence": 0.876,
+    "dwell_seconds": 3.97
+  },
+  {
+    "id": 198,
+    "session_id": 14,
+    "timestamp": "2026-01-09T16:37:56.532663+00:00",
+    "brand": "Trainline",
+    "confidence": 0.778,
+    "dwell_seconds": 2.64
+  },
+  {
+    "id": 199,
+    "session_id": 14,
+    "timestamp": "2026-01-09T16:38:08.532663+00:00",
+    "brand": "Trainline",
+    "confidence": 0.855,
+    "dwell_seconds": 2.72
+  },
+  {
+    "id": 200,
+    "session_id": 14,
+    "timestamp": "2026-01-09T16:38:27.532663+00:00",
+    "brand": "Apple",
+    "confidence": 0.852,
+    "dwell_seconds": 2.54
+  },
+  {
+    "id": 201,
+    "session_id": 14,
+    "timestamp": "2026-01-09T16:38:55.532663+00:00",
+    "brand": "Apple",
+    "confidence": 0.849,
+    "dwell_seconds": 3.38
+  },
+  {
+    "id": 202,
+    "session_id": 14,
+    "timestamp": "2026-01-09T16:39:21.532663+00:00",
+    "brand": "Apple",
+    "confidence": 0.756,
+    "dwell_seconds": 2.64
+  },
+  {
+    "id": 203,
+    "session_id": 14,
+    "timestamp": "2026-01-09T16:39:40.532663+00:00",
+    "brand": "Costa",
+    "confidence": 0.936,
+    "dwell_seconds": 3.76
+  },
+  {
+    "id": 204,
+    "session_id": 14,
+    "timestamp": "2026-01-09T16:39:50.532663+00:00",
+    "brand": "Costa",
+    "confidence": 0.881,
+    "dwell_seconds": 2.84
+  },
+  {
+    "id": 205,
+    "session_id": 14,
+    "timestamp": "2026-01-09T16:40:12.532663+00:00",
+    "brand": "Costa",
+    "confidence": 0.874,
+    "dwell_seconds": 2.95
+  },
+  {
+    "id": 206,
+    "session_id": 14,
+    "timestamp": "2026-01-09T16:40:38.532663+00:00",
+    "brand": "Costa",
+    "confidence": 0.832,
+    "dwell_seconds": 2.89
+  },
+  {
+    "id": 207,
+    "session_id": 14,
+    "timestamp": "2026-01-09T16:41:06.532663+00:00",
+    "brand": "Costa",
+    "confidence": 0.836,
+    "dwell_seconds": 2.94
+  },
+  {
+    "id": 208,
+    "session_id": 14,
+    "timestamp": "2026-01-09T16:41:23.532663+00:00",
+    "brand": "Costa",
+    "confidence": 0.928,
+    "dwell_seconds": 2.3
+  },
+  {
+    "id": 209,
+    "session_id": 15,
+    "timestamp": "2026-01-09T15:37:13.910299+00:00",
+    "brand": "Uniqlo",
+    "confidence": 0.854,
+    "dwell_seconds": 2.68
+  },
+  {
+    "id": 210,
+    "session_id": 15,
+    "timestamp": "2026-01-09T15:37:26.910299+00:00",
+    "brand": "Sephora",
+    "confidence": 0.681,
+    "dwell_seconds": 2.76
+  },
+  {
+    "id": 211,
+    "session_id": 15,
+    "timestamp": "2026-01-09T15:37:47.910299+00:00",
+    "brand": "Nike",
+    "confidence": 0.87,
+    "dwell_seconds": 3.11
+  },
+  {
+    "id": 212,
+    "session_id": 15,
+    "timestamp": "2026-01-09T15:38:04.910299+00:00",
+    "brand": "Nike",
+    "confidence": 0.848,
+    "dwell_seconds": 1.95
+  },
+  {
+    "id": 213,
+    "session_id": 15,
+    "timestamp": "2026-01-09T15:38:10.910299+00:00",
+    "brand": "Sephora",
+    "confidence": 0.912,
+    "dwell_seconds": 3.39
+  },
+  {
+    "id": 214,
+    "session_id": 15,
+    "timestamp": "2026-01-09T15:38:14.910299+00:00",
+    "brand": "Sephora",
+    "confidence": 0.829,
+    "dwell_seconds": 3.38
+  },
+  {
+    "id": 215,
+    "session_id": 15,
+    "timestamp": "2026-01-09T15:38:28.910299+00:00",
+    "brand": "Sephora",
+    "confidence": 0.995,
+    "dwell_seconds": 3.0
+  },
+  {
+    "id": 216,
+    "session_id": 15,
+    "timestamp": "2026-01-09T15:38:46.910299+00:00",
+    "brand": "Zara",
+    "confidence": 0.759,
+    "dwell_seconds": 2.56
+  },
+  {
+    "id": 217,
+    "session_id": 15,
+    "timestamp": "2026-01-09T15:39:05.910299+00:00",
+    "brand": "Zara",
+    "confidence": 0.747,
+    "dwell_seconds": 2.53
+  },
+  {
+    "id": 218,
+    "session_id": 15,
+    "timestamp": "2026-01-09T15:39:25.910299+00:00",
+    "brand": "Zara",
+    "confidence": 0.751,
+    "dwell_seconds": 2.68
+  },
+  {
+    "id": 219,
+    "session_id": 15,
+    "timestamp": "2026-01-09T15:39:30.910299+00:00",
+    "brand": "Zara",
+    "confidence": 0.762,
+    "dwell_seconds": 2.9
+  },
+  {
+    "id": 220,
+    "session_id": 15,
+    "timestamp": "2026-01-09T15:39:35.910299+00:00",
+    "brand": "Sephora",
+    "confidence": 0.886,
+    "dwell_seconds": 3.11
+  },
+  {
+    "id": 221,
+    "session_id": 15,
+    "timestamp": "2026-01-09T15:39:53.910299+00:00",
+    "brand": "Sephora",
+    "confidence": 0.928,
+    "dwell_seconds": 3.44
+  },
+  {
+    "id": 222,
+    "session_id": 15,
+    "timestamp": "2026-01-09T15:40:03.910299+00:00",
+    "brand": "Sephora",
+    "confidence": 0.908,
+    "dwell_seconds": 3.32
+  },
+  {
+    "id": 223,
+    "session_id": 15,
+    "timestamp": "2026-01-09T15:40:15.910299+00:00",
+    "brand": "Sephora",
+    "confidence": 0.634,
+    "dwell_seconds": 2.38
+  },
+  {
+    "id": 224,
+    "session_id": 15,
+    "timestamp": "2026-01-09T15:40:25.910299+00:00",
+    "brand": "H&M",
+    "confidence": 0.834,
+    "dwell_seconds": 3.05
+  },
+  {
+    "id": 225,
+    "session_id": 15,
+    "timestamp": "2026-01-09T15:40:48.910299+00:00",
+    "brand": "H&M",
+    "confidence": 0.717,
+    "dwell_seconds": 1.97
+  },
+  {
+    "id": 226,
+    "session_id": 15,
+    "timestamp": "2026-01-09T15:41:07.910299+00:00",
+    "brand": "Zara",
+    "confidence": 0.977,
+    "dwell_seconds": 3.77
+  },
+  {
+    "id": 227,
+    "session_id": 15,
+    "timestamp": "2026-01-09T15:41:24.910299+00:00",
+    "brand": "Uniqlo",
+    "confidence": 0.76,
+    "dwell_seconds": 3.07
+  },
+  {
+    "id": 228,
+    "session_id": 15,
+    "timestamp": "2026-01-09T15:41:35.910299+00:00",
+    "brand": "Uniqlo",
+    "confidence": 0.916,
+    "dwell_seconds": 3.29
+  },
+  {
+    "id": 229,
+    "session_id": 15,
+    "timestamp": "2026-01-09T15:41:45.910299+00:00",
+    "brand": "Uniqlo",
+    "confidence": 0.9,
+    "dwell_seconds": 3.3
+  },
+  {
+    "id": 230,
+    "session_id": 15,
+    "timestamp": "2026-01-09T15:42:09.910299+00:00",
+    "brand": "Uniqlo",
+    "confidence": 0.992,
+    "dwell_seconds": 2.82
+  },
+  {
+    "id": 231,
+    "session_id": 15,
+    "timestamp": "2026-01-09T15:42:17.910299+00:00",
+    "brand": "Uniqlo",
+    "confidence": 0.832,
+    "dwell_seconds": 2.62
+  },
+  {
+    "id": 232,
+    "session_id": 15,
+    "timestamp": "2026-01-09T15:42:24.910299+00:00",
+    "brand": "Uniqlo",
+    "confidence": 0.89,
+    "dwell_seconds": 3.05
+  },
+  {
+    "id": 233,
+    "session_id": 15,
+    "timestamp": "2026-01-09T15:42:29.910299+00:00",
+    "brand": "Uniqlo",
+    "confidence": 0.846,
+    "dwell_seconds": 3.72
+  },
+  {
+    "id": 234,
+    "session_id": 15,
+    "timestamp": "2026-01-09T15:42:35.910299+00:00",
+    "brand": "Uniqlo",
+    "confidence": 0.817,
+    "dwell_seconds": 3.37
+  },
+  {
+    "id": 235,
+    "session_id": 15,
+    "timestamp": "2026-01-09T15:42:42.910299+00:00",
+    "brand": "Uniqlo",
+    "confidence": 0.915,
+    "dwell_seconds": 3.5
+  },
+  {
+    "id": 236,
+    "session_id": 15,
+    "timestamp": "2026-01-09T15:42:49.910299+00:00",
+    "brand": "Uniqlo",
+    "confidence": 0.697,
+    "dwell_seconds": 2.01
+  },
+  {
+    "id": 237,
+    "session_id": 15,
+    "timestamp": "2026-01-09T15:43:11.910299+00:00",
+    "brand": "H&M",
+    "confidence": 0.883,
+    "dwell_seconds": 2.94
+  },
+  {
+    "id": 238,
+    "session_id": 15,
+    "timestamp": "2026-01-09T15:43:28.910299+00:00",
+    "brand": "Sephora",
+    "confidence": 0.811,
+    "dwell_seconds": 2.95
+  },
+  {
+    "id": 239,
+    "session_id": 15,
+    "timestamp": "2026-01-09T15:43:53.910299+00:00",
+    "brand": "Sephora",
+    "confidence": 0.799,
+    "dwell_seconds": 3.33
+  },
+  {
+    "id": 240,
+    "session_id": 15,
+    "timestamp": "2026-01-09T15:44:15.910299+00:00",
+    "brand": "Nike",
+    "confidence": 0.674,
+    "dwell_seconds": 2.8
+  },
+  {
+    "id": 241,
+    "session_id": 15,
+    "timestamp": "2026-01-09T15:44:21.910299+00:00",
+    "brand": "Sephora",
+    "confidence": 0.689,
+    "dwell_seconds": 3.13
+  },
+  {
+    "id": 242,
+    "session_id": 15,
+    "timestamp": "2026-01-09T15:44:40.910299+00:00",
+    "brand": "H&M",
+    "confidence": 0.71,
+    "dwell_seconds": 2.5
+  },
+  {
+    "id": 243,
+    "session_id": 16,
+    "timestamp": "2026-01-10T10:00:56.639034+00:00",
+    "brand": "Apple",
+    "confidence": 0.766,
+    "dwell_seconds": 2.8
+  },
+  {
+    "id": 244,
+    "session_id": 16,
+    "timestamp": "2026-01-10T10:01:22.639034+00:00",
+    "brand": "Apple",
+    "confidence": 0.926,
+    "dwell_seconds": 2.84
+  },
+  {
+    "id": 245,
+    "session_id": 16,
+    "timestamp": "2026-01-10T10:01:37.639034+00:00",
+    "brand": "Apple",
+    "confidence": 0.957,
+    "dwell_seconds": 3.71
+  },
+  {
+    "id": 246,
+    "session_id": 16,
+    "timestamp": "2026-01-10T10:02:00.639034+00:00",
+    "brand": "Trainline",
+    "confidence": 0.958,
+    "dwell_seconds": 2.96
+  },
+  {
+    "id": 247,
+    "session_id": 16,
+    "timestamp": "2026-01-10T10:02:16.639034+00:00",
+    "brand": "Trainline",
+    "confidence": 0.784,
+    "dwell_seconds": 2.54
+  },
+  {
+    "id": 248,
+    "session_id": 16,
+    "timestamp": "2026-01-10T10:02:25.639034+00:00",
+    "brand": "Costa",
+    "confidence": 0.849,
+    "dwell_seconds": 2.52
+  },
+  {
+    "id": 249,
+    "session_id": 16,
+    "timestamp": "2026-01-10T10:02:40.639034+00:00",
+    "brand": "Costa",
+    "confidence": 0.816,
+    "dwell_seconds": 2.91
+  },
+  {
+    "id": 250,
+    "session_id": 16,
+    "timestamp": "2026-01-10T10:02:51.639034+00:00",
+    "brand": "Trainline",
+    "confidence": 0.778,
+    "dwell_seconds": 3.16
+  },
+  {
+    "id": 251,
+    "session_id": 17,
+    "timestamp": "2026-01-10T19:36:55.168657+00:00",
+    "brand": "Pepsi",
+    "confidence": 0.767,
+    "dwell_seconds": 4.01
+  },
+  {
+    "id": 252,
+    "session_id": 17,
+    "timestamp": "2026-01-10T19:37:35.168657+00:00",
+    "brand": "Ben & Jerry's",
+    "confidence": 0.972,
+    "dwell_seconds": 4.22
+  },
+  {
+    "id": 253,
+    "session_id": 17,
+    "timestamp": "2026-01-10T19:40:59.168657+00:00",
+    "brand": "Ben & Jerry's",
+    "confidence": 0.969,
+    "dwell_seconds": 3.69
+  },
+  {
+    "id": 254,
+    "session_id": 17,
+    "timestamp": "2026-01-10T19:42:02.168657+00:00",
+    "brand": "Haribo",
+    "confidence": 0.886,
+    "dwell_seconds": 3.37
+  },
+  {
+    "id": 255,
+    "session_id": 17,
+    "timestamp": "2026-01-10T19:45:06.168657+00:00",
+    "brand": "Haribo",
+    "confidence": 0.761,
+    "dwell_seconds": 3.82
+  },
+  {
+    "id": 256,
+    "session_id": 17,
+    "timestamp": "2026-01-10T19:46:24.168657+00:00",
+    "brand": "Coca-Cola",
+    "confidence": 0.762,
+    "dwell_seconds": 4.31
+  },
+  {
+    "id": 257,
+    "session_id": 17,
+    "timestamp": "2026-01-10T19:49:54.168657+00:00",
+    "brand": "Coca-Cola",
+    "confidence": 0.865,
+    "dwell_seconds": 3.92
+  },
+  {
+    "id": 258,
+    "session_id": 17,
+    "timestamp": "2026-01-10T19:52:35.168657+00:00",
+    "brand": "Ben & Jerry's",
+    "confidence": 0.788,
+    "dwell_seconds": 3.75
+  },
+  {
+    "id": 259,
+    "session_id": 17,
+    "timestamp": "2026-01-10T19:54:27.168657+00:00",
+    "brand": "Ben & Jerry's",
+    "confidence": 0.879,
+    "dwell_seconds": 3.92
+  },
+  {
+    "id": 260,
+    "session_id": 17,
+    "timestamp": "2026-01-10T19:56:37.168657+00:00",
+    "brand": "Ben & Jerry's",
+    "confidence": 0.819,
+    "dwell_seconds": 3.86
+  },
+  {
+    "id": 261,
+    "session_id": 17,
+    "timestamp": "2026-01-10T20:00:44.168657+00:00",
+    "brand": "Coca-Cola",
+    "confidence": 0.839,
+    "dwell_seconds": 4.23
+  },
+  {
+    "id": 262,
+    "session_id": 18,
+    "timestamp": "2026-01-10T08:42:55.922249+00:00",
+    "brand": "Under Armour",
+    "confidence": 0.757,
+    "dwell_seconds": 2.95
+  },
+  {
+    "id": 263,
+    "session_id": 18,
+    "timestamp": "2026-01-10T08:43:14.922249+00:00",
+    "brand": "Under Armour",
+    "confidence": 0.939,
+    "dwell_seconds": 3.35
+  },
+  {
+    "id": 264,
+    "session_id": 18,
+    "timestamp": "2026-01-10T08:43:40.922249+00:00",
+    "brand": "Nike",
+    "confidence": 0.928,
+    "dwell_seconds": 3.45
+  },
+  {
+    "id": 265,
+    "session_id": 18,
+    "timestamp": "2026-01-10T08:44:01.922249+00:00",
+    "brand": "Nike",
+    "confidence": 0.828,
+    "dwell_seconds": 2.82
+  },
+  {
+    "id": 266,
+    "session_id": 18,
+    "timestamp": "2026-01-10T08:44:22.922249+00:00",
+    "brand": "Lucozade",
+    "confidence": 0.663,
+    "dwell_seconds": 2.9
+  },
+  {
+    "id": 267,
+    "session_id": 18,
+    "timestamp": "2026-01-10T08:45:02.922249+00:00",
+    "brand": "Nike",
+    "confidence": 0.661,
+    "dwell_seconds": 2.47
+  },
+  {
+    "id": 268,
+    "session_id": 18,
+    "timestamp": "2026-01-10T08:45:14.922249+00:00",
+    "brand": "Nike",
+    "confidence": 0.915,
+    "dwell_seconds": 3.55
+  },
+  {
+    "id": 269,
+    "session_id": 18,
+    "timestamp": "2026-01-10T08:45:25.922249+00:00",
+    "brand": "Nike",
+    "confidence": 0.936,
+    "dwell_seconds": 3.28
+  },
+  {
+    "id": 270,
+    "session_id": 18,
+    "timestamp": "2026-01-10T08:45:33.922249+00:00",
+    "brand": "Nike",
+    "confidence": 0.833,
+    "dwell_seconds": 2.86
+  },
+  {
+    "id": 271,
+    "session_id": 18,
+    "timestamp": "2026-01-10T08:45:42.922249+00:00",
+    "brand": "Gatorade",
+    "confidence": 0.755,
+    "dwell_seconds": 2.48
+  },
+  {
+    "id": 272,
+    "session_id": 18,
+    "timestamp": "2026-01-10T08:46:18.922249+00:00",
+    "brand": "Gatorade",
+    "confidence": 0.732,
+    "dwell_seconds": 2.9
+  },
+  {
+    "id": 273,
+    "session_id": 18,
+    "timestamp": "2026-01-10T08:46:32.922249+00:00",
+    "brand": "Nike",
+    "confidence": 0.95,
+    "dwell_seconds": 3.49
+  },
+  {
+    "id": 274,
+    "session_id": 18,
+    "timestamp": "2026-01-10T08:46:43.922249+00:00",
+    "brand": "Under Armour",
+    "confidence": 0.937,
+    "dwell_seconds": 3.85
+  },
+  {
+    "id": 275,
+    "session_id": 18,
+    "timestamp": "2026-01-10T08:47:12.922249+00:00",
+    "brand": "Under Armour",
+    "confidence": 0.832,
+    "dwell_seconds": 2.91
+  },
+  {
+    "id": 276,
+    "session_id": 18,
+    "timestamp": "2026-01-10T08:47:35.922249+00:00",
+    "brand": "Nike",
+    "confidence": 0.957,
+    "dwell_seconds": 2.95
+  },
+  {
+    "id": 277,
+    "session_id": 18,
+    "timestamp": "2026-01-10T08:47:58.922249+00:00",
+    "brand": "Lucozade",
+    "confidence": 0.862,
+    "dwell_seconds": 2.77
+  },
+  {
+    "id": 278,
+    "session_id": 18,
+    "timestamp": "2026-01-10T08:48:16.922249+00:00",
+    "brand": "Nike",
+    "confidence": 0.928,
+    "dwell_seconds": 2.93
+  },
+  {
+    "id": 279,
+    "session_id": 18,
+    "timestamp": "2026-01-10T08:48:35.922249+00:00",
+    "brand": "Nike",
+    "confidence": 0.903,
+    "dwell_seconds": 3.06
+  },
+  {
+    "id": 280,
+    "session_id": 18,
+    "timestamp": "2026-01-10T08:48:58.922249+00:00",
+    "brand": "Nike",
+    "confidence": 0.92,
+    "dwell_seconds": 2.88
+  },
+  {
+    "id": 281,
+    "session_id": 18,
+    "timestamp": "2026-01-10T08:49:34.922249+00:00",
+    "brand": "Nike",
+    "confidence": 0.917,
+    "dwell_seconds": 3.1
+  },
+  {
+    "id": 282,
+    "session_id": 18,
+    "timestamp": "2026-01-10T08:50:09.922249+00:00",
+    "brand": "Nike",
+    "confidence": 0.945,
+    "dwell_seconds": 2.93
+  },
+  {
+    "id": 283,
+    "session_id": 18,
+    "timestamp": "2026-01-10T08:50:54.922249+00:00",
+    "brand": "Gatorade",
+    "confidence": 0.737,
+    "dwell_seconds": 2.88
+  },
+  {
+    "id": 284,
+    "session_id": 19,
+    "timestamp": "2026-01-11T17:43:51.640306+00:00",
+    "brand": "Zara",
+    "confidence": 0.753,
+    "dwell_seconds": 2.85
+  },
+  {
+    "id": 285,
+    "session_id": 19,
+    "timestamp": "2026-01-11T17:44:03.640306+00:00",
+    "brand": "Sephora",
+    "confidence": 0.839,
+    "dwell_seconds": 2.9
+  },
+  {
+    "id": 286,
+    "session_id": 19,
+    "timestamp": "2026-01-11T17:44:28.640306+00:00",
+    "brand": "Uniqlo",
+    "confidence": 0.762,
+    "dwell_seconds": 2.38
+  },
+  {
+    "id": 287,
+    "session_id": 19,
+    "timestamp": "2026-01-11T17:44:43.640306+00:00",
+    "brand": "Uniqlo",
+    "confidence": 0.781,
+    "dwell_seconds": 2.85
+  },
+  {
+    "id": 288,
+    "session_id": 19,
+    "timestamp": "2026-01-11T17:45:02.640306+00:00",
+    "brand": "Uniqlo",
+    "confidence": 0.677,
+    "dwell_seconds": 3.58
+  },
+  {
+    "id": 289,
+    "session_id": 19,
+    "timestamp": "2026-01-11T17:45:19.640306+00:00",
+    "brand": "Uniqlo",
+    "confidence": 0.889,
+    "dwell_seconds": 3.25
+  },
+  {
+    "id": 290,
+    "session_id": 19,
+    "timestamp": "2026-01-11T17:45:28.640306+00:00",
+    "brand": "Uniqlo",
+    "confidence": 0.705,
+    "dwell_seconds": 3.2
+  },
+  {
+    "id": 291,
+    "session_id": 19,
+    "timestamp": "2026-01-11T17:45:37.640306+00:00",
+    "brand": "H&M",
+    "confidence": 0.926,
+    "dwell_seconds": 2.69
+  },
+  {
+    "id": 292,
+    "session_id": 19,
+    "timestamp": "2026-01-11T17:45:47.640306+00:00",
+    "brand": "H&M",
+    "confidence": 0.909,
+    "dwell_seconds": 3.52
+  },
+  {
+    "id": 293,
+    "session_id": 19,
+    "timestamp": "2026-01-11T17:46:09.640306+00:00",
+    "brand": "Uniqlo",
+    "confidence": 0.898,
+    "dwell_seconds": 3.44
+  },
+  {
+    "id": 294,
+    "session_id": 19,
+    "timestamp": "2026-01-11T17:46:17.640306+00:00",
+    "brand": "H&M",
+    "confidence": 0.744,
+    "dwell_seconds": 3.05
+  },
+  {
+    "id": 295,
+    "session_id": 19,
+    "timestamp": "2026-01-11T17:46:33.640306+00:00",
+    "brand": "Nike",
+    "confidence": 0.941,
+    "dwell_seconds": 2.96
+  },
+  {
+    "id": 296,
+    "session_id": 19,
+    "timestamp": "2026-01-11T17:46:38.640306+00:00",
+    "brand": "Nike",
+    "confidence": 0.64,
+    "dwell_seconds": 2.54
+  },
+  {
+    "id": 297,
+    "session_id": 19,
+    "timestamp": "2026-01-11T17:46:44.640306+00:00",
+    "brand": "Nike",
+    "confidence": 0.92,
+    "dwell_seconds": 3.01
+  },
+  {
+    "id": 298,
+    "session_id": 19,
+    "timestamp": "2026-01-11T17:46:51.640306+00:00",
+    "brand": "Sephora",
+    "confidence": 0.873,
+    "dwell_seconds": 3.4
+  },
+  {
+    "id": 299,
+    "session_id": 19,
+    "timestamp": "2026-01-11T17:46:58.640306+00:00",
+    "brand": "Sephora",
+    "confidence": 0.925,
+    "dwell_seconds": 3.16
+  },
+  {
+    "id": 300,
+    "session_id": 20,
+    "timestamp": "2026-01-11T07:58:02.135989+00:00",
+    "brand": "Costa",
+    "confidence": 0.917,
+    "dwell_seconds": 3.15
+  },
+  {
+    "id": 301,
+    "session_id": 20,
+    "timestamp": "2026-01-11T07:58:19.135989+00:00",
+    "brand": "Costa",
+    "confidence": 0.824,
+    "dwell_seconds": 3.12
+  },
+  {
+    "id": 302,
+    "session_id": 20,
+    "timestamp": "2026-01-11T07:58:40.135989+00:00",
+    "brand": "Spotify",
+    "confidence": 0.839,
+    "dwell_seconds": 2.45
+  },
+  {
+    "id": 303,
+    "session_id": 20,
+    "timestamp": "2026-01-11T07:58:47.135989+00:00",
+    "brand": "Spotify",
+    "confidence": 0.914,
+    "dwell_seconds": 2.81
+  },
+  {
+    "id": 304,
+    "session_id": 20,
+    "timestamp": "2026-01-11T07:59:04.135989+00:00",
+    "brand": "Trainline",
+    "confidence": 0.829,
+    "dwell_seconds": 3.11
+  },
+  {
+    "id": 305,
+    "session_id": 20,
+    "timestamp": "2026-01-11T07:59:29.135989+00:00",
+    "brand": "Trainline",
+    "confidence": 0.971,
+    "dwell_seconds": 2.75
+  },
+  {
+    "id": 306,
+    "session_id": 20,
+    "timestamp": "2026-01-11T07:59:40.135989+00:00",
+    "brand": "Trainline",
+    "confidence": 0.667,
+    "dwell_seconds": 2.97
+  },
+  {
+    "id": 307,
+    "session_id": 20,
+    "timestamp": "2026-01-11T08:00:06.135989+00:00",
+    "brand": "Trainline",
+    "confidence": 0.706,
+    "dwell_seconds": 2.01
+  },
+  {
+    "id": 308,
+    "session_id": 20,
+    "timestamp": "2026-01-11T08:00:29.135989+00:00",
+    "brand": "Costa",
+    "confidence": 0.662,
+    "dwell_seconds": 2.33
+  },
+  {
+    "id": 309,
+    "session_id": 21,
+    "timestamp": "2026-01-11T11:26:57.132575+00:00",
+    "brand": "Nike",
+    "confidence": 0.981,
+    "dwell_seconds": 2.43
+  },
+  {
+    "id": 310,
+    "session_id": 21,
+    "timestamp": "2026-01-11T11:27:13.132575+00:00",
+    "brand": "Nike",
+    "confidence": 0.905,
+    "dwell_seconds": 3.72
+  },
+  {
+    "id": 311,
+    "session_id": 21,
+    "timestamp": "2026-01-11T11:27:36.132575+00:00",
+    "brand": "Nike",
+    "confidence": 0.712,
+    "dwell_seconds": 2.93
+  },
+  {
+    "id": 312,
+    "session_id": 21,
+    "timestamp": "2026-01-11T11:27:44.132575+00:00",
+    "brand": "Nike",
+    "confidence": 0.94,
+    "dwell_seconds": 3.3
+  },
+  {
+    "id": 313,
+    "session_id": 21,
+    "timestamp": "2026-01-11T11:28:04.132575+00:00",
+    "brand": "Nike",
+    "confidence": 0.861,
+    "dwell_seconds": 3.57
+  },
+  {
+    "id": 314,
+    "session_id": 21,
+    "timestamp": "2026-01-11T11:28:09.132575+00:00",
+    "brand": "H&M",
+    "confidence": 0.771,
+    "dwell_seconds": 3.4
+  },
+  {
+    "id": 315,
+    "session_id": 21,
+    "timestamp": "2026-01-11T11:28:15.132575+00:00",
+    "brand": "Nike",
+    "confidence": 0.866,
+    "dwell_seconds": 2.96
+  },
+  {
+    "id": 316,
+    "session_id": 21,
+    "timestamp": "2026-01-11T11:28:27.132575+00:00",
+    "brand": "Nike",
+    "confidence": 0.812,
+    "dwell_seconds": 2.96
+  },
+  {
+    "id": 317,
+    "session_id": 21,
+    "timestamp": "2026-01-11T11:28:50.132575+00:00",
+    "brand": "Uniqlo",
+    "confidence": 0.961,
+    "dwell_seconds": 4.22
+  },
+  {
+    "id": 318,
+    "session_id": 21,
+    "timestamp": "2026-01-11T11:28:54.132575+00:00",
+    "brand": "Zara",
+    "confidence": 0.774,
+    "dwell_seconds": 3.01
+  },
+  {
+    "id": 319,
+    "session_id": 21,
+    "timestamp": "2026-01-11T11:28:59.132575+00:00",
+    "brand": "Zara",
+    "confidence": 0.735,
+    "dwell_seconds": 2.92
+  },
+  {
+    "id": 320,
+    "session_id": 21,
+    "timestamp": "2026-01-11T11:29:06.132575+00:00",
+    "brand": "H&M",
+    "confidence": 0.883,
+    "dwell_seconds": 2.62
+  },
+  {
+    "id": 321,
+    "session_id": 21,
+    "timestamp": "2026-01-11T11:29:14.132575+00:00",
+    "brand": "H&M",
+    "confidence": 0.944,
+    "dwell_seconds": 3.15
+  },
+  {
+    "id": 322,
+    "session_id": 21,
+    "timestamp": "2026-01-11T11:29:20.132575+00:00",
+    "brand": "H&M",
+    "confidence": 0.625,
+    "dwell_seconds": 2.16
+  },
+  {
+    "id": 323,
+    "session_id": 21,
+    "timestamp": "2026-01-11T11:29:24.132575+00:00",
+    "brand": "H&M",
+    "confidence": 0.866,
+    "dwell_seconds": 3.0
+  },
+  {
+    "id": 324,
+    "session_id": 21,
+    "timestamp": "2026-01-11T11:29:40.132575+00:00",
+    "brand": "H&M",
+    "confidence": 0.801,
+    "dwell_seconds": 2.98
+  },
+  {
+    "id": 325,
+    "session_id": 21,
+    "timestamp": "2026-01-11T11:30:02.132575+00:00",
+    "brand": "Zara",
+    "confidence": 0.687,
+    "dwell_seconds": 2.84
+  },
+  {
+    "id": 326,
+    "session_id": 21,
+    "timestamp": "2026-01-11T11:30:15.132575+00:00",
+    "brand": "Zara",
+    "confidence": 0.939,
+    "dwell_seconds": 4.33
+  },
+  {
+    "id": 327,
+    "session_id": 22,
+    "timestamp": "2026-01-12T13:15:45.939090+00:00",
+    "brand": "Post-it",
+    "confidence": 0.809,
+    "dwell_seconds": 3.57
+  },
+  {
+    "id": 328,
+    "session_id": 22,
+    "timestamp": "2026-01-12T13:16:52.939090+00:00",
+    "brand": "Nespresso",
+    "confidence": 0.891,
+    "dwell_seconds": 3.31
+  },
+  {
+    "id": 329,
+    "session_id": 22,
+    "timestamp": "2026-01-12T13:18:00.939090+00:00",
+    "brand": "Nespresso",
+    "confidence": 0.849,
+    "dwell_seconds": 4.23
+  },
+  {
+    "id": 330,
+    "session_id": 22,
+    "timestamp": "2026-01-12T13:19:27.939090+00:00",
+    "brand": "Slack",
+    "confidence": 0.879,
+    "dwell_seconds": 3.9
+  },
+  {
+    "id": 331,
+    "session_id": 22,
+    "timestamp": "2026-01-12T13:22:07.939090+00:00",
+    "brand": "Slack",
+    "confidence": 0.694,
+    "dwell_seconds": 2.63
+  },
+  {
+    "id": 332,
+    "session_id": 22,
+    "timestamp": "2026-01-12T13:23:09.939090+00:00",
+    "brand": "Slack",
+    "confidence": 0.968,
+    "dwell_seconds": 3.7
+  },
+  {
+    "id": 333,
+    "session_id": 22,
+    "timestamp": "2026-01-12T13:25:31.939090+00:00",
+    "brand": "Slack",
+    "confidence": 0.852,
+    "dwell_seconds": 3.15
+  },
+  {
+    "id": 334,
+    "session_id": 22,
+    "timestamp": "2026-01-12T13:28:17.939090+00:00",
+    "brand": "Apple",
+    "confidence": 0.89,
+    "dwell_seconds": 3.97
+  },
+  {
+    "id": 335,
+    "session_id": 22,
+    "timestamp": "2026-01-12T13:30:44.939090+00:00",
+    "brand": "Post-it",
+    "confidence": 0.832,
+    "dwell_seconds": 3.29
+  },
+  {
+    "id": 336,
+    "session_id": 22,
+    "timestamp": "2026-01-12T13:33:08.939090+00:00",
+    "brand": "Post-it",
+    "confidence": 0.896,
+    "dwell_seconds": 3.65
+  },
+  {
+    "id": 337,
+    "session_id": 22,
+    "timestamp": "2026-01-12T13:35:28.939090+00:00",
+    "brand": "Post-it",
+    "confidence": 0.859,
+    "dwell_seconds": 3.48
+  },
+  {
+    "id": 338,
+    "session_id": 22,
+    "timestamp": "2026-01-12T13:37:52.939090+00:00",
+    "brand": "Slack",
+    "confidence": 0.926,
+    "dwell_seconds": 4.32
+  },
+  {
+    "id": 339,
+    "session_id": 22,
+    "timestamp": "2026-01-12T13:40:29.939090+00:00",
+    "brand": "Post-it",
+    "confidence": 0.773,
+    "dwell_seconds": 3.19
+  },
+  {
+    "id": 340,
+    "session_id": 22,
+    "timestamp": "2026-01-12T13:41:37.939090+00:00",
+    "brand": "Nespresso",
+    "confidence": 0.886,
+    "dwell_seconds": 3.6
+  },
+  {
+    "id": 341,
+    "session_id": 22,
+    "timestamp": "2026-01-12T13:44:26.939090+00:00",
+    "brand": "Nespresso",
+    "confidence": 0.786,
+    "dwell_seconds": 3.56
+  },
+  {
+    "id": 342,
+    "session_id": 23,
+    "timestamp": "2026-01-12T21:19:26.882631+00:00",
+    "brand": "Sony",
+    "confidence": 0.809,
+    "dwell_seconds": 3.35
+  },
+  {
+    "id": 343,
+    "session_id": 23,
+    "timestamp": "2026-01-12T21:23:30.882631+00:00",
+    "brand": "Samsung",
+    "confidence": 0.905,
+    "dwell_seconds": 3.87
+  },
+  {
+    "id": 344,
+    "session_id": 23,
+    "timestamp": "2026-01-12T21:25:37.882631+00:00",
+    "brand": "Samsung",
+    "confidence": 0.995,
+    "dwell_seconds": 3.46
+  },
+  {
+    "id": 345,
+    "session_id": 23,
+    "timestamp": "2026-01-12T21:31:37.882631+00:00",
+    "brand": "Samsung",
+    "confidence": 0.824,
+    "dwell_seconds": 3.34
+  },
+  {
+    "id": 346,
+    "session_id": 23,
+    "timestamp": "2026-01-12T21:34:31.882631+00:00",
+    "brand": "Samsung",
+    "confidence": 0.776,
+    "dwell_seconds": 2.92
+  },
+  {
+    "id": 347,
+    "session_id": 23,
+    "timestamp": "2026-01-12T21:36:45.882631+00:00",
+    "brand": "IKEA",
+    "confidence": 0.901,
+    "dwell_seconds": 4.01
+  },
+  {
+    "id": 348,
+    "session_id": 23,
+    "timestamp": "2026-01-12T21:42:00.882631+00:00",
+    "brand": "IKEA",
+    "confidence": 0.918,
+    "dwell_seconds": 3.62
+  },
+  {
+    "id": 349,
+    "session_id": 23,
+    "timestamp": "2026-01-12T21:43:14.882631+00:00",
+    "brand": "IKEA",
+    "confidence": 0.875,
+    "dwell_seconds": 3.75
+  },
+  {
+    "id": 350,
+    "session_id": 23,
+    "timestamp": "2026-01-12T21:45:55.882631+00:00",
+    "brand": "IKEA",
+    "confidence": 0.85,
+    "dwell_seconds": 2.89
+  },
+  {
+    "id": 351,
+    "session_id": 23,
+    "timestamp": "2026-01-12T21:51:47.882631+00:00",
+    "brand": "Deliveroo",
+    "confidence": 0.738,
+    "dwell_seconds": 4.34
+  },
+  {
+    "id": 352,
+    "session_id": 23,
+    "timestamp": "2026-01-12T21:54:53.882631+00:00",
+    "brand": "Sony",
+    "confidence": 0.958,
+    "dwell_seconds": 3.69
+  },
+  {
+    "id": 353,
+    "session_id": 23,
+    "timestamp": "2026-01-12T21:56:35.882631+00:00",
+    "brand": "Sony",
+    "confidence": 0.882,
+    "dwell_seconds": 3.86
+  },
+  {
+    "id": 354,
+    "session_id": 23,
+    "timestamp": "2026-01-12T22:02:53.882631+00:00",
+    "brand": "Samsung",
+    "confidence": 0.932,
+    "dwell_seconds": 3.46
+  },
+  {
+    "id": 355,
+    "session_id": 24,
+    "timestamp": "2026-01-13T21:28:45.205517+00:00",
+    "brand": "Pepsi",
+    "confidence": 0.872,
+    "dwell_seconds": 4.0
+  },
+  {
+    "id": 356,
+    "session_id": 24,
+    "timestamp": "2026-01-13T21:32:26.205517+00:00",
+    "brand": "Haribo",
+    "confidence": 0.788,
+    "dwell_seconds": 3.49
+  },
+  {
+    "id": 357,
+    "session_id": 24,
+    "timestamp": "2026-01-13T21:34:47.205517+00:00",
+    "brand": "Haribo",
+    "confidence": 0.817,
+    "dwell_seconds": 3.44
+  },
+  {
+    "id": 358,
+    "session_id": 24,
+    "timestamp": "2026-01-13T21:37:22.205517+00:00",
+    "brand": "Haribo",
+    "confidence": 0.774,
+    "dwell_seconds": 4.22
+  },
+  {
+    "id": 359,
+    "session_id": 24,
+    "timestamp": "2026-01-13T21:41:40.205517+00:00",
+    "brand": "Haribo",
+    "confidence": 0.736,
+    "dwell_seconds": 3.35
+  },
+  {
+    "id": 360,
+    "session_id": 24,
+    "timestamp": "2026-01-13T21:46:05.205517+00:00",
+    "brand": "Haribo",
+    "confidence": 0.779,
+    "dwell_seconds": 3.19
+  },
+  {
+    "id": 361,
+    "session_id": 24,
+    "timestamp": "2026-01-13T21:47:44.205517+00:00",
+    "brand": "Haribo",
+    "confidence": 0.858,
+    "dwell_seconds": 3.06
+  },
+  {
+    "id": 362,
+    "session_id": 24,
+    "timestamp": "2026-01-13T21:50:40.205517+00:00",
+    "brand": "Odeon",
+    "confidence": 0.868,
+    "dwell_seconds": 3.46
+  },
+  {
+    "id": 363,
+    "session_id": 24,
+    "timestamp": "2026-01-13T21:53:16.205517+00:00",
+    "brand": "Odeon",
+    "confidence": 0.853,
+    "dwell_seconds": 3.92
+  },
+  {
+    "id": 364,
+    "session_id": 24,
+    "timestamp": "2026-01-13T21:56:33.205517+00:00",
+    "brand": "Odeon",
+    "confidence": 0.853,
+    "dwell_seconds": 3.74
+  },
+  {
+    "id": 365,
+    "session_id": 24,
+    "timestamp": "2026-01-13T22:00:43.205517+00:00",
+    "brand": "Ben & Jerry's",
+    "confidence": 0.954,
+    "dwell_seconds": 3.12
+  },
+  {
+    "id": 366,
+    "session_id": 24,
+    "timestamp": "2026-01-13T22:04:41.205517+00:00",
+    "brand": "Ben & Jerry's",
+    "confidence": 0.924,
+    "dwell_seconds": 3.18
+  },
+  {
+    "id": 367,
+    "session_id": 24,
+    "timestamp": "2026-01-13T22:06:32.205517+00:00",
+    "brand": "Ben & Jerry's",
+    "confidence": 0.823,
+    "dwell_seconds": 2.32
+  },
+  {
+    "id": 368,
+    "session_id": 24,
+    "timestamp": "2026-01-13T22:08:31.205517+00:00",
+    "brand": "Ben & Jerry's",
+    "confidence": 0.841,
+    "dwell_seconds": 2.96
+  },
+  {
+    "id": 369,
+    "session_id": 24,
+    "timestamp": "2026-01-13T22:10:37.205517+00:00",
+    "brand": "Pepsi",
+    "confidence": 0.875,
+    "dwell_seconds": 4.01
+  },
+  {
+    "id": 370,
+    "session_id": 25,
+    "timestamp": "2026-01-13T18:47:27.045004+00:00",
+    "brand": "Trainline",
+    "confidence": 0.956,
+    "dwell_seconds": 3.11
+  },
+  {
+    "id": 371,
+    "session_id": 25,
+    "timestamp": "2026-01-13T18:47:32.045004+00:00",
+    "brand": "Trainline",
+    "confidence": 0.934,
+    "dwell_seconds": 2.71
+  },
+  {
+    "id": 372,
+    "session_id": 25,
+    "timestamp": "2026-01-13T18:47:37.045004+00:00",
+    "brand": "Trainline",
+    "confidence": 0.772,
+    "dwell_seconds": 2.94
+  },
+  {
+    "id": 373,
+    "session_id": 25,
+    "timestamp": "2026-01-13T18:47:46.045004+00:00",
+    "brand": "Trainline",
+    "confidence": 0.926,
+    "dwell_seconds": 3.12
+  },
+  {
+    "id": 374,
+    "session_id": 25,
+    "timestamp": "2026-01-13T18:47:52.045004+00:00",
+    "brand": "Trainline",
+    "confidence": 0.969,
+    "dwell_seconds": 3.16
+  },
+  {
+    "id": 375,
+    "session_id": 25,
+    "timestamp": "2026-01-13T18:48:22.045004+00:00",
+    "brand": "Trainline",
+    "confidence": 0.786,
+    "dwell_seconds": 3.49
+  },
+  {
+    "id": 376,
+    "session_id": 25,
+    "timestamp": "2026-01-13T18:48:38.045004+00:00",
+    "brand": "Trainline",
+    "confidence": 0.758,
+    "dwell_seconds": 3.16
+  },
+  {
+    "id": 377,
+    "session_id": 25,
+    "timestamp": "2026-01-13T18:48:48.045004+00:00",
+    "brand": "Trainline",
+    "confidence": 0.928,
+    "dwell_seconds": 3.7
+  },
+  {
+    "id": 378,
+    "session_id": 25,
+    "timestamp": "2026-01-13T18:49:12.045004+00:00",
+    "brand": "Costa",
+    "confidence": 0.754,
+    "dwell_seconds": 2.15
+  },
+  {
+    "id": 379,
+    "session_id": 25,
+    "timestamp": "2026-01-13T18:49:32.045004+00:00",
+    "brand": "Trainline",
+    "confidence": 0.97,
+    "dwell_seconds": 3.19
+  },
+  {
+    "id": 380,
+    "session_id": 25,
+    "timestamp": "2026-01-13T18:49:42.045004+00:00",
+    "brand": "Trainline",
+    "confidence": 0.909,
+    "dwell_seconds": 2.35
+  },
+  {
+    "id": 381,
+    "session_id": 25,
+    "timestamp": "2026-01-13T18:50:09.045004+00:00",
+    "brand": "Trainline",
+    "confidence": 0.821,
+    "dwell_seconds": 3.8
+  },
+  {
+    "id": 382,
+    "session_id": 26,
+    "timestamp": "2026-01-14T19:16:07.477238+00:00",
+    "brand": "Under Armour",
+    "confidence": 0.861,
+    "dwell_seconds": 3.22
+  },
+  {
+    "id": 383,
+    "session_id": 26,
+    "timestamp": "2026-01-14T19:16:26.477238+00:00",
+    "brand": "Under Armour",
+    "confidence": 0.845,
+    "dwell_seconds": 2.98
+  },
+  {
+    "id": 384,
+    "session_id": 26,
+    "timestamp": "2026-01-14T19:17:08.477238+00:00",
+    "brand": "Nike",
+    "confidence": 0.883,
+    "dwell_seconds": 2.56
+  },
+  {
+    "id": 385,
+    "session_id": 26,
+    "timestamp": "2026-01-14T19:17:18.477238+00:00",
+    "brand": "Lucozade",
+    "confidence": 0.822,
+    "dwell_seconds": 3.53
+  },
+  {
+    "id": 386,
+    "session_id": 26,
+    "timestamp": "2026-01-14T19:17:39.477238+00:00",
+    "brand": "Lucozade",
+    "confidence": 0.846,
+    "dwell_seconds": 3.14
+  },
+  {
+    "id": 387,
+    "session_id": 26,
+    "timestamp": "2026-01-14T19:18:15.477238+00:00",
+    "brand": "Lucozade",
+    "confidence": 0.776,
+    "dwell_seconds": 3.73
+  },
+  {
+    "id": 388,
+    "session_id": 26,
+    "timestamp": "2026-01-14T19:18:46.477238+00:00",
+    "brand": "Lucozade",
+    "confidence": 0.978,
+    "dwell_seconds": 3.97
+  },
+  {
+    "id": 389,
+    "session_id": 26,
+    "timestamp": "2026-01-14T19:18:58.477238+00:00",
+    "brand": "Adidas",
+    "confidence": 0.903,
+    "dwell_seconds": 3.45
+  },
+  {
+    "id": 390,
+    "session_id": 26,
+    "timestamp": "2026-01-14T19:19:21.477238+00:00",
+    "brand": "Gatorade",
+    "confidence": 0.819,
+    "dwell_seconds": 2.93
+  },
+  {
+    "id": 391,
+    "session_id": 26,
+    "timestamp": "2026-01-14T19:19:36.477238+00:00",
+    "brand": "Gatorade",
+    "confidence": 0.895,
+    "dwell_seconds": 3.39
+  },
+  {
+    "id": 392,
+    "session_id": 26,
+    "timestamp": "2026-01-14T19:20:03.477238+00:00",
+    "brand": "Gatorade",
+    "confidence": 0.717,
+    "dwell_seconds": 2.38
+  },
+  {
+    "id": 393,
+    "session_id": 26,
+    "timestamp": "2026-01-14T19:20:47.477238+00:00",
+    "brand": "Under Armour",
+    "confidence": 0.756,
+    "dwell_seconds": 3.45
+  },
+  {
+    "id": 394,
+    "session_id": 26,
+    "timestamp": "2026-01-14T19:21:26.477238+00:00",
+    "brand": "Under Armour",
+    "confidence": 0.693,
+    "dwell_seconds": 3.14
+  },
+  {
+    "id": 395,
+    "session_id": 26,
+    "timestamp": "2026-01-14T19:22:07.477238+00:00",
+    "brand": "Adidas",
+    "confidence": 0.715,
+    "dwell_seconds": 3.14
+  },
+  {
+    "id": 396,
+    "session_id": 26,
+    "timestamp": "2026-01-14T19:22:19.477238+00:00",
+    "brand": "Gatorade",
+    "confidence": 0.907,
+    "dwell_seconds": 3.17
+  },
+  {
+    "id": 397,
+    "session_id": 26,
+    "timestamp": "2026-01-14T19:22:56.477238+00:00",
+    "brand": "Adidas",
+    "confidence": 0.76,
+    "dwell_seconds": 2.84
+  },
+  {
+    "id": 398,
+    "session_id": 26,
+    "timestamp": "2026-01-14T19:23:40.477238+00:00",
+    "brand": "Gatorade",
+    "confidence": 0.841,
+    "dwell_seconds": 2.64
+  },
+  {
+    "id": 399,
+    "session_id": 27,
+    "timestamp": "2026-01-14T22:52:56.880175+00:00",
+    "brand": "Heineken",
+    "confidence": 0.793,
+    "dwell_seconds": 2.88
+  },
+  {
+    "id": 400,
+    "session_id": 27,
+    "timestamp": "2026-01-14T22:53:41.880175+00:00",
+    "brand": "Heineken",
+    "confidence": 0.935,
+    "dwell_seconds": 2.75
+  },
+  {
+    "id": 401,
+    "session_id": 27,
+    "timestamp": "2026-01-14T22:54:58.880175+00:00",
+    "brand": "Heineken",
+    "confidence": 0.788,
+    "dwell_seconds": 2.24
+  },
+  {
+    "id": 402,
+    "session_id": 27,
+    "timestamp": "2026-01-14T22:55:27.880175+00:00",
+    "brand": "Doritos",
+    "confidence": 0.927,
+    "dwell_seconds": 3.45
+  },
+  {
+    "id": 403,
+    "session_id": 27,
+    "timestamp": "2026-01-14T22:56:53.880175+00:00",
+    "brand": "Pepsi",
+    "confidence": 0.85,
+    "dwell_seconds": 3.26
+  },
+  {
+    "id": 404,
+    "session_id": 27,
+    "timestamp": "2026-01-14T22:58:03.880175+00:00",
+    "brand": "Heineken",
+    "confidence": 0.784,
+    "dwell_seconds": 2.54
+  },
+  {
+    "id": 405,
+    "session_id": 27,
+    "timestamp": "2026-01-14T22:59:52.880175+00:00",
+    "brand": "Heineken",
+    "confidence": 0.563,
+    "dwell_seconds": 2.21
+  },
+  {
+    "id": 406,
+    "session_id": 27,
+    "timestamp": "2026-01-14T23:01:46.880175+00:00",
+    "brand": "Doritos",
+    "confidence": 0.921,
+    "dwell_seconds": 2.56
+  },
+  {
+    "id": 407,
+    "session_id": 27,
+    "timestamp": "2026-01-14T23:03:21.880175+00:00",
+    "brand": "Doritos",
+    "confidence": 0.917,
+    "dwell_seconds": 2.59
+  },
+  {
+    "id": 408,
+    "session_id": 27,
+    "timestamp": "2026-01-14T23:04:10.880175+00:00",
+    "brand": "Doritos",
+    "confidence": 0.879,
+    "dwell_seconds": 3.01
+  },
+  {
+    "id": 409,
+    "session_id": 27,
+    "timestamp": "2026-01-14T23:05:28.880175+00:00",
+    "brand": "Doritos",
+    "confidence": 0.72,
+    "dwell_seconds": 2.66
+  },
+  {
+    "id": 410,
+    "session_id": 27,
+    "timestamp": "2026-01-14T23:07:44.880175+00:00",
+    "brand": "Doritos",
+    "confidence": 0.816,
+    "dwell_seconds": 3.15
+  },
+  {
+    "id": 411,
+    "session_id": 27,
+    "timestamp": "2026-01-14T23:09:51.880175+00:00",
+    "brand": "Doritos",
+    "confidence": 0.945,
+    "dwell_seconds": 3.55
+  },
+  {
+    "id": 412,
+    "session_id": 27,
+    "timestamp": "2026-01-14T23:12:11.880175+00:00",
+    "brand": "Doritos",
+    "confidence": 0.8,
+    "dwell_seconds": 2.9
+  },
+  {
+    "id": 413,
+    "session_id": 27,
+    "timestamp": "2026-01-14T23:13:36.880175+00:00",
+    "brand": "Pepsi",
+    "confidence": 0.89,
+    "dwell_seconds": 2.87
+  },
+  {
+    "id": 414,
+    "session_id": 27,
+    "timestamp": "2026-01-14T23:15:53.880175+00:00",
+    "brand": "Sky Sports",
+    "confidence": 0.83,
+    "dwell_seconds": 3.39
+  },
+  {
+    "id": 415,
+    "session_id": 27,
+    "timestamp": "2026-01-14T23:17:36.880175+00:00",
+    "brand": "Doritos",
+    "confidence": 0.692,
+    "dwell_seconds": 2.78
+  },
+  {
+    "id": 416,
+    "session_id": 28,
+    "timestamp": "2026-01-14T17:43:42.068305+00:00",
+    "brand": "Nike",
+    "confidence": 0.673,
+    "dwell_seconds": 2.81
+  },
+  {
+    "id": 417,
+    "session_id": 28,
+    "timestamp": "2026-01-14T17:44:03.068305+00:00",
+    "brand": "Nike",
+    "confidence": 0.924,
+    "dwell_seconds": 2.74
+  },
+  {
+    "id": 418,
+    "session_id": 28,
+    "timestamp": "2026-01-14T17:44:45.068305+00:00",
+    "brand": "Nike",
+    "confidence": 0.836,
+    "dwell_seconds": 2.38
+  },
+  {
+    "id": 419,
+    "session_id": 28,
+    "timestamp": "2026-01-14T17:45:15.068305+00:00",
+    "brand": "Nike",
+    "confidence": 0.887,
+    "dwell_seconds": 3.02
+  },
+  {
+    "id": 420,
+    "session_id": 28,
+    "timestamp": "2026-01-14T17:45:45.068305+00:00",
+    "brand": "Nike",
+    "confidence": 0.873,
+    "dwell_seconds": 2.24
+  },
+  {
+    "id": 421,
+    "session_id": 28,
+    "timestamp": "2026-01-14T17:46:01.068305+00:00",
+    "brand": "Nike",
+    "confidence": 0.786,
+    "dwell_seconds": 3.39
+  },
+  {
+    "id": 422,
+    "session_id": 28,
+    "timestamp": "2026-01-14T17:46:22.068305+00:00",
+    "brand": "Gatorade",
+    "confidence": 0.754,
+    "dwell_seconds": 3.28
+  },
+  {
+    "id": 423,
+    "session_id": 28,
+    "timestamp": "2026-01-14T17:46:49.068305+00:00",
+    "brand": "Lucozade",
+    "confidence": 0.785,
+    "dwell_seconds": 3.34
+  },
+  {
+    "id": 424,
+    "session_id": 28,
+    "timestamp": "2026-01-14T17:47:25.068305+00:00",
+    "brand": "Under Armour",
+    "confidence": 0.838,
+    "dwell_seconds": 3.43
+  },
+  {
+    "id": 425,
+    "session_id": 28,
+    "timestamp": "2026-01-14T17:48:06.068305+00:00",
+    "brand": "Under Armour",
+    "confidence": 0.866,
+    "dwell_seconds": 3.38
+  },
+  {
+    "id": 426,
+    "session_id": 28,
+    "timestamp": "2026-01-14T17:48:14.068305+00:00",
+    "brand": "Under Armour",
+    "confidence": 0.637,
+    "dwell_seconds": 3.66
+  },
+  {
+    "id": 427,
+    "session_id": 29,
+    "timestamp": "2026-01-15T21:24:48.057071+00:00",
+    "brand": "Deliveroo",
+    "confidence": 0.679,
+    "dwell_seconds": 3.52
+  },
+  {
+    "id": 428,
+    "session_id": 29,
+    "timestamp": "2026-01-15T21:25:48.057071+00:00",
+    "brand": "Deliveroo",
+    "confidence": 0.86,
+    "dwell_seconds": 3.5
+  },
+  {
+    "id": 429,
+    "session_id": 29,
+    "timestamp": "2026-01-15T21:28:42.057071+00:00",
+    "brand": "Sony",
+    "confidence": 0.919,
+    "dwell_seconds": 3.12
+  },
+  {
+    "id": 430,
+    "session_id": 29,
+    "timestamp": "2026-01-15T21:32:11.057071+00:00",
+    "brand": "Sony",
+    "confidence": 0.776,
+    "dwell_seconds": 3.67
+  },
+  {
+    "id": 431,
+    "session_id": 29,
+    "timestamp": "2026-01-15T21:37:32.057071+00:00",
+    "brand": "Samsung",
+    "confidence": 0.821,
+    "dwell_seconds": 3.62
+  },
+  {
+    "id": 432,
+    "session_id": 29,
+    "timestamp": "2026-01-15T21:39:38.057071+00:00",
+    "brand": "Samsung",
+    "confidence": 0.878,
+    "dwell_seconds": 4.0
+  },
+  {
+    "id": 433,
+    "session_id": 29,
+    "timestamp": "2026-01-15T21:40:59.057071+00:00",
+    "brand": "Samsung",
+    "confidence": 0.906,
+    "dwell_seconds": 3.99
+  },
+  {
+    "id": 434,
+    "session_id": 29,
+    "timestamp": "2026-01-15T21:43:07.057071+00:00",
+    "brand": "Netflix",
+    "confidence": 0.832,
+    "dwell_seconds": 3.41
+  },
+  {
+    "id": 435,
+    "session_id": 29,
+    "timestamp": "2026-01-15T21:44:50.057071+00:00",
+    "brand": "Netflix",
+    "confidence": 0.808,
+    "dwell_seconds": 3.91
+  },
+  {
+    "id": 436,
+    "session_id": 29,
+    "timestamp": "2026-01-15T21:48:41.057071+00:00",
+    "brand": "Netflix",
+    "confidence": 0.831,
+    "dwell_seconds": 3.11
+  },
+  {
+    "id": 437,
+    "session_id": 30,
+    "timestamp": "2026-01-15T19:25:14.981523+00:00",
+    "brand": "Deliveroo",
+    "confidence": 0.794,
+    "dwell_seconds": 3.66
+  },
+  {
+    "id": 438,
+    "session_id": 30,
+    "timestamp": "2026-01-15T19:27:16.981523+00:00",
+    "brand": "Netflix",
+    "confidence": 0.93,
+    "dwell_seconds": 4.37
+  },
+  {
+    "id": 439,
+    "session_id": 30,
+    "timestamp": "2026-01-15T19:28:18.981523+00:00",
+    "brand": "Samsung",
+    "confidence": 0.868,
+    "dwell_seconds": 3.57
+  },
+  {
+    "id": 440,
+    "session_id": 30,
+    "timestamp": "2026-01-15T19:31:42.981523+00:00",
+    "brand": "Samsung",
+    "confidence": 0.79,
+    "dwell_seconds": 3.87
+  },
+  {
+    "id": 441,
+    "session_id": 30,
+    "timestamp": "2026-01-15T19:35:42.981523+00:00",
+    "brand": "Samsung",
+    "confidence": 0.839,
+    "dwell_seconds": 3.18
+  },
+  {
+    "id": 442,
+    "session_id": 30,
+    "timestamp": "2026-01-15T19:38:41.981523+00:00",
+    "brand": "Samsung",
+    "confidence": 0.683,
+    "dwell_seconds": 3.27
+  },
+  {
+    "id": 443,
+    "session_id": 30,
+    "timestamp": "2026-01-15T19:44:56.981523+00:00",
+    "brand": "Sony",
+    "confidence": 0.954,
+    "dwell_seconds": 4.28
+  },
+  {
+    "id": 444,
+    "session_id": 30,
+    "timestamp": "2026-01-15T19:47:55.981523+00:00",
+    "brand": "Sony",
+    "confidence": 0.956,
+    "dwell_seconds": 4.61
+  },
+  {
+    "id": 445,
+    "session_id": 30,
+    "timestamp": "2026-01-15T19:51:16.981523+00:00",
+    "brand": "IKEA",
+    "confidence": 0.917,
+    "dwell_seconds": 4.07
+  },
+  {
+    "id": 446,
+    "session_id": 30,
+    "timestamp": "2026-01-15T19:55:25.981523+00:00",
+    "brand": "Samsung",
+    "confidence": 0.674,
+    "dwell_seconds": 3.35
+  },
+  {
+    "id": 447,
+    "session_id": 30,
+    "timestamp": "2026-01-15T19:59:55.981523+00:00",
+    "brand": "Samsung",
+    "confidence": 0.797,
+    "dwell_seconds": 3.71
+  },
+  {
+    "id": 448,
+    "session_id": 30,
+    "timestamp": "2026-01-15T20:05:57.981523+00:00",
+    "brand": "Samsung",
+    "confidence": 0.722,
+    "dwell_seconds": 4.3
+  },
+  {
+    "id": 449,
+    "session_id": 30,
+    "timestamp": "2026-01-15T20:10:15.981523+00:00",
+    "brand": "Samsung",
+    "confidence": 0.798,
+    "dwell_seconds": 2.97
+  },
+  {
+    "id": 450,
+    "session_id": 30,
+    "timestamp": "2026-01-15T20:14:38.981523+00:00",
+    "brand": "Samsung",
+    "confidence": 0.858,
+    "dwell_seconds": 4.66
+  },
+  {
+    "id": 451,
+    "session_id": 30,
+    "timestamp": "2026-01-15T20:17:50.981523+00:00",
+    "brand": "Samsung",
+    "confidence": 0.853,
+    "dwell_seconds": 3.42
+  },
+  {
+    "id": 452,
+    "session_id": 30,
+    "timestamp": "2026-01-15T20:19:17.981523+00:00",
+    "brand": "Netflix",
+    "confidence": 0.651,
+    "dwell_seconds": 3.63
+  },
+  {
+    "id": 453,
+    "session_id": 30,
+    "timestamp": "2026-01-15T20:25:53.981523+00:00",
+    "brand": "Netflix",
+    "confidence": 0.884,
+    "dwell_seconds": 3.46
+  },
+  {
+    "id": 454,
+    "session_id": 31,
+    "timestamp": "2026-01-16T21:24:15.697077+00:00",
+    "brand": "Haribo",
+    "confidence": 0.735,
+    "dwell_seconds": 3.01
+  },
+  {
+    "id": 455,
+    "session_id": 31,
+    "timestamp": "2026-01-16T21:26:10.697077+00:00",
+    "brand": "Ben & Jerry's",
+    "confidence": 0.932,
+    "dwell_seconds": 4.04
+  },
+  {
+    "id": 456,
+    "session_id": 31,
+    "timestamp": "2026-01-16T21:30:31.697077+00:00",
+    "brand": "Ben & Jerry's",
+    "confidence": 0.809,
+    "dwell_seconds": 3.25
+  },
+  {
+    "id": 457,
+    "session_id": 31,
+    "timestamp": "2026-01-16T21:35:08.697077+00:00",
+    "brand": "Ben & Jerry's",
+    "confidence": 0.758,
+    "dwell_seconds": 4.14
+  },
+  {
+    "id": 458,
+    "session_id": 31,
+    "timestamp": "2026-01-16T21:38:08.697077+00:00",
+    "brand": "Ben & Jerry's",
+    "confidence": 0.769,
+    "dwell_seconds": 2.97
+  },
+  {
+    "id": 459,
+    "session_id": 31,
+    "timestamp": "2026-01-16T21:39:51.697077+00:00",
+    "brand": "Ben & Jerry's",
+    "confidence": 0.777,
+    "dwell_seconds": 2.55
+  },
+  {
+    "id": 460,
+    "session_id": 31,
+    "timestamp": "2026-01-16T21:43:35.697077+00:00",
+    "brand": "Haribo",
+    "confidence": 0.936,
+    "dwell_seconds": 3.62
+  },
+  {
+    "id": 461,
+    "session_id": 31,
+    "timestamp": "2026-01-16T21:45:12.697077+00:00",
+    "brand": "Haribo",
+    "confidence": 0.811,
+    "dwell_seconds": 3.01
+  },
+  {
+    "id": 462,
+    "session_id": 31,
+    "timestamp": "2026-01-16T21:47:43.697077+00:00",
+    "brand": "Haribo",
+    "confidence": 0.875,
+    "dwell_seconds": 3.34
+  },
+  {
+    "id": 463,
+    "session_id": 31,
+    "timestamp": "2026-01-16T21:51:05.697077+00:00",
+    "brand": "Pepsi",
+    "confidence": 0.776,
+    "dwell_seconds": 3.74
+  },
+  {
+    "id": 464,
+    "session_id": 31,
+    "timestamp": "2026-01-16T21:53:27.697077+00:00",
+    "brand": "Pepsi",
+    "confidence": 0.893,
+    "dwell_seconds": 3.46
+  },
+  {
+    "id": 465,
+    "session_id": 31,
+    "timestamp": "2026-01-16T21:55:51.697077+00:00",
+    "brand": "Pepsi",
+    "confidence": 0.779,
+    "dwell_seconds": 3.62
+  },
+  {
+    "id": 466,
+    "session_id": 32,
+    "timestamp": "2026-01-16T16:13:37.021147+00:00",
+    "brand": "Pret",
+    "confidence": 0.937,
+    "dwell_seconds": 3.47
+  },
+  {
+    "id": 467,
+    "session_id": 32,
+    "timestamp": "2026-01-16T16:15:06.021147+00:00",
+    "brand": "Pret",
+    "confidence": 0.949,
+    "dwell_seconds": 3.1
+  },
+  {
+    "id": 468,
+    "session_id": 32,
+    "timestamp": "2026-01-16T16:16:21.021147+00:00",
+    "brand": "Pret",
+    "confidence": 0.861,
+    "dwell_seconds": 4.27
+  },
+  {
+    "id": 469,
+    "session_id": 32,
+    "timestamp": "2026-01-16T16:19:35.021147+00:00",
+    "brand": "Pret",
+    "confidence": 0.836,
+    "dwell_seconds": 3.13
+  },
+  {
+    "id": 470,
+    "session_id": 32,
+    "timestamp": "2026-01-16T16:22:14.021147+00:00",
+    "brand": "Apple",
+    "confidence": 0.883,
+    "dwell_seconds": 3.15
+  },
+  {
+    "id": 471,
+    "session_id": 32,
+    "timestamp": "2026-01-16T16:24:21.021147+00:00",
+    "brand": "Oatly",
+    "confidence": 0.928,
+    "dwell_seconds": 3.43
+  },
+  {
+    "id": 472,
+    "session_id": 32,
+    "timestamp": "2026-01-16T16:26:17.021147+00:00",
+    "brand": "Oatly",
+    "confidence": 0.842,
+    "dwell_seconds": 3.3
+  },
+  {
+    "id": 473,
+    "session_id": 32,
+    "timestamp": "2026-01-16T16:29:13.021147+00:00",
+    "brand": "Oatly",
+    "confidence": 0.626,
+    "dwell_seconds": 2.8
+  },
+  {
+    "id": 474,
+    "session_id": 32,
+    "timestamp": "2026-01-16T16:29:55.021147+00:00",
+    "brand": "Costa",
+    "confidence": 0.615,
+    "dwell_seconds": 3.62
+  },
+  {
+    "id": 475,
+    "session_id": 32,
+    "timestamp": "2026-01-16T16:33:05.021147+00:00",
+    "brand": "Pret",
+    "confidence": 0.979,
+    "dwell_seconds": 3.52
+  },
+  {
+    "id": 476,
+    "session_id": 32,
+    "timestamp": "2026-01-16T16:34:27.021147+00:00",
+    "brand": "Pret",
+    "confidence": 0.814,
+    "dwell_seconds": 3.7
+  },
+  {
+    "id": 477,
+    "session_id": 32,
+    "timestamp": "2026-01-16T16:36:52.021147+00:00",
+    "brand": "Pret",
+    "confidence": 0.815,
+    "dwell_seconds": 3.38
+  },
+  {
+    "id": 478,
+    "session_id": 32,
+    "timestamp": "2026-01-16T16:40:05.021147+00:00",
+    "brand": "Pret",
+    "confidence": 0.771,
+    "dwell_seconds": 2.66
+  },
+  {
+    "id": 479,
+    "session_id": 32,
+    "timestamp": "2026-01-16T16:42:56.021147+00:00",
+    "brand": "Pret",
+    "confidence": 0.898,
+    "dwell_seconds": 3.46
+  },
+  {
+    "id": 480,
+    "session_id": 32,
+    "timestamp": "2026-01-16T16:44:49.021147+00:00",
+    "brand": "Pret",
+    "confidence": 0.877,
+    "dwell_seconds": 3.45
+  },
+  {
+    "id": 481,
+    "session_id": 32,
+    "timestamp": "2026-01-16T16:45:27.021147+00:00",
+    "brand": "Apple",
+    "confidence": 0.821,
+    "dwell_seconds": 3.45
+  },
+  {
+    "id": 482,
+    "session_id": 32,
+    "timestamp": "2026-01-16T16:46:37.021147+00:00",
+    "brand": "Apple",
+    "confidence": 0.915,
+    "dwell_seconds": 4.22
+  },
+  {
+    "id": 483,
+    "session_id": 32,
+    "timestamp": "2026-01-16T16:49:38.021147+00:00",
+    "brand": "Apple",
+    "confidence": 0.83,
+    "dwell_seconds": 4.22
+  },
+  {
+    "id": 484,
+    "session_id": 33,
+    "timestamp": "2026-01-17T14:42:25.022380+00:00",
+    "brand": "Pret",
+    "confidence": 0.795,
+    "dwell_seconds": 4.12
+  },
+  {
+    "id": 485,
+    "session_id": 33,
+    "timestamp": "2026-01-17T14:43:14.022380+00:00",
+    "brand": "Pret",
+    "confidence": 0.863,
+    "dwell_seconds": 3.98
+  },
+  {
+    "id": 486,
+    "session_id": 33,
+    "timestamp": "2026-01-17T14:45:20.022380+00:00",
+    "brand": "Pret",
+    "confidence": 0.795,
+    "dwell_seconds": 3.58
+  },
+  {
+    "id": 487,
+    "session_id": 33,
+    "timestamp": "2026-01-17T14:45:59.022380+00:00",
+    "brand": "Pret",
+    "confidence": 0.948,
+    "dwell_seconds": 3.12
+  },
+  {
+    "id": 488,
+    "session_id": 33,
+    "timestamp": "2026-01-17T14:48:53.022380+00:00",
+    "brand": "Pret",
+    "confidence": 0.96,
+    "dwell_seconds": 3.61
+  },
+  {
+    "id": 489,
+    "session_id": 33,
+    "timestamp": "2026-01-17T14:49:26.022380+00:00",
+    "brand": "Pret",
+    "confidence": 0.816,
+    "dwell_seconds": 3.76
+  },
+  {
+    "id": 490,
+    "session_id": 33,
+    "timestamp": "2026-01-17T14:50:54.022380+00:00",
+    "brand": "Costa",
+    "confidence": 0.871,
+    "dwell_seconds": 3.94
+  },
+  {
+    "id": 491,
+    "session_id": 33,
+    "timestamp": "2026-01-17T14:53:01.022380+00:00",
+    "brand": "Costa",
+    "confidence": 0.874,
+    "dwell_seconds": 3.69
+  },
+  {
+    "id": 492,
+    "session_id": 33,
+    "timestamp": "2026-01-17T14:55:23.022380+00:00",
+    "brand": "Innocent",
+    "confidence": 0.963,
+    "dwell_seconds": 3.31
+  },
+  {
+    "id": 493,
+    "session_id": 33,
+    "timestamp": "2026-01-17T14:56:28.022380+00:00",
+    "brand": "Innocent",
+    "confidence": 0.906,
+    "dwell_seconds": 3.99
+  },
+  {
+    "id": 494,
+    "session_id": 33,
+    "timestamp": "2026-01-17T14:59:35.022380+00:00",
+    "brand": "Oatly",
+    "confidence": 0.908,
+    "dwell_seconds": 3.82
+  },
+  {
+    "id": 495,
+    "session_id": 34,
+    "timestamp": "2026-01-17T19:43:11.710720+00:00",
+    "brand": "Apple",
+    "confidence": 0.82,
+    "dwell_seconds": 3.29
+  },
+  {
+    "id": 496,
+    "session_id": 34,
+    "timestamp": "2026-01-17T19:43:21.710720+00:00",
+    "brand": "Costa",
+    "confidence": 0.788,
+    "dwell_seconds": 2.9
+  },
+  {
+    "id": 497,
+    "session_id": 34,
+    "timestamp": "2026-01-17T19:43:42.710720+00:00",
+    "brand": "Spotify",
+    "confidence": 0.9,
+    "dwell_seconds": 2.64
+  },
+  {
+    "id": 498,
+    "session_id": 34,
+    "timestamp": "2026-01-17T19:43:50.710720+00:00",
+    "brand": "Apple",
+    "confidence": 0.832,
+    "dwell_seconds": 2.91
+  },
+  {
+    "id": 499,
+    "session_id": 34,
+    "timestamp": "2026-01-17T19:44:09.710720+00:00",
+    "brand": "Spotify",
+    "confidence": 0.638,
+    "dwell_seconds": 3.19
+  },
+  {
+    "id": 500,
+    "session_id": 34,
+    "timestamp": "2026-01-17T19:44:30.710720+00:00",
+    "brand": "Spotify",
+    "confidence": 0.914,
+    "dwell_seconds": 3.0
+  },
+  {
+    "id": 501,
+    "session_id": 34,
+    "timestamp": "2026-01-17T19:44:55.710720+00:00",
+    "brand": "Spotify",
+    "confidence": 0.807,
+    "dwell_seconds": 2.96
+  },
+  {
+    "id": 502,
+    "session_id": 34,
+    "timestamp": "2026-01-17T19:45:08.710720+00:00",
+    "brand": "Spotify",
+    "confidence": 0.629,
+    "dwell_seconds": 2.79
+  },
+  {
+    "id": 503,
+    "session_id": 35,
+    "timestamp": "2026-01-17T19:40:27.889426+00:00",
+    "brand": "Coca-Cola",
+    "confidence": 0.712,
+    "dwell_seconds": 3.66
+  },
+  {
+    "id": 504,
+    "session_id": 35,
+    "timestamp": "2026-01-17T19:42:31.889426+00:00",
+    "brand": "Ben & Jerry's",
+    "confidence": 0.762,
+    "dwell_seconds": 3.75
+  },
+  {
+    "id": 505,
+    "session_id": 35,
+    "timestamp": "2026-01-17T19:45:02.889426+00:00",
+    "brand": "Ben & Jerry's",
+    "confidence": 0.816,
+    "dwell_seconds": 3.91
+  },
+  {
+    "id": 506,
+    "session_id": 35,
+    "timestamp": "2026-01-17T19:48:05.889426+00:00",
+    "brand": "Ben & Jerry's",
+    "confidence": 0.778,
+    "dwell_seconds": 2.69
+  },
+  {
+    "id": 507,
+    "session_id": 35,
+    "timestamp": "2026-01-17T19:52:10.889426+00:00",
+    "brand": "Odeon",
+    "confidence": 0.856,
+    "dwell_seconds": 4.16
+  },
+  {
+    "id": 508,
+    "session_id": 35,
+    "timestamp": "2026-01-17T19:54:46.889426+00:00",
+    "brand": "Coca-Cola",
+    "confidence": 0.754,
+    "dwell_seconds": 3.41
+  },
+  {
+    "id": 509,
+    "session_id": 35,
+    "timestamp": "2026-01-17T19:59:34.889426+00:00",
+    "brand": "Coca-Cola",
+    "confidence": 0.852,
+    "dwell_seconds": 4.31
+  },
+  {
+    "id": 510,
+    "session_id": 35,
+    "timestamp": "2026-01-17T20:02:53.889426+00:00",
+    "brand": "Coca-Cola",
+    "confidence": 0.871,
+    "dwell_seconds": 4.57
+  },
+  {
+    "id": 511,
+    "session_id": 35,
+    "timestamp": "2026-01-17T20:03:46.889426+00:00",
+    "brand": "Coca-Cola",
+    "confidence": 0.988,
+    "dwell_seconds": 4.27
+  },
+  {
+    "id": 512,
+    "session_id": 35,
+    "timestamp": "2026-01-17T20:08:32.889426+00:00",
+    "brand": "Coca-Cola",
+    "confidence": 0.79,
+    "dwell_seconds": 3.64
+  },
+  {
+    "id": 513,
+    "session_id": 36,
+    "timestamp": "2026-01-18T13:13:26.616500+00:00",
+    "brand": "Kellogg's",
+    "confidence": 0.825,
+    "dwell_seconds": 4.17
+  },
+  {
+    "id": 514,
+    "session_id": 36,
+    "timestamp": "2026-01-18T13:13:53.616500+00:00",
+    "brand": "Kellogg's",
+    "confidence": 0.88,
+    "dwell_seconds": 3.6
+  },
+  {
+    "id": 515,
+    "session_id": 36,
+    "timestamp": "2026-01-18T13:14:23.616500+00:00",
+    "brand": "Kellogg's",
+    "confidence": 0.884,
+    "dwell_seconds": 3.16
+  },
+  {
+    "id": 516,
+    "session_id": 36,
+    "timestamp": "2026-01-18T13:14:56.616500+00:00",
+    "brand": "Kellogg's",
+    "confidence": 0.728,
+    "dwell_seconds": 2.34
+  },
+  {
+    "id": 517,
+    "session_id": 36,
+    "timestamp": "2026-01-18T13:15:07.616500+00:00",
+    "brand": "Coca-Cola",
+    "confidence": 0.957,
+    "dwell_seconds": 4.37
+  },
+  {
+    "id": 518,
+    "session_id": 36,
+    "timestamp": "2026-01-18T13:15:36.616500+00:00",
+    "brand": "Coca-Cola",
+    "confidence": 0.678,
+    "dwell_seconds": 2.55
+  },
+  {
+    "id": 519,
+    "session_id": 36,
+    "timestamp": "2026-01-18T13:15:49.616500+00:00",
+    "brand": "Coca-Cola",
+    "confidence": 0.928,
+    "dwell_seconds": 3.94
+  },
+  {
+    "id": 520,
+    "session_id": 36,
+    "timestamp": "2026-01-18T13:16:01.616500+00:00",
+    "brand": "Coca-Cola",
+    "confidence": 0.752,
+    "dwell_seconds": 4.3
+  },
+  {
+    "id": 521,
+    "session_id": 36,
+    "timestamp": "2026-01-18T13:16:24.616500+00:00",
+    "brand": "Coca-Cola",
+    "confidence": 0.837,
+    "dwell_seconds": 3.63
+  },
+  {
+    "id": 522,
+    "session_id": 36,
+    "timestamp": "2026-01-18T13:16:37.616500+00:00",
+    "brand": "Coca-Cola",
+    "confidence": 0.738,
+    "dwell_seconds": 3.61
+  },
+  {
+    "id": 523,
+    "session_id": 36,
+    "timestamp": "2026-01-18T13:17:00.616500+00:00",
+    "brand": "Coca-Cola",
+    "confidence": 0.737,
+    "dwell_seconds": 3.66
+  },
+  {
+    "id": 524,
+    "session_id": 36,
+    "timestamp": "2026-01-18T13:17:16.616500+00:00",
+    "brand": "Tesco",
+    "confidence": 0.904,
+    "dwell_seconds": 3.03
+  },
+  {
+    "id": 525,
+    "session_id": 36,
+    "timestamp": "2026-01-18T13:17:27.616500+00:00",
+    "brand": "Tesco",
+    "confidence": 0.896,
+    "dwell_seconds": 4.09
+  },
+  {
+    "id": 526,
+    "session_id": 37,
+    "timestamp": "2026-01-18T21:54:13.768948+00:00",
+    "brand": "Sony",
+    "confidence": 0.733,
+    "dwell_seconds": 3.53
+  },
+  {
+    "id": 527,
+    "session_id": 37,
+    "timestamp": "2026-01-18T21:59:19.768948+00:00",
+    "brand": "Sony",
+    "confidence": 0.864,
+    "dwell_seconds": 3.81
+  },
+  {
+    "id": 528,
+    "session_id": 37,
+    "timestamp": "2026-01-18T22:05:16.768948+00:00",
+    "brand": "Samsung",
+    "confidence": 0.822,
+    "dwell_seconds": 3.23
+  },
+  {
+    "id": 529,
+    "session_id": 37,
+    "timestamp": "2026-01-18T22:06:42.768948+00:00",
+    "brand": "Sony",
+    "confidence": 0.891,
+    "dwell_seconds": 3.62
+  },
+  {
+    "id": 530,
+    "session_id": 37,
+    "timestamp": "2026-01-18T22:12:06.768948+00:00",
+    "brand": "Sony",
+    "confidence": 0.944,
+    "dwell_seconds": 4.22
+  },
+  {
+    "id": 531,
+    "session_id": 37,
+    "timestamp": "2026-01-18T22:17:18.768948+00:00",
+    "brand": "Samsung",
+    "confidence": 0.903,
+    "dwell_seconds": 4.2
+  },
+  {
+    "id": 532,
+    "session_id": 37,
+    "timestamp": "2026-01-18T22:22:40.768948+00:00",
+    "brand": "Samsung",
+    "confidence": 0.853,
+    "dwell_seconds": 4.3
+  },
+  {
+    "id": 533,
+    "session_id": 37,
+    "timestamp": "2026-01-18T22:29:15.768948+00:00",
+    "brand": "Samsung",
+    "confidence": 0.893,
+    "dwell_seconds": 4.25
+  },
+  {
+    "id": 534,
+    "session_id": 37,
+    "timestamp": "2026-01-18T22:32:31.768948+00:00",
+    "brand": "Samsung",
+    "confidence": 0.893,
+    "dwell_seconds": 4.17
+  },
+  {
+    "id": 535,
+    "session_id": 37,
+    "timestamp": "2026-01-18T22:39:08.768948+00:00",
+    "brand": "Samsung",
+    "confidence": 0.777,
+    "dwell_seconds": 3.59
+  },
+  {
+    "id": 536,
+    "session_id": 37,
+    "timestamp": "2026-01-18T22:40:25.768948+00:00",
+    "brand": "Samsung",
+    "confidence": 0.711,
+    "dwell_seconds": 4.04
+  },
+  {
+    "id": 537,
+    "session_id": 37,
+    "timestamp": "2026-01-18T22:46:15.768948+00:00",
+    "brand": "Samsung",
+    "confidence": 0.747,
+    "dwell_seconds": 3.29
+  },
+  {
+    "id": 538,
+    "session_id": 37,
+    "timestamp": "2026-01-18T22:49:34.768948+00:00",
+    "brand": "Samsung",
+    "confidence": 0.982,
+    "dwell_seconds": 3.34
+  },
+  {
+    "id": 539,
+    "session_id": 37,
+    "timestamp": "2026-01-18T22:53:04.768948+00:00",
+    "brand": "Samsung",
+    "confidence": 0.964,
+    "dwell_seconds": 3.96
+  },
+  {
+    "id": 540,
+    "session_id": 37,
+    "timestamp": "2026-01-18T22:54:55.768948+00:00",
+    "brand": "Samsung",
+    "confidence": 0.693,
+    "dwell_seconds": 3.12
+  },
+  {
+    "id": 541,
+    "session_id": 37,
+    "timestamp": "2026-01-18T22:57:22.768948+00:00",
+    "brand": "Deliveroo",
+    "confidence": 0.891,
+    "dwell_seconds": 4.42
+  },
+  {
+    "id": 542,
+    "session_id": 37,
+    "timestamp": "2026-01-18T23:00:54.768948+00:00",
+    "brand": "Deliveroo",
+    "confidence": 0.862,
+    "dwell_seconds": 3.71
+  },
+  {
+    "id": 543,
+    "session_id": 37,
+    "timestamp": "2026-01-18T23:06:41.768948+00:00",
+    "brand": "Sony",
+    "confidence": 0.917,
+    "dwell_seconds": 3.17
+  },
+  {
+    "id": 544,
+    "session_id": 37,
+    "timestamp": "2026-01-18T23:10:17.768948+00:00",
+    "brand": "Sony",
+    "confidence": 0.75,
+    "dwell_seconds": 3.29
+  },
+  {
+    "id": 545,
+    "session_id": 37,
+    "timestamp": "2026-01-18T23:15:06.768948+00:00",
+    "brand": "Sony",
+    "confidence": 0.924,
+    "dwell_seconds": 3.97
+  },
+  {
+    "id": 546,
+    "session_id": 37,
+    "timestamp": "2026-01-18T23:20:50.768948+00:00",
+    "brand": "Sony",
+    "confidence": 0.88,
+    "dwell_seconds": 3.53
+  },
+  {
+    "id": 547,
+    "session_id": 38,
+    "timestamp": "2026-01-19T18:50:01.174838+00:00",
+    "brand": "Haribo",
+    "confidence": 0.792,
+    "dwell_seconds": 3.1
+  },
+  {
+    "id": 548,
+    "session_id": 38,
+    "timestamp": "2026-01-19T18:51:54.174838+00:00",
+    "brand": "Haribo",
+    "confidence": 0.92,
+    "dwell_seconds": 4.18
+  },
+  {
+    "id": 549,
+    "session_id": 38,
+    "timestamp": "2026-01-19T18:55:49.174838+00:00",
+    "brand": "Haribo",
+    "confidence": 0.917,
+    "dwell_seconds": 3.88
+  },
+  {
+    "id": 550,
+    "session_id": 38,
+    "timestamp": "2026-01-19T18:57:33.174838+00:00",
+    "brand": "Haribo",
+    "confidence": 0.726,
+    "dwell_seconds": 3.17
+  },
+  {
+    "id": 551,
+    "session_id": 38,
+    "timestamp": "2026-01-19T19:02:26.174838+00:00",
+    "brand": "Haribo",
+    "confidence": 0.916,
+    "dwell_seconds": 3.66
+  },
+  {
+    "id": 552,
+    "session_id": 38,
+    "timestamp": "2026-01-19T19:07:01.174838+00:00",
+    "brand": "Haribo",
+    "confidence": 0.927,
+    "dwell_seconds": 3.19
+  },
+  {
+    "id": 553,
+    "session_id": 38,
+    "timestamp": "2026-01-19T19:08:40.174838+00:00",
+    "brand": "Haribo",
+    "confidence": 0.895,
+    "dwell_seconds": 3.54
+  },
+  {
+    "id": 554,
+    "session_id": 38,
+    "timestamp": "2026-01-19T19:13:01.174838+00:00",
+    "brand": "Haribo",
+    "confidence": 0.723,
+    "dwell_seconds": 3.66
+  },
+  {
+    "id": 555,
+    "session_id": 39,
+    "timestamp": "2026-01-19T07:12:37.270934+00:00",
+    "brand": "Uber",
+    "confidence": 0.841,
+    "dwell_seconds": 2.22
+  },
+  {
+    "id": 556,
+    "session_id": 39,
+    "timestamp": "2026-01-19T07:13:15.270934+00:00",
+    "brand": "Booking.com",
+    "confidence": 0.906,
+    "dwell_seconds": 3.11
+  },
+  {
+    "id": 557,
+    "session_id": 39,
+    "timestamp": "2026-01-19T07:13:52.270934+00:00",
+    "brand": "Booking.com",
+    "confidence": 0.889,
+    "dwell_seconds": 2.28
+  },
+  {
+    "id": 558,
+    "session_id": 39,
+    "timestamp": "2026-01-19T07:15:00.270934+00:00",
+    "brand": "British Airways",
+    "confidence": 0.89,
+    "dwell_seconds": 3.28
+  },
+  {
+    "id": 559,
+    "session_id": 39,
+    "timestamp": "2026-01-19T07:16:07.270934+00:00",
+    "brand": "British Airways",
+    "confidence": 0.929,
+    "dwell_seconds": 2.31
+  },
+  {
+    "id": 560,
+    "session_id": 39,
+    "timestamp": "2026-01-19T07:17:54.270934+00:00",
+    "brand": "British Airways",
+    "confidence": 0.835,
+    "dwell_seconds": 2.93
+  },
+  {
+    "id": 561,
+    "session_id": 39,
+    "timestamp": "2026-01-19T07:18:25.270934+00:00",
+    "brand": "British Airways",
+    "confidence": 0.848,
+    "dwell_seconds": 3.45
+  },
+  {
+    "id": 562,
+    "session_id": 39,
+    "timestamp": "2026-01-19T07:20:05.270934+00:00",
+    "brand": "Costa",
+    "confidence": 0.887,
+    "dwell_seconds": 3.2
+  },
+  {
+    "id": 563,
+    "session_id": 39,
+    "timestamp": "2026-01-19T07:20:38.270934+00:00",
+    "brand": "Costa",
+    "confidence": 0.904,
+    "dwell_seconds": 2.48
+  },
+  {
+    "id": 564,
+    "session_id": 39,
+    "timestamp": "2026-01-19T07:22:05.270934+00:00",
+    "brand": "Costa",
+    "confidence": 0.905,
+    "dwell_seconds": 2.92
+  },
+  {
+    "id": 565,
+    "session_id": 39,
+    "timestamp": "2026-01-19T07:23:43.270934+00:00",
+    "brand": "Booking.com",
+    "confidence": 0.849,
+    "dwell_seconds": 2.97
+  },
+  {
+    "id": 566,
+    "session_id": 39,
+    "timestamp": "2026-01-19T07:25:06.270934+00:00",
+    "brand": "Booking.com",
+    "confidence": 0.744,
+    "dwell_seconds": 2.06
+  },
+  {
+    "id": 567,
+    "session_id": 39,
+    "timestamp": "2026-01-19T07:27:01.270934+00:00",
+    "brand": "Costa",
+    "confidence": 0.928,
+    "dwell_seconds": 2.45
+  },
+  {
+    "id": 568,
+    "session_id": 39,
+    "timestamp": "2026-01-19T07:27:25.270934+00:00",
+    "brand": "Booking.com",
+    "confidence": 0.869,
+    "dwell_seconds": 3.24
+  },
+  {
+    "id": 569,
+    "session_id": 39,
+    "timestamp": "2026-01-19T07:28:54.270934+00:00",
+    "brand": "Booking.com",
+    "confidence": 0.963,
+    "dwell_seconds": 2.81
+  },
+  {
+    "id": 570,
+    "session_id": 39,
+    "timestamp": "2026-01-19T07:30:39.270934+00:00",
+    "brand": "Uber",
+    "confidence": 0.901,
+    "dwell_seconds": 2.67
+  },
+  {
+    "id": 571,
+    "session_id": 39,
+    "timestamp": "2026-01-19T07:31:50.270934+00:00",
+    "brand": "Uber",
+    "confidence": 0.897,
+    "dwell_seconds": 3.63
+  },
+  {
+    "id": 572,
+    "session_id": 39,
+    "timestamp": "2026-01-19T07:33:03.270934+00:00",
+    "brand": "Uber",
+    "confidence": 0.83,
+    "dwell_seconds": 2.83
+  },
+  {
+    "id": 573,
+    "session_id": 39,
+    "timestamp": "2026-01-19T07:33:56.270934+00:00",
+    "brand": "Uber",
+    "confidence": 0.912,
+    "dwell_seconds": 2.9
+  },
+  {
+    "id": 574,
+    "session_id": 39,
+    "timestamp": "2026-01-19T07:35:25.270934+00:00",
+    "brand": "Uber",
+    "confidence": 0.735,
+    "dwell_seconds": 1.98
+  },
+  {
+    "id": 575,
+    "session_id": 39,
+    "timestamp": "2026-01-19T07:37:10.270934+00:00",
+    "brand": "Uber",
+    "confidence": 0.771,
+    "dwell_seconds": 2.6
+  },
+  {
+    "id": 576,
+    "session_id": 39,
+    "timestamp": "2026-01-19T07:39:08.270934+00:00",
+    "brand": "Uber",
+    "confidence": 0.767,
+    "dwell_seconds": 2.89
+  },
+  {
+    "id": 577,
+    "session_id": 39,
+    "timestamp": "2026-01-19T07:40:38.270934+00:00",
+    "brand": "Uber",
+    "confidence": 0.901,
+    "dwell_seconds": 3.06
+  },
+  {
+    "id": 578,
+    "session_id": 39,
+    "timestamp": "2026-01-19T07:42:08.270934+00:00",
+    "brand": "Booking.com",
+    "confidence": 0.867,
+    "dwell_seconds": 1.98
+  },
+  {
+    "id": 579,
+    "session_id": 39,
+    "timestamp": "2026-01-19T07:44:07.270934+00:00",
+    "brand": "Booking.com",
+    "confidence": 0.919,
+    "dwell_seconds": 2.58
+  },
+  {
+    "id": 580,
+    "session_id": 39,
+    "timestamp": "2026-01-19T07:44:40.270934+00:00",
+    "brand": "Samsonite",
+    "confidence": 0.928,
+    "dwell_seconds": 2.97
+  },
+  {
+    "id": 581,
+    "session_id": 40,
+    "timestamp": "2026-01-19T18:02:36.143870+00:00",
+    "brand": "Nike",
+    "confidence": 0.931,
+    "dwell_seconds": 3.4
+  },
+  {
+    "id": 582,
+    "session_id": 40,
+    "timestamp": "2026-01-19T18:02:56.143870+00:00",
+    "brand": "Adidas",
+    "confidence": 0.841,
+    "dwell_seconds": 2.71
+  },
+  {
+    "id": 583,
+    "session_id": 40,
+    "timestamp": "2026-01-19T18:03:13.143870+00:00",
+    "brand": "Gatorade",
+    "confidence": 0.781,
+    "dwell_seconds": 2.49
+  },
+  {
+    "id": 584,
+    "session_id": 40,
+    "timestamp": "2026-01-19T18:03:53.143870+00:00",
+    "brand": "Adidas",
+    "confidence": 0.765,
+    "dwell_seconds": 3.03
+  },
+  {
+    "id": 585,
+    "session_id": 40,
+    "timestamp": "2026-01-19T18:04:09.143870+00:00",
+    "brand": "Adidas",
+    "confidence": 0.86,
+    "dwell_seconds": 3.05
+  },
+  {
+    "id": 586,
+    "session_id": 40,
+    "timestamp": "2026-01-19T18:04:20.143870+00:00",
+    "brand": "Nike",
+    "confidence": 0.87,
+    "dwell_seconds": 2.16
+  },
+  {
+    "id": 587,
+    "session_id": 40,
+    "timestamp": "2026-01-19T18:04:33.143870+00:00",
+    "brand": "Adidas",
+    "confidence": 0.676,
+    "dwell_seconds": 3.32
+  },
+  {
+    "id": 588,
+    "session_id": 40,
+    "timestamp": "2026-01-19T18:04:59.143870+00:00",
+    "brand": "Adidas",
+    "confidence": 0.985,
+    "dwell_seconds": 3.77
+  },
+  {
+    "id": 589,
+    "session_id": 40,
+    "timestamp": "2026-01-19T18:05:20.143870+00:00",
+    "brand": "Adidas",
+    "confidence": 0.868,
+    "dwell_seconds": 2.75
+  },
+  {
+    "id": 590,
+    "session_id": 40,
+    "timestamp": "2026-01-19T18:05:33.143870+00:00",
+    "brand": "Lucozade",
+    "confidence": 0.874,
+    "dwell_seconds": 3.4
+  },
+  {
+    "id": 591,
+    "session_id": 41,
+    "timestamp": "2026-01-19T08:16:15.134265+00:00",
+    "brand": "Apple",
+    "confidence": 0.912,
+    "dwell_seconds": 2.18
+  },
+  {
+    "id": 592,
+    "session_id": 41,
+    "timestamp": "2026-01-19T08:16:22.134265+00:00",
+    "brand": "Costa",
+    "confidence": 0.905,
+    "dwell_seconds": 2.08
+  },
+  {
+    "id": 593,
+    "session_id": 41,
+    "timestamp": "2026-01-19T08:16:49.134265+00:00",
+    "brand": "Costa",
+    "confidence": 0.717,
+    "dwell_seconds": 1.63
+  },
+  {
+    "id": 594,
+    "session_id": 41,
+    "timestamp": "2026-01-19T08:17:14.134265+00:00",
+    "brand": "Apple",
+    "confidence": 0.94,
+    "dwell_seconds": 2.13
+  },
+  {
+    "id": 595,
+    "session_id": 41,
+    "timestamp": "2026-01-19T08:17:40.134265+00:00",
+    "brand": "Apple",
+    "confidence": 0.793,
+    "dwell_seconds": 2.33
+  },
+  {
+    "id": 596,
+    "session_id": 41,
+    "timestamp": "2026-01-19T08:17:48.134265+00:00",
+    "brand": "Apple",
+    "confidence": 0.962,
+    "dwell_seconds": 2.48
+  },
+  {
+    "id": 597,
+    "session_id": 41,
+    "timestamp": "2026-01-19T08:18:15.134265+00:00",
+    "brand": "Apple",
+    "confidence": 0.946,
+    "dwell_seconds": 2.84
+  },
+  {
+    "id": 598,
+    "session_id": 41,
+    "timestamp": "2026-01-19T08:18:32.134265+00:00",
+    "brand": "Apple",
+    "confidence": 0.954,
+    "dwell_seconds": 2.76
+  },
+  {
+    "id": 599,
+    "session_id": 41,
+    "timestamp": "2026-01-19T08:18:45.134265+00:00",
+    "brand": "Costa",
+    "confidence": 0.901,
+    "dwell_seconds": 2.15
+  },
+  {
+    "id": 600,
+    "session_id": 41,
+    "timestamp": "2026-01-19T08:18:57.134265+00:00",
+    "brand": "Costa",
+    "confidence": 0.679,
+    "dwell_seconds": 1.28
+  },
+  {
+    "id": 601,
+    "session_id": 41,
+    "timestamp": "2026-01-19T08:19:21.134265+00:00",
+    "brand": "Costa",
+    "confidence": 0.936,
+    "dwell_seconds": 2.77
+  },
+  {
+    "id": 602,
+    "session_id": 41,
+    "timestamp": "2026-01-19T08:19:43.134265+00:00",
+    "brand": "Costa",
+    "confidence": 0.827,
+    "dwell_seconds": 2.37
+  },
+  {
+    "id": 603,
+    "session_id": 41,
+    "timestamp": "2026-01-19T08:19:57.134265+00:00",
+    "brand": "Costa",
+    "confidence": 0.774,
+    "dwell_seconds": 2.3
+  },
+  {
+    "id": 604,
+    "session_id": 41,
+    "timestamp": "2026-01-19T08:20:06.134265+00:00",
+    "brand": "Costa",
+    "confidence": 0.921,
+    "dwell_seconds": 2.56
+  },
+  {
+    "id": 605,
+    "session_id": 41,
+    "timestamp": "2026-01-19T08:20:35.134265+00:00",
+    "brand": "Trainline",
+    "confidence": 0.831,
+    "dwell_seconds": 2.39
+  },
+  {
+    "id": 606,
+    "session_id": 41,
+    "timestamp": "2026-01-19T08:20:52.134265+00:00",
+    "brand": "Trainline",
+    "confidence": 0.776,
+    "dwell_seconds": 1.9
+  },
+  {
+    "id": 607,
+    "session_id": 41,
+    "timestamp": "2026-01-19T08:21:02.134265+00:00",
+    "brand": "Trainline",
+    "confidence": 0.9,
+    "dwell_seconds": 2.39
+  },
+  {
+    "id": 608,
+    "session_id": 42,
+    "timestamp": "2026-01-20T08:38:50.231744+00:00",
+    "brand": "British Airways",
+    "confidence": 0.906,
+    "dwell_seconds": 2.83
+  },
+  {
+    "id": 609,
+    "session_id": 42,
+    "timestamp": "2026-01-20T08:39:06.231744+00:00",
+    "brand": "British Airways",
+    "confidence": 0.874,
+    "dwell_seconds": 3.59
+  },
+  {
+    "id": 610,
+    "session_id": 42,
+    "timestamp": "2026-01-20T08:40:52.231744+00:00",
+    "brand": "British Airways",
+    "confidence": 0.736,
+    "dwell_seconds": 3.07
+  },
+  {
+    "id": 611,
+    "session_id": 42,
+    "timestamp": "2026-01-20T08:41:37.231744+00:00",
+    "brand": "British Airways",
+    "confidence": 0.819,
+    "dwell_seconds": 2.88
+  },
+  {
+    "id": 612,
+    "session_id": 42,
+    "timestamp": "2026-01-20T08:43:30.231744+00:00",
+    "brand": "Booking.com",
+    "confidence": 0.893,
+    "dwell_seconds": 3.07
+  },
+  {
+    "id": 613,
+    "session_id": 42,
+    "timestamp": "2026-01-20T08:44:38.231744+00:00",
+    "brand": "Booking.com",
+    "confidence": 0.965,
+    "dwell_seconds": 3.34
+  },
+  {
+    "id": 614,
+    "session_id": 42,
+    "timestamp": "2026-01-20T08:45:46.231744+00:00",
+    "brand": "Booking.com",
+    "confidence": 0.895,
+    "dwell_seconds": 2.66
+  },
+  {
+    "id": 615,
+    "session_id": 42,
+    "timestamp": "2026-01-20T08:47:18.231744+00:00",
+    "brand": "British Airways",
+    "confidence": 0.807,
+    "dwell_seconds": 2.98
+  },
+  {
+    "id": 616,
+    "session_id": 42,
+    "timestamp": "2026-01-20T08:49:05.231744+00:00",
+    "brand": "British Airways",
+    "confidence": 0.729,
+    "dwell_seconds": 2.48
+  },
+  {
+    "id": 617,
+    "session_id": 42,
+    "timestamp": "2026-01-20T08:50:40.231744+00:00",
+    "brand": "British Airways",
+    "confidence": 0.992,
+    "dwell_seconds": 3.81
+  },
+  {
+    "id": 618,
+    "session_id": 42,
+    "timestamp": "2026-01-20T08:51:05.231744+00:00",
+    "brand": "British Airways",
+    "confidence": 0.7,
+    "dwell_seconds": 2.65
+  },
+  {
+    "id": 619,
+    "session_id": 42,
+    "timestamp": "2026-01-20T08:51:20.231744+00:00",
+    "brand": "British Airways",
+    "confidence": 0.884,
+    "dwell_seconds": 2.35
+  },
+  {
+    "id": 620,
+    "session_id": 42,
+    "timestamp": "2026-01-20T08:52:21.231744+00:00",
+    "brand": "British Airways",
+    "confidence": 0.765,
+    "dwell_seconds": 2.78
+  },
+  {
+    "id": 621,
+    "session_id": 42,
+    "timestamp": "2026-01-20T08:53:21.231744+00:00",
+    "brand": "British Airways",
+    "confidence": 0.803,
+    "dwell_seconds": 2.59
+  },
+  {
+    "id": 622,
+    "session_id": 42,
+    "timestamp": "2026-01-20T08:53:53.231744+00:00",
+    "brand": "British Airways",
+    "confidence": 0.953,
+    "dwell_seconds": 3.31
+  },
+  {
+    "id": 623,
+    "session_id": 42,
+    "timestamp": "2026-01-20T08:54:19.231744+00:00",
+    "brand": "Booking.com",
+    "confidence": 0.944,
+    "dwell_seconds": 2.95
+  },
+  {
+    "id": 624,
+    "session_id": 42,
+    "timestamp": "2026-01-20T08:56:03.231744+00:00",
+    "brand": "Booking.com",
+    "confidence": 0.777,
+    "dwell_seconds": 2.32
+  },
+  {
+    "id": 625,
+    "session_id": 42,
+    "timestamp": "2026-01-20T08:56:53.231744+00:00",
+    "brand": "British Airways",
+    "confidence": 0.713,
+    "dwell_seconds": 3.37
+  },
+  {
+    "id": 626,
+    "session_id": 42,
+    "timestamp": "2026-01-20T08:58:18.231744+00:00",
+    "brand": "British Airways",
+    "confidence": 0.897,
+    "dwell_seconds": 2.21
+  },
+  {
+    "id": 627,
+    "session_id": 42,
+    "timestamp": "2026-01-20T09:00:17.231744+00:00",
+    "brand": "British Airways",
+    "confidence": 0.805,
+    "dwell_seconds": 2.88
+  },
+  {
+    "id": 628,
+    "session_id": 42,
+    "timestamp": "2026-01-20T09:02:11.231744+00:00",
+    "brand": "British Airways",
+    "confidence": 0.954,
+    "dwell_seconds": 3.53
+  },
+  {
+    "id": 629,
+    "session_id": 42,
+    "timestamp": "2026-01-20T09:02:53.231744+00:00",
+    "brand": "British Airways",
+    "confidence": 0.905,
+    "dwell_seconds": 2.65
+  },
+  {
+    "id": 630,
+    "session_id": 43,
+    "timestamp": "2026-01-20T18:06:19.361864+00:00",
+    "brand": "Samsonite",
+    "confidence": 0.922,
+    "dwell_seconds": 3.13
+  },
+  {
+    "id": 631,
+    "session_id": 43,
+    "timestamp": "2026-01-20T18:08:05.361864+00:00",
+    "brand": "Samsonite",
+    "confidence": 0.868,
+    "dwell_seconds": 3.09
+  },
+  {
+    "id": 632,
+    "session_id": 43,
+    "timestamp": "2026-01-20T18:08:33.361864+00:00",
+    "brand": "Costa",
+    "confidence": 0.811,
+    "dwell_seconds": 3.47
+  },
+  {
+    "id": 633,
+    "session_id": 43,
+    "timestamp": "2026-01-20T18:09:27.361864+00:00",
+    "brand": "Costa",
+    "confidence": 0.8,
+    "dwell_seconds": 2.78
+  },
+  {
+    "id": 634,
+    "session_id": 43,
+    "timestamp": "2026-01-20T18:10:36.361864+00:00",
+    "brand": "Costa",
+    "confidence": 0.93,
+    "dwell_seconds": 3.12
+  },
+  {
+    "id": 635,
+    "session_id": 43,
+    "timestamp": "2026-01-20T18:10:55.361864+00:00",
+    "brand": "Costa",
+    "confidence": 0.869,
+    "dwell_seconds": 3.5
+  },
+  {
+    "id": 636,
+    "session_id": 43,
+    "timestamp": "2026-01-20T18:12:04.361864+00:00",
+    "brand": "Uber",
+    "confidence": 0.976,
+    "dwell_seconds": 4.01
+  },
+  {
+    "id": 637,
+    "session_id": 43,
+    "timestamp": "2026-01-20T18:13:45.361864+00:00",
+    "brand": "Uber",
+    "confidence": 0.924,
+    "dwell_seconds": 3.15
+  },
+  {
+    "id": 638,
+    "session_id": 43,
+    "timestamp": "2026-01-20T18:15:31.361864+00:00",
+    "brand": "Uber",
+    "confidence": 0.937,
+    "dwell_seconds": 3.42
+  },
+  {
+    "id": 639,
+    "session_id": 43,
+    "timestamp": "2026-01-20T18:17:31.361864+00:00",
+    "brand": "British Airways",
+    "confidence": 0.93,
+    "dwell_seconds": 3.55
+  },
+  {
+    "id": 640,
+    "session_id": 43,
+    "timestamp": "2026-01-20T18:19:02.361864+00:00",
+    "brand": "Samsonite",
+    "confidence": 0.748,
+    "dwell_seconds": 2.99
+  },
+  {
+    "id": 641,
+    "session_id": 43,
+    "timestamp": "2026-01-20T18:19:24.361864+00:00",
+    "brand": "Samsonite",
+    "confidence": 0.738,
+    "dwell_seconds": 2.74
+  },
+  {
+    "id": 642,
+    "session_id": 43,
+    "timestamp": "2026-01-20T18:20:56.361864+00:00",
+    "brand": "Samsonite",
+    "confidence": 0.677,
+    "dwell_seconds": 2.41
+  },
+  {
+    "id": 643,
+    "session_id": 43,
+    "timestamp": "2026-01-20T18:22:47.361864+00:00",
+    "brand": "Booking.com",
+    "confidence": 0.936,
+    "dwell_seconds": 2.81
+  },
+  {
+    "id": 644,
+    "session_id": 44,
+    "timestamp": "2026-01-20T17:13:03.686544+00:00",
+    "brand": "Apple",
+    "confidence": 0.935,
+    "dwell_seconds": 2.52
+  },
+  {
+    "id": 645,
+    "session_id": 44,
+    "timestamp": "2026-01-20T17:13:31.686544+00:00",
+    "brand": "Apple",
+    "confidence": 0.8,
+    "dwell_seconds": 2.86
+  },
+  {
+    "id": 646,
+    "session_id": 44,
+    "timestamp": "2026-01-20T17:13:55.686544+00:00",
+    "brand": "Apple",
+    "confidence": 0.766,
+    "dwell_seconds": 2.16
+  },
+  {
+    "id": 647,
+    "session_id": 44,
+    "timestamp": "2026-01-20T17:14:10.686544+00:00",
+    "brand": "Apple",
+    "confidence": 0.847,
+    "dwell_seconds": 2.72
+  },
+  {
+    "id": 648,
+    "session_id": 44,
+    "timestamp": "2026-01-20T17:14:23.686544+00:00",
+    "brand": "Apple",
+    "confidence": 0.676,
+    "dwell_seconds": 2.34
+  },
+  {
+    "id": 649,
+    "session_id": 44,
+    "timestamp": "2026-01-20T17:14:44.686544+00:00",
+    "brand": "Apple",
+    "confidence": 0.917,
+    "dwell_seconds": 2.27
+  },
+  {
+    "id": 650,
+    "session_id": 44,
+    "timestamp": "2026-01-20T17:14:53.686544+00:00",
+    "brand": "Apple",
+    "confidence": 0.978,
+    "dwell_seconds": 2.99
+  },
+  {
+    "id": 651,
+    "session_id": 44,
+    "timestamp": "2026-01-20T17:15:22.686544+00:00",
+    "brand": "Apple",
+    "confidence": 0.869,
+    "dwell_seconds": 3.05
+  },
+  {
+    "id": 652,
+    "session_id": 44,
+    "timestamp": "2026-01-20T17:15:41.686544+00:00",
+    "brand": "Trainline",
+    "confidence": 0.896,
+    "dwell_seconds": 2.88
+  },
+  {
+    "id": 653,
+    "session_id": 44,
+    "timestamp": "2026-01-20T17:15:49.686544+00:00",
+    "brand": "Costa",
+    "confidence": 0.989,
+    "dwell_seconds": 3.49
+  },
+  {
+    "id": 654,
+    "session_id": 44,
+    "timestamp": "2026-01-20T17:16:17.686544+00:00",
+    "brand": "Costa",
+    "confidence": 0.813,
+    "dwell_seconds": 3.16
+  },
+  {
+    "id": 655,
+    "session_id": 44,
+    "timestamp": "2026-01-20T17:16:24.686544+00:00",
+    "brand": "Costa",
+    "confidence": 0.958,
+    "dwell_seconds": 3.07
+  },
+  {
+    "id": 656,
+    "session_id": 44,
+    "timestamp": "2026-01-20T17:16:35.686544+00:00",
+    "brand": "Costa",
+    "confidence": 0.874,
+    "dwell_seconds": 2.67
+  },
+  {
+    "id": 657,
+    "session_id": 44,
+    "timestamp": "2026-01-20T17:16:41.686544+00:00",
+    "brand": "Costa",
+    "confidence": 0.874,
+    "dwell_seconds": 3.07
+  },
+  {
+    "id": 658,
+    "session_id": 44,
+    "timestamp": "2026-01-20T17:17:00.686544+00:00",
+    "brand": "Costa",
+    "confidence": 0.976,
+    "dwell_seconds": 3.01
+  },
+  {
+    "id": 659,
+    "session_id": 44,
+    "timestamp": "2026-01-20T17:17:06.686544+00:00",
+    "brand": "Costa",
+    "confidence": 0.957,
+    "dwell_seconds": 3.15
+  },
+  {
+    "id": 660,
+    "session_id": 45,
+    "timestamp": "2026-01-20T15:08:47.999618+00:00",
+    "brand": "Uniqlo",
+    "confidence": 0.965,
+    "dwell_seconds": 3.39
+  },
+  {
+    "id": 661,
+    "session_id": 45,
+    "timestamp": "2026-01-20T15:09:02.999618+00:00",
+    "brand": "Uniqlo",
+    "confidence": 0.763,
+    "dwell_seconds": 2.9
+  },
+  {
+    "id": 662,
+    "session_id": 45,
+    "timestamp": "2026-01-20T15:09:07.999618+00:00",
+    "brand": "Uniqlo",
+    "confidence": 0.801,
+    "dwell_seconds": 2.77
+  },
+  {
+    "id": 663,
+    "session_id": 45,
+    "timestamp": "2026-01-20T15:09:27.999618+00:00",
+    "brand": "H&M",
+    "confidence": 0.854,
+    "dwell_seconds": 2.78
+  },
+  {
+    "id": 664,
+    "session_id": 45,
+    "timestamp": "2026-01-20T15:09:32.999618+00:00",
+    "brand": "Sephora",
+    "confidence": 0.752,
+    "dwell_seconds": 2.86
+  },
+  {
+    "id": 665,
+    "session_id": 45,
+    "timestamp": "2026-01-20T15:09:40.999618+00:00",
+    "brand": "H&M",
+    "confidence": 0.906,
+    "dwell_seconds": 3.56
+  },
+  {
+    "id": 666,
+    "session_id": 45,
+    "timestamp": "2026-01-20T15:09:44.999618+00:00",
+    "brand": "H&M",
+    "confidence": 0.91,
+    "dwell_seconds": 3.64
+  },
+  {
+    "id": 667,
+    "session_id": 45,
+    "timestamp": "2026-01-20T15:09:48.999618+00:00",
+    "brand": "Zara",
+    "confidence": 0.825,
+    "dwell_seconds": 2.09
+  },
+  {
+    "id": 668,
+    "session_id": 45,
+    "timestamp": "2026-01-20T15:09:59.999618+00:00",
+    "brand": "H&M",
+    "confidence": 0.992,
+    "dwell_seconds": 3.06
+  },
+  {
+    "id": 669,
+    "session_id": 45,
+    "timestamp": "2026-01-20T15:10:08.999618+00:00",
+    "brand": "H&M",
+    "confidence": 0.896,
+    "dwell_seconds": 3.29
+  },
+  {
+    "id": 670,
+    "session_id": 45,
+    "timestamp": "2026-01-20T15:10:19.999618+00:00",
+    "brand": "H&M",
+    "confidence": 0.912,
+    "dwell_seconds": 3.21
+  },
+  {
+    "id": 671,
+    "session_id": 45,
+    "timestamp": "2026-01-20T15:10:43.999618+00:00",
+    "brand": "H&M",
+    "confidence": 0.686,
+    "dwell_seconds": 2.3
+  },
+  {
+    "id": 672,
+    "session_id": 45,
+    "timestamp": "2026-01-20T15:10:55.999618+00:00",
+    "brand": "H&M",
+    "confidence": 0.81,
+    "dwell_seconds": 2.74
+  },
+  {
+    "id": 673,
+    "session_id": 45,
+    "timestamp": "2026-01-20T15:11:09.999618+00:00",
+    "brand": "Zara",
+    "confidence": 0.825,
+    "dwell_seconds": 3.12
+  },
+  {
+    "id": 674,
+    "session_id": 45,
+    "timestamp": "2026-01-20T15:11:16.999618+00:00",
+    "brand": "Nike",
+    "confidence": 0.956,
+    "dwell_seconds": 2.39
+  },
+  {
+    "id": 675,
+    "session_id": 45,
+    "timestamp": "2026-01-20T15:11:20.999618+00:00",
+    "brand": "Zara",
+    "confidence": 0.843,
+    "dwell_seconds": 2.86
+  },
+  {
+    "id": 676,
+    "session_id": 45,
+    "timestamp": "2026-01-20T15:11:29.999618+00:00",
+    "brand": "Nike",
+    "confidence": 0.841,
+    "dwell_seconds": 2.88
+  },
+  {
+    "id": 677,
+    "session_id": 45,
+    "timestamp": "2026-01-20T15:11:33.999618+00:00",
+    "brand": "Nike",
+    "confidence": 0.902,
+    "dwell_seconds": 3.57
+  },
+  {
+    "id": 678,
+    "session_id": 45,
+    "timestamp": "2026-01-20T15:11:40.999618+00:00",
+    "brand": "Nike",
+    "confidence": 0.928,
+    "dwell_seconds": 2.54
+  },
+  {
+    "id": 679,
+    "session_id": 45,
+    "timestamp": "2026-01-20T15:11:49.999618+00:00",
+    "brand": "Uniqlo",
+    "confidence": 0.92,
+    "dwell_seconds": 2.99
+  },
+  {
+    "id": 680,
+    "session_id": 45,
+    "timestamp": "2026-01-20T15:12:03.999618+00:00",
+    "brand": "Uniqlo",
+    "confidence": 0.61,
+    "dwell_seconds": 2.29
+  },
+  {
+    "id": 681,
+    "session_id": 45,
+    "timestamp": "2026-01-20T15:12:28.999618+00:00",
+    "brand": "Uniqlo",
+    "confidence": 0.832,
+    "dwell_seconds": 3.38
+  },
+  {
+    "id": 682,
+    "session_id": 45,
+    "timestamp": "2026-01-20T15:12:33.999618+00:00",
+    "brand": "Uniqlo",
+    "confidence": 0.919,
+    "dwell_seconds": 2.66
+  },
+  {
+    "id": 683,
+    "session_id": 45,
+    "timestamp": "2026-01-20T15:12:39.999618+00:00",
+    "brand": "Uniqlo",
+    "confidence": 0.943,
+    "dwell_seconds": 2.81
+  },
+  {
+    "id": 684,
+    "session_id": 45,
+    "timestamp": "2026-01-20T15:12:58.999618+00:00",
+    "brand": "Sephora",
+    "confidence": 0.935,
+    "dwell_seconds": 3.4
+  },
+  {
+    "id": 685,
+    "session_id": 45,
+    "timestamp": "2026-01-20T15:13:05.999618+00:00",
+    "brand": "Zara",
+    "confidence": 0.723,
+    "dwell_seconds": 2.77
+  },
+  {
+    "id": 686,
+    "session_id": 45,
+    "timestamp": "2026-01-20T15:13:11.999618+00:00",
+    "brand": "Zara",
+    "confidence": 0.797,
+    "dwell_seconds": 3.5
+  },
+  {
+    "id": 687,
+    "session_id": 46,
+    "timestamp": "2026-01-21T13:14:19.835254+00:00",
+    "brand": "Nespresso",
+    "confidence": 0.7,
+    "dwell_seconds": 3.52
+  },
+  {
+    "id": 688,
+    "session_id": 46,
+    "timestamp": "2026-01-21T13:17:06.835254+00:00",
+    "brand": "Post-it",
+    "confidence": 0.959,
+    "dwell_seconds": 3.72
+  },
+  {
+    "id": 689,
+    "session_id": 46,
+    "timestamp": "2026-01-21T13:19:05.835254+00:00",
+    "brand": "Post-it",
+    "confidence": 0.922,
+    "dwell_seconds": 3.68
+  },
+  {
+    "id": 690,
+    "session_id": 46,
+    "timestamp": "2026-01-21T13:19:35.835254+00:00",
+    "brand": "Post-it",
+    "confidence": 0.839,
+    "dwell_seconds": 3.75
+  },
+  {
+    "id": 691,
+    "session_id": 46,
+    "timestamp": "2026-01-21T13:21:22.835254+00:00",
+    "brand": "Post-it",
+    "confidence": 0.964,
+    "dwell_seconds": 3.66
+  },
+  {
+    "id": 692,
+    "session_id": 46,
+    "timestamp": "2026-01-21T13:21:52.835254+00:00",
+    "brand": "Post-it",
+    "confidence": 0.861,
+    "dwell_seconds": 3.64
+  },
+  {
+    "id": 693,
+    "session_id": 46,
+    "timestamp": "2026-01-21T13:22:48.835254+00:00",
+    "brand": "Slack",
+    "confidence": 0.859,
+    "dwell_seconds": 3.56
+  },
+  {
+    "id": 694,
+    "session_id": 46,
+    "timestamp": "2026-01-21T13:25:25.835254+00:00",
+    "brand": "Slack",
+    "confidence": 0.979,
+    "dwell_seconds": 3.4
+  },
+  {
+    "id": 695,
+    "session_id": 46,
+    "timestamp": "2026-01-21T13:27:09.835254+00:00",
+    "brand": "Dell",
+    "confidence": 0.801,
+    "dwell_seconds": 3.65
+  },
+  {
+    "id": 696,
+    "session_id": 46,
+    "timestamp": "2026-01-21T13:27:52.835254+00:00",
+    "brand": "Dell",
+    "confidence": 0.799,
+    "dwell_seconds": 3.28
+  },
+  {
+    "id": 697,
+    "session_id": 46,
+    "timestamp": "2026-01-21T13:29:37.835254+00:00",
+    "brand": "Apple",
+    "confidence": 0.753,
+    "dwell_seconds": 4.11
+  },
+  {
+    "id": 698,
+    "session_id": 46,
+    "timestamp": "2026-01-21T13:32:28.835254+00:00",
+    "brand": "Slack",
+    "confidence": 0.971,
+    "dwell_seconds": 3.93
+  },
+  {
+    "id": 699,
+    "session_id": 46,
+    "timestamp": "2026-01-21T13:33:17.835254+00:00",
+    "brand": "Slack",
+    "confidence": 0.922,
+    "dwell_seconds": 2.6
+  },
+  {
+    "id": 700,
+    "session_id": 46,
+    "timestamp": "2026-01-21T13:34:15.835254+00:00",
+    "brand": "Apple",
+    "confidence": 0.803,
+    "dwell_seconds": 3.77
+  },
+  {
+    "id": 701,
+    "session_id": 46,
+    "timestamp": "2026-01-21T13:37:13.835254+00:00",
+    "brand": "Apple",
+    "confidence": 0.84,
+    "dwell_seconds": 3.29
+  },
+  {
+    "id": 702,
+    "session_id": 46,
+    "timestamp": "2026-01-21T13:38:51.835254+00:00",
+    "brand": "Apple",
+    "confidence": 0.811,
+    "dwell_seconds": 2.58
+  },
+  {
+    "id": 703,
+    "session_id": 47,
+    "timestamp": "2026-01-21T22:46:25.289617+00:00",
+    "brand": "Netflix",
+    "confidence": 0.879,
+    "dwell_seconds": 3.44
+  },
+  {
+    "id": 704,
+    "session_id": 47,
+    "timestamp": "2026-01-21T22:52:12.289617+00:00",
+    "brand": "Netflix",
+    "confidence": 0.916,
+    "dwell_seconds": 2.77
+  },
+  {
+    "id": 705,
+    "session_id": 47,
+    "timestamp": "2026-01-21T22:56:08.289617+00:00",
+    "brand": "Netflix",
+    "confidence": 0.864,
+    "dwell_seconds": 3.43
+  },
+  {
+    "id": 706,
+    "session_id": 47,
+    "timestamp": "2026-01-21T23:01:41.289617+00:00",
+    "brand": "Netflix",
+    "confidence": 0.885,
+    "dwell_seconds": 3.63
+  },
+  {
+    "id": 707,
+    "session_id": 47,
+    "timestamp": "2026-01-21T23:05:53.289617+00:00",
+    "brand": "IKEA",
+    "confidence": 0.814,
+    "dwell_seconds": 2.76
+  },
+  {
+    "id": 708,
+    "session_id": 47,
+    "timestamp": "2026-01-21T23:12:16.289617+00:00",
+    "brand": "IKEA",
+    "confidence": 0.81,
+    "dwell_seconds": 3.59
+  },
+  {
+    "id": 709,
+    "session_id": 47,
+    "timestamp": "2026-01-21T23:16:40.289617+00:00",
+    "brand": "IKEA",
+    "confidence": 0.88,
+    "dwell_seconds": 3.37
+  },
+  {
+    "id": 710,
+    "session_id": 47,
+    "timestamp": "2026-01-21T23:21:34.289617+00:00",
+    "brand": "IKEA",
+    "confidence": 0.891,
+    "dwell_seconds": 3.54
+  },
+  {
+    "id": 711,
+    "session_id": 47,
+    "timestamp": "2026-01-21T23:24:21.289617+00:00",
+    "brand": "IKEA",
+    "confidence": 0.703,
+    "dwell_seconds": 2.96
+  },
+  {
+    "id": 712,
+    "session_id": 47,
+    "timestamp": "2026-01-21T23:27:14.289617+00:00",
+    "brand": "Netflix",
+    "confidence": 0.787,
+    "dwell_seconds": 3.7
+  },
+  {
+    "id": 713,
+    "session_id": 47,
+    "timestamp": "2026-01-21T23:31:31.289617+00:00",
+    "brand": "Netflix",
+    "confidence": 0.948,
+    "dwell_seconds": 3.54
+  },
+  {
+    "id": 714,
+    "session_id": 47,
+    "timestamp": "2026-01-21T23:34:15.289617+00:00",
+    "brand": "Netflix",
+    "confidence": 0.686,
+    "dwell_seconds": 2.86
+  },
+  {
+    "id": 715,
+    "session_id": 47,
+    "timestamp": "2026-01-21T23:37:10.289617+00:00",
+    "brand": "Netflix",
+    "confidence": 0.81,
+    "dwell_seconds": 4.04
+  },
+  {
+    "id": 716,
+    "session_id": 47,
+    "timestamp": "2026-01-21T23:38:59.289617+00:00",
+    "brand": "Netflix",
+    "confidence": 0.759,
+    "dwell_seconds": 3.36
+  },
+  {
+    "id": 717,
+    "session_id": 48,
+    "timestamp": "2026-01-21T16:47:58.149941+00:00",
+    "brand": "Booking.com",
+    "confidence": 0.838,
+    "dwell_seconds": 2.54
+  },
+  {
+    "id": 718,
+    "session_id": 48,
+    "timestamp": "2026-01-21T16:48:53.149941+00:00",
+    "brand": "Booking.com",
+    "confidence": 0.943,
+    "dwell_seconds": 3.37
+  },
+  {
+    "id": 719,
+    "session_id": 48,
+    "timestamp": "2026-01-21T16:50:28.149941+00:00",
+    "brand": "British Airways",
+    "confidence": 0.89,
+    "dwell_seconds": 2.81
+  },
+  {
+    "id": 720,
+    "session_id": 48,
+    "timestamp": "2026-01-21T16:51:52.149941+00:00",
+    "brand": "British Airways",
+    "confidence": 0.965,
+    "dwell_seconds": 3.05
+  },
+  {
+    "id": 721,
+    "session_id": 48,
+    "timestamp": "2026-01-21T16:53:42.149941+00:00",
+    "brand": "Costa",
+    "confidence": 0.965,
+    "dwell_seconds": 3.19
+  },
+  {
+    "id": 722,
+    "session_id": 48,
+    "timestamp": "2026-01-21T16:54:07.149941+00:00",
+    "brand": "Samsonite",
+    "confidence": 0.918,
+    "dwell_seconds": 3.47
+  },
+  {
+    "id": 723,
+    "session_id": 48,
+    "timestamp": "2026-01-21T16:54:52.149941+00:00",
+    "brand": "Samsonite",
+    "confidence": 0.922,
+    "dwell_seconds": 2.48
+  },
+  {
+    "id": 724,
+    "session_id": 48,
+    "timestamp": "2026-01-21T16:55:33.149941+00:00",
+    "brand": "Samsonite",
+    "confidence": 0.902,
+    "dwell_seconds": 3.07
+  },
+  {
+    "id": 725,
+    "session_id": 48,
+    "timestamp": "2026-01-21T16:57:06.149941+00:00",
+    "brand": "Uber",
+    "confidence": 0.726,
+    "dwell_seconds": 2.85
+  },
+  {
+    "id": 726,
+    "session_id": 48,
+    "timestamp": "2026-01-21T16:58:00.149941+00:00",
+    "brand": "Booking.com",
+    "confidence": 0.813,
+    "dwell_seconds": 3.21
+  },
+  {
+    "id": 727,
+    "session_id": 48,
+    "timestamp": "2026-01-21T16:59:52.149941+00:00",
+    "brand": "Costa",
+    "confidence": 0.853,
+    "dwell_seconds": 4.26
+  },
+  {
+    "id": 728,
+    "session_id": 48,
+    "timestamp": "2026-01-21T17:01:50.149941+00:00",
+    "brand": "Costa",
+    "confidence": 0.899,
+    "dwell_seconds": 3.39
+  },
+  {
+    "id": 729,
+    "session_id": 48,
+    "timestamp": "2026-01-21T17:02:18.149941+00:00",
+    "brand": "Costa",
+    "confidence": 0.863,
+    "dwell_seconds": 2.87
+  },
+  {
+    "id": 730,
+    "session_id": 48,
+    "timestamp": "2026-01-21T17:02:38.149941+00:00",
+    "brand": "Samsonite",
+    "confidence": 0.88,
+    "dwell_seconds": 3.26
+  },
+  {
+    "id": 731,
+    "session_id": 49,
+    "timestamp": "2026-01-21T18:18:38.717397+00:00",
+    "brand": "Gatorade",
+    "confidence": 0.838,
+    "dwell_seconds": 3.76
+  },
+  {
+    "id": 732,
+    "session_id": 49,
+    "timestamp": "2026-01-21T18:19:06.717397+00:00",
+    "brand": "Adidas",
+    "confidence": 0.699,
+    "dwell_seconds": 2.83
+  },
+  {
+    "id": 733,
+    "session_id": 49,
+    "timestamp": "2026-01-21T18:19:31.717397+00:00",
+    "brand": "Adidas",
+    "confidence": 0.912,
+    "dwell_seconds": 3.08
+  },
+  {
+    "id": 734,
+    "session_id": 49,
+    "timestamp": "2026-01-21T18:20:05.717397+00:00",
+    "brand": "Adidas",
+    "confidence": 0.699,
+    "dwell_seconds": 2.73
+  },
+  {
+    "id": 735,
+    "session_id": 49,
+    "timestamp": "2026-01-21T18:20:39.717397+00:00",
+    "brand": "Adidas",
+    "confidence": 0.828,
+    "dwell_seconds": 3.42
+  },
+  {
+    "id": 736,
+    "session_id": 49,
+    "timestamp": "2026-01-21T18:21:06.717397+00:00",
+    "brand": "Adidas",
+    "confidence": 0.955,
+    "dwell_seconds": 2.95
+  },
+  {
+    "id": 737,
+    "session_id": 49,
+    "timestamp": "2026-01-21T18:21:32.717397+00:00",
+    "brand": "Adidas",
+    "confidence": 0.877,
+    "dwell_seconds": 3.06
+  },
+  {
+    "id": 738,
+    "session_id": 49,
+    "timestamp": "2026-01-21T18:21:47.717397+00:00",
+    "brand": "Adidas",
+    "confidence": 0.709,
+    "dwell_seconds": 2.89
+  },
+  {
+    "id": 739,
+    "session_id": 49,
+    "timestamp": "2026-01-21T18:22:06.717397+00:00",
+    "brand": "Adidas",
+    "confidence": 0.917,
+    "dwell_seconds": 3.86
+  },
+  {
+    "id": 740,
+    "session_id": 49,
+    "timestamp": "2026-01-21T18:22:36.717397+00:00",
+    "brand": "Lucozade",
+    "confidence": 0.873,
+    "dwell_seconds": 3.63
+  },
+  {
+    "id": 741,
+    "session_id": 49,
+    "timestamp": "2026-01-21T18:23:15.717397+00:00",
+    "brand": "Lucozade",
+    "confidence": 0.76,
+    "dwell_seconds": 3.88
+  },
+  {
+    "id": 742,
+    "session_id": 49,
+    "timestamp": "2026-01-21T18:23:46.717397+00:00",
+    "brand": "Nike",
+    "confidence": 0.961,
+    "dwell_seconds": 2.65
+  },
+  {
+    "id": 743,
+    "session_id": 49,
+    "timestamp": "2026-01-21T18:23:56.717397+00:00",
+    "brand": "Nike",
+    "confidence": 0.968,
+    "dwell_seconds": 4.35
+  },
+  {
+    "id": 744,
+    "session_id": 49,
+    "timestamp": "2026-01-21T18:24:24.717397+00:00",
+    "brand": "Nike",
+    "confidence": 0.875,
+    "dwell_seconds": 4.14
+  },
+  {
+    "id": 745,
+    "session_id": 49,
+    "timestamp": "2026-01-21T18:24:57.717397+00:00",
+    "brand": "Nike",
+    "confidence": 0.916,
+    "dwell_seconds": 3.23
+  },
+  {
+    "id": 746,
+    "session_id": 49,
+    "timestamp": "2026-01-21T18:25:12.717397+00:00",
+    "brand": "Lucozade",
+    "confidence": 0.98,
+    "dwell_seconds": 3.97
+  },
+  {
+    "id": 747,
+    "session_id": 49,
+    "timestamp": "2026-01-21T18:25:29.717397+00:00",
+    "brand": "Lucozade",
+    "confidence": 0.905,
+    "dwell_seconds": 4.31
+  },
+  {
+    "id": 748,
+    "session_id": 49,
+    "timestamp": "2026-01-21T18:25:50.717397+00:00",
+    "brand": "Lucozade",
+    "confidence": 0.785,
+    "dwell_seconds": 4.07
+  },
+  {
+    "id": 749,
+    "session_id": 49,
+    "timestamp": "2026-01-21T18:26:01.717397+00:00",
+    "brand": "Lucozade",
+    "confidence": 0.862,
+    "dwell_seconds": 3.12
+  },
+  {
+    "id": 750,
+    "session_id": 49,
+    "timestamp": "2026-01-21T18:26:39.717397+00:00",
+    "brand": "Lucozade",
+    "confidence": 0.84,
+    "dwell_seconds": 2.58
+  },
+  {
+    "id": 751,
+    "session_id": 49,
+    "timestamp": "2026-01-21T18:26:50.717397+00:00",
+    "brand": "Adidas",
+    "confidence": 0.921,
+    "dwell_seconds": 3.27
+  },
+  {
+    "id": 752,
+    "session_id": 50,
+    "timestamp": "2026-01-22T13:34:26.077069+00:00",
+    "brand": "Uniqlo",
+    "confidence": 0.861,
+    "dwell_seconds": 3.61
+  },
+  {
+    "id": 753,
+    "session_id": 50,
+    "timestamp": "2026-01-22T13:34:30.077069+00:00",
+    "brand": "Uniqlo",
+    "confidence": 0.965,
+    "dwell_seconds": 3.72
+  },
+  {
+    "id": 754,
+    "session_id": 50,
+    "timestamp": "2026-01-22T13:34:50.077069+00:00",
+    "brand": "Uniqlo",
+    "confidence": 0.986,
+    "dwell_seconds": 3.35
+  },
+  {
+    "id": 755,
+    "session_id": 50,
+    "timestamp": "2026-01-22T13:35:00.077069+00:00",
+    "brand": "Uniqlo",
+    "confidence": 0.795,
+    "dwell_seconds": 3.15
+  },
+  {
+    "id": 756,
+    "session_id": 50,
+    "timestamp": "2026-01-22T13:35:14.077069+00:00",
+    "brand": "Uniqlo",
+    "confidence": 0.932,
+    "dwell_seconds": 3.11
+  },
+  {
+    "id": 757,
+    "session_id": 50,
+    "timestamp": "2026-01-22T13:35:29.077069+00:00",
+    "brand": "Uniqlo",
+    "confidence": 0.808,
+    "dwell_seconds": 3.31
+  },
+  {
+    "id": 758,
+    "session_id": 50,
+    "timestamp": "2026-01-22T13:35:53.077069+00:00",
+    "brand": "Uniqlo",
+    "confidence": 0.688,
+    "dwell_seconds": 2.71
+  },
+  {
+    "id": 759,
+    "session_id": 50,
+    "timestamp": "2026-01-22T13:36:05.077069+00:00",
+    "brand": "Uniqlo",
+    "confidence": 0.818,
+    "dwell_seconds": 3.13
+  },
+  {
+    "id": 760,
+    "session_id": 50,
+    "timestamp": "2026-01-22T13:36:21.077069+00:00",
+    "brand": "H&M",
+    "confidence": 0.92,
+    "dwell_seconds": 2.94
+  },
+  {
+    "id": 761,
+    "session_id": 50,
+    "timestamp": "2026-01-22T13:36:32.077069+00:00",
+    "brand": "H&M",
+    "confidence": 0.879,
+    "dwell_seconds": 2.84
+  },
+  {
+    "id": 762,
+    "session_id": 50,
+    "timestamp": "2026-01-22T13:36:47.077069+00:00",
+    "brand": "H&M",
+    "confidence": 0.92,
+    "dwell_seconds": 3.41
+  },
+  {
+    "id": 763,
+    "session_id": 50,
+    "timestamp": "2026-01-22T13:37:02.077069+00:00",
+    "brand": "H&M",
+    "confidence": 0.783,
+    "dwell_seconds": 3.06
+  },
+  {
+    "id": 764,
+    "session_id": 50,
+    "timestamp": "2026-01-22T13:37:20.077069+00:00",
+    "brand": "H&M",
+    "confidence": 0.849,
+    "dwell_seconds": 2.94
+  },
+  {
+    "id": 765,
+    "session_id": 50,
+    "timestamp": "2026-01-22T13:37:35.077069+00:00",
+    "brand": "Nike",
+    "confidence": 0.892,
+    "dwell_seconds": 3.24
+  },
+  {
+    "id": 766,
+    "session_id": 50,
+    "timestamp": "2026-01-22T13:37:58.077069+00:00",
+    "brand": "H&M",
+    "confidence": 0.729,
+    "dwell_seconds": 2.74
+  },
+  {
+    "id": 767,
+    "session_id": 50,
+    "timestamp": "2026-01-22T13:38:17.077069+00:00",
+    "brand": "H&M",
+    "confidence": 0.91,
+    "dwell_seconds": 2.68
+  },
+  {
+    "id": 768,
+    "session_id": 50,
+    "timestamp": "2026-01-22T13:38:38.077069+00:00",
+    "brand": "H&M",
+    "confidence": 0.881,
+    "dwell_seconds": 3.61
+  },
+  {
+    "id": 769,
+    "session_id": 50,
+    "timestamp": "2026-01-22T13:38:52.077069+00:00",
+    "brand": "H&M",
+    "confidence": 0.689,
+    "dwell_seconds": 3.01
+  },
+  {
+    "id": 770,
+    "session_id": 50,
+    "timestamp": "2026-01-22T13:39:16.077069+00:00",
+    "brand": "H&M",
+    "confidence": 0.696,
+    "dwell_seconds": 2.32
+  },
+  {
+    "id": 771,
+    "session_id": 50,
+    "timestamp": "2026-01-22T13:39:20.077069+00:00",
+    "brand": "Sephora",
+    "confidence": 0.75,
+    "dwell_seconds": 3.85
+  },
+  {
+    "id": 772,
+    "session_id": 50,
+    "timestamp": "2026-01-22T13:39:28.077069+00:00",
+    "brand": "Zara",
+    "confidence": 0.971,
+    "dwell_seconds": 3.74
+  },
+  {
+    "id": 773,
+    "session_id": 50,
+    "timestamp": "2026-01-22T13:39:33.077069+00:00",
+    "brand": "Uniqlo",
+    "confidence": 0.768,
+    "dwell_seconds": 3.02
+  },
+  {
+    "id": 774,
+    "session_id": 50,
+    "timestamp": "2026-01-22T13:39:47.077069+00:00",
+    "brand": "Nike",
+    "confidence": 0.913,
+    "dwell_seconds": 2.52
+  },
+  {
+    "id": 775,
+    "session_id": 50,
+    "timestamp": "2026-01-22T13:39:55.077069+00:00",
+    "brand": "Nike",
+    "confidence": 0.701,
+    "dwell_seconds": 3.16
+  },
+  {
+    "id": 776,
+    "session_id": 50,
+    "timestamp": "2026-01-22T13:40:18.077069+00:00",
+    "brand": "Nike",
+    "confidence": 0.771,
+    "dwell_seconds": 3.76
+  },
+  {
+    "id": 777,
+    "session_id": 50,
+    "timestamp": "2026-01-22T13:40:25.077069+00:00",
+    "brand": "Nike",
+    "confidence": 0.831,
+    "dwell_seconds": 2.62
+  },
+  {
+    "id": 778,
+    "session_id": 50,
+    "timestamp": "2026-01-22T13:40:48.077069+00:00",
+    "brand": "H&M",
+    "confidence": 0.646,
+    "dwell_seconds": 1.71
+  },
+  {
+    "id": 779,
+    "session_id": 50,
+    "timestamp": "2026-01-22T13:41:04.077069+00:00",
+    "brand": "H&M",
+    "confidence": 0.985,
+    "dwell_seconds": 2.83
+  },
+  {
+    "id": 780,
+    "session_id": 50,
+    "timestamp": "2026-01-22T13:41:25.077069+00:00",
+    "brand": "H&M",
+    "confidence": 0.897,
+    "dwell_seconds": 3.46
+  },
+  {
+    "id": 781,
+    "session_id": 50,
+    "timestamp": "2026-01-22T13:41:36.077069+00:00",
+    "brand": "H&M",
+    "confidence": 0.79,
+    "dwell_seconds": 3.58
+  },
+  {
+    "id": 782,
+    "session_id": 50,
+    "timestamp": "2026-01-22T13:41:56.077069+00:00",
+    "brand": "Sephora",
+    "confidence": 0.965,
+    "dwell_seconds": 3.05
+  },
+  {
+    "id": 783,
+    "session_id": 50,
+    "timestamp": "2026-01-22T13:42:10.077069+00:00",
+    "brand": "Sephora",
+    "confidence": 0.865,
+    "dwell_seconds": 3.05
+  },
+  {
+    "id": 784,
+    "session_id": 50,
+    "timestamp": "2026-01-22T13:42:31.077069+00:00",
+    "brand": "Sephora",
+    "confidence": 0.806,
+    "dwell_seconds": 2.78
+  },
+  {
+    "id": 785,
+    "session_id": 50,
+    "timestamp": "2026-01-22T13:42:49.077069+00:00",
+    "brand": "Nike",
+    "confidence": 0.693,
+    "dwell_seconds": 2.29
+  },
+  {
+    "id": 786,
+    "session_id": 50,
+    "timestamp": "2026-01-22T13:42:58.077069+00:00",
+    "brand": "Nike",
+    "confidence": 0.936,
+    "dwell_seconds": 3.34
+  },
+  {
+    "id": 787,
+    "session_id": 50,
+    "timestamp": "2026-01-22T13:43:05.077069+00:00",
+    "brand": "H&M",
+    "confidence": 0.813,
+    "dwell_seconds": 3.32
+  },
+  {
+    "id": 788,
+    "session_id": 50,
+    "timestamp": "2026-01-22T13:43:25.077069+00:00",
+    "brand": "Nike",
+    "confidence": 0.809,
+    "dwell_seconds": 3.26
+  },
+  {
+    "id": 789,
+    "session_id": 50,
+    "timestamp": "2026-01-22T13:43:34.077069+00:00",
+    "brand": "Nike",
+    "confidence": 0.919,
+    "dwell_seconds": 3.51
+  },
+  {
+    "id": 790,
+    "session_id": 50,
+    "timestamp": "2026-01-22T13:43:42.077069+00:00",
+    "brand": "Sephora",
+    "confidence": 0.856,
+    "dwell_seconds": 3.69
+  },
+  {
+    "id": 791,
+    "session_id": 50,
+    "timestamp": "2026-01-22T13:44:01.077069+00:00",
+    "brand": "H&M",
+    "confidence": 0.993,
+    "dwell_seconds": 3.12
+  },
+  {
+    "id": 792,
+    "session_id": 51,
+    "timestamp": "2026-01-22T10:58:01.407993+00:00",
+    "brand": "Kellogg's",
+    "confidence": 0.81,
+    "dwell_seconds": 3.02
+  },
+  {
+    "id": 793,
+    "session_id": 51,
+    "timestamp": "2026-01-22T10:58:13.407993+00:00",
+    "brand": "Tesco",
+    "confidence": 0.911,
+    "dwell_seconds": 3.0
+  },
+  {
+    "id": 794,
+    "session_id": 51,
+    "timestamp": "2026-01-22T10:58:29.407993+00:00",
+    "brand": "Cadbury",
+    "confidence": 0.928,
+    "dwell_seconds": 2.63
+  },
+  {
+    "id": 795,
+    "session_id": 51,
+    "timestamp": "2026-01-22T10:58:59.407993+00:00",
+    "brand": "Tesco",
+    "confidence": 0.871,
+    "dwell_seconds": 3.88
+  },
+  {
+    "id": 796,
+    "session_id": 51,
+    "timestamp": "2026-01-22T10:59:32.407993+00:00",
+    "brand": "Tesco",
+    "confidence": 0.881,
+    "dwell_seconds": 3.49
+  },
+  {
+    "id": 797,
+    "session_id": 51,
+    "timestamp": "2026-01-22T10:59:53.407993+00:00",
+    "brand": "Tesco",
+    "confidence": 0.904,
+    "dwell_seconds": 2.82
+  },
+  {
+    "id": 798,
+    "session_id": 51,
+    "timestamp": "2026-01-22T11:00:08.407993+00:00",
+    "brand": "Tesco",
+    "confidence": 0.765,
+    "dwell_seconds": 3.82
+  },
+  {
+    "id": 799,
+    "session_id": 51,
+    "timestamp": "2026-01-22T11:00:18.407993+00:00",
+    "brand": "Kellogg's",
+    "confidence": 0.963,
+    "dwell_seconds": 3.29
+  },
+  {
+    "id": 800,
+    "session_id": 51,
+    "timestamp": "2026-01-22T11:00:50.407993+00:00",
+    "brand": "Kellogg's",
+    "confidence": 0.945,
+    "dwell_seconds": 3.41
+  },
+  {
+    "id": 801,
+    "session_id": 51,
+    "timestamp": "2026-01-22T11:01:09.407993+00:00",
+    "brand": "Kellogg's",
+    "confidence": 0.799,
+    "dwell_seconds": 3.1
+  },
+  {
+    "id": 802,
+    "session_id": 51,
+    "timestamp": "2026-01-22T11:01:40.407993+00:00",
+    "brand": "Coca-Cola",
+    "confidence": 0.698,
+    "dwell_seconds": 3.34
+  },
+  {
+    "id": 803,
+    "session_id": 51,
+    "timestamp": "2026-01-22T11:01:57.407993+00:00",
+    "brand": "Kellogg's",
+    "confidence": 0.918,
+    "dwell_seconds": 2.85
+  },
+  {
+    "id": 804,
+    "session_id": 51,
+    "timestamp": "2026-01-22T11:02:32.407993+00:00",
+    "brand": "Kellogg's",
+    "confidence": 0.888,
+    "dwell_seconds": 2.72
+  },
+  {
+    "id": 805,
+    "session_id": 51,
+    "timestamp": "2026-01-22T11:03:01.407993+00:00",
+    "brand": "Cadbury",
+    "confidence": 0.676,
+    "dwell_seconds": 2.77
+  },
+  {
+    "id": 806,
+    "session_id": 51,
+    "timestamp": "2026-01-22T11:03:14.407993+00:00",
+    "brand": "Kellogg's",
+    "confidence": 0.904,
+    "dwell_seconds": 3.98
+  },
+  {
+    "id": 807,
+    "session_id": 52,
+    "timestamp": "2026-01-23T17:00:59.373775+00:00",
+    "brand": "Uniqlo",
+    "confidence": 0.804,
+    "dwell_seconds": 3.22
+  },
+  {
+    "id": 808,
+    "session_id": 52,
+    "timestamp": "2026-01-23T17:01:20.373775+00:00",
+    "brand": "H&M",
+    "confidence": 0.819,
+    "dwell_seconds": 2.69
+  },
+  {
+    "id": 809,
+    "session_id": 52,
+    "timestamp": "2026-01-23T17:01:35.373775+00:00",
+    "brand": "Zara",
+    "confidence": 0.929,
+    "dwell_seconds": 3.51
+  },
+  {
+    "id": 810,
+    "session_id": 52,
+    "timestamp": "2026-01-23T17:01:52.373775+00:00",
+    "brand": "Zara",
+    "confidence": 0.885,
+    "dwell_seconds": 2.74
+  },
+  {
+    "id": 811,
+    "session_id": 52,
+    "timestamp": "2026-01-23T17:02:15.373775+00:00",
+    "brand": "Zara",
+    "confidence": 0.937,
+    "dwell_seconds": 3.47
+  },
+  {
+    "id": 812,
+    "session_id": 52,
+    "timestamp": "2026-01-23T17:02:20.373775+00:00",
+    "brand": "Zara",
+    "confidence": 0.967,
+    "dwell_seconds": 3.38
+  },
+  {
+    "id": 813,
+    "session_id": 52,
+    "timestamp": "2026-01-23T17:02:30.373775+00:00",
+    "brand": "Zara",
+    "confidence": 0.864,
+    "dwell_seconds": 3.32
+  },
+  {
+    "id": 814,
+    "session_id": 52,
+    "timestamp": "2026-01-23T17:02:38.373775+00:00",
+    "brand": "Sephora",
+    "confidence": 0.728,
+    "dwell_seconds": 3.06
+  },
+  {
+    "id": 815,
+    "session_id": 52,
+    "timestamp": "2026-01-23T17:03:03.373775+00:00",
+    "brand": "Sephora",
+    "confidence": 0.838,
+    "dwell_seconds": 3.29
+  },
+  {
+    "id": 816,
+    "session_id": 52,
+    "timestamp": "2026-01-23T17:03:14.373775+00:00",
+    "brand": "Sephora",
+    "confidence": 0.741,
+    "dwell_seconds": 2.61
+  },
+  {
+    "id": 817,
+    "session_id": 52,
+    "timestamp": "2026-01-23T17:03:24.373775+00:00",
+    "brand": "Sephora",
+    "confidence": 0.933,
+    "dwell_seconds": 2.96
+  },
+  {
+    "id": 818,
+    "session_id": 52,
+    "timestamp": "2026-01-23T17:03:38.373775+00:00",
+    "brand": "Sephora",
+    "confidence": 0.761,
+    "dwell_seconds": 2.84
+  },
+  {
+    "id": 819,
+    "session_id": 52,
+    "timestamp": "2026-01-23T17:03:55.373775+00:00",
+    "brand": "Uniqlo",
+    "confidence": 0.831,
+    "dwell_seconds": 2.95
+  },
+  {
+    "id": 820,
+    "session_id": 52,
+    "timestamp": "2026-01-23T17:04:19.373775+00:00",
+    "brand": "Uniqlo",
+    "confidence": 0.901,
+    "dwell_seconds": 3.37
+  },
+  {
+    "id": 821,
+    "session_id": 52,
+    "timestamp": "2026-01-23T17:04:24.373775+00:00",
+    "brand": "Uniqlo",
+    "confidence": 0.922,
+    "dwell_seconds": 2.78
+  },
+  {
+    "id": 822,
+    "session_id": 52,
+    "timestamp": "2026-01-23T17:04:30.373775+00:00",
+    "brand": "Uniqlo",
+    "confidence": 0.681,
+    "dwell_seconds": 2.76
+  },
+  {
+    "id": 823,
+    "session_id": 52,
+    "timestamp": "2026-01-23T17:04:45.373775+00:00",
+    "brand": "Uniqlo",
+    "confidence": 0.771,
+    "dwell_seconds": 1.94
+  },
+  {
+    "id": 824,
+    "session_id": 52,
+    "timestamp": "2026-01-23T17:05:00.373775+00:00",
+    "brand": "Uniqlo",
+    "confidence": 0.841,
+    "dwell_seconds": 2.61
+  },
+  {
+    "id": 825,
+    "session_id": 52,
+    "timestamp": "2026-01-23T17:05:14.373775+00:00",
+    "brand": "Zara",
+    "confidence": 0.616,
+    "dwell_seconds": 3.12
+  },
+  {
+    "id": 826,
+    "session_id": 52,
+    "timestamp": "2026-01-23T17:05:36.373775+00:00",
+    "brand": "Zara",
+    "confidence": 0.751,
+    "dwell_seconds": 3.89
+  },
+  {
+    "id": 827,
+    "session_id": 52,
+    "timestamp": "2026-01-23T17:05:43.373775+00:00",
+    "brand": "Sephora",
+    "confidence": 0.87,
+    "dwell_seconds": 2.89
+  },
+  {
+    "id": 828,
+    "session_id": 53,
+    "timestamp": "2026-01-23T17:19:20.982975+00:00",
+    "brand": "Coca-Cola",
+    "confidence": 0.829,
+    "dwell_seconds": 3.37
+  },
+  {
+    "id": 829,
+    "session_id": 53,
+    "timestamp": "2026-01-23T17:19:53.982975+00:00",
+    "brand": "Tesco",
+    "confidence": 0.927,
+    "dwell_seconds": 2.9
+  },
+  {
+    "id": 830,
+    "session_id": 53,
+    "timestamp": "2026-01-23T17:20:06.982975+00:00",
+    "brand": "Heinz",
+    "confidence": 0.613,
+    "dwell_seconds": 2.67
+  },
+  {
+    "id": 831,
+    "session_id": 53,
+    "timestamp": "2026-01-23T17:20:35.982975+00:00",
+    "brand": "Heinz",
+    "confidence": 0.737,
+    "dwell_seconds": 2.74
+  },
+  {
+    "id": 832,
+    "session_id": 53,
+    "timestamp": "2026-01-23T17:20:51.982975+00:00",
+    "brand": "Heinz",
+    "confidence": 0.78,
+    "dwell_seconds": 3.17
+  },
+  {
+    "id": 833,
+    "session_id": 53,
+    "timestamp": "2026-01-23T17:21:26.982975+00:00",
+    "brand": "Kellogg's",
+    "confidence": 0.785,
+    "dwell_seconds": 3.54
+  },
+  {
+    "id": 834,
+    "session_id": 53,
+    "timestamp": "2026-01-23T17:21:43.982975+00:00",
+    "brand": "Tesco",
+    "confidence": 0.86,
+    "dwell_seconds": 3.14
+  },
+  {
+    "id": 835,
+    "session_id": 53,
+    "timestamp": "2026-01-23T17:22:11.982975+00:00",
+    "brand": "Tesco",
+    "confidence": 0.686,
+    "dwell_seconds": 3.04
+  },
+  {
+    "id": 836,
+    "session_id": 53,
+    "timestamp": "2026-01-23T17:22:39.982975+00:00",
+    "brand": "Cadbury",
+    "confidence": 0.582,
+    "dwell_seconds": 2.23
+  },
+  {
+    "id": 837,
+    "session_id": 53,
+    "timestamp": "2026-01-23T17:22:45.982975+00:00",
+    "brand": "Cadbury",
+    "confidence": 0.972,
+    "dwell_seconds": 2.93
+  },
+  {
+    "id": 838,
+    "session_id": 53,
+    "timestamp": "2026-01-23T17:23:20.982975+00:00",
+    "brand": "Cadbury",
+    "confidence": 0.775,
+    "dwell_seconds": 3.07
+  },
+  {
+    "id": 839,
+    "session_id": 53,
+    "timestamp": "2026-01-23T17:23:36.982975+00:00",
+    "brand": "Cadbury",
+    "confidence": 0.778,
+    "dwell_seconds": 2.45
+  },
+  {
+    "id": 840,
+    "session_id": 53,
+    "timestamp": "2026-01-23T17:24:10.982975+00:00",
+    "brand": "Tesco",
+    "confidence": 0.903,
+    "dwell_seconds": 3.58
+  },
+  {
+    "id": 841,
+    "session_id": 53,
+    "timestamp": "2026-01-23T17:24:19.982975+00:00",
+    "brand": "Tesco",
+    "confidence": 0.761,
+    "dwell_seconds": 3.71
+  },
+  {
+    "id": 842,
+    "session_id": 53,
+    "timestamp": "2026-01-23T17:24:37.982975+00:00",
+    "brand": "Tesco",
+    "confidence": 0.627,
+    "dwell_seconds": 2.98
+  },
+  {
+    "id": 843,
+    "session_id": 53,
+    "timestamp": "2026-01-23T17:24:47.982975+00:00",
+    "brand": "Tesco",
+    "confidence": 0.971,
+    "dwell_seconds": 3.35
+  },
+  {
+    "id": 844,
+    "session_id": 54,
+    "timestamp": "2026-01-23T16:35:08.464839+00:00",
+    "brand": "Trainline",
+    "confidence": 0.912,
+    "dwell_seconds": 3.08
+  },
+  {
+    "id": 845,
+    "session_id": 54,
+    "timestamp": "2026-01-23T16:35:21.464839+00:00",
+    "brand": "Trainline",
+    "confidence": 0.769,
+    "dwell_seconds": 2.89
+  },
+  {
+    "id": 846,
+    "session_id": 54,
+    "timestamp": "2026-01-23T16:35:51.464839+00:00",
+    "brand": "Trainline",
+    "confidence": 0.912,
+    "dwell_seconds": 2.9
+  },
+  {
+    "id": 847,
+    "session_id": 54,
+    "timestamp": "2026-01-23T16:36:15.464839+00:00",
+    "brand": "Trainline",
+    "confidence": 0.973,
+    "dwell_seconds": 2.85
+  },
+  {
+    "id": 848,
+    "session_id": 54,
+    "timestamp": "2026-01-23T16:36:25.464839+00:00",
+    "brand": "Starbucks",
+    "confidence": 0.85,
+    "dwell_seconds": 2.97
+  },
+  {
+    "id": 849,
+    "session_id": 54,
+    "timestamp": "2026-01-23T16:36:54.464839+00:00",
+    "brand": "Spotify",
+    "confidence": 0.615,
+    "dwell_seconds": 2.6
+  },
+  {
+    "id": 850,
+    "session_id": 54,
+    "timestamp": "2026-01-23T16:37:10.464839+00:00",
+    "brand": "Starbucks",
+    "confidence": 0.864,
+    "dwell_seconds": 2.96
+  },
+  {
+    "id": 851,
+    "session_id": 54,
+    "timestamp": "2026-01-23T16:37:27.464839+00:00",
+    "brand": "Spotify",
+    "confidence": 0.646,
+    "dwell_seconds": 2.2
+  },
+  {
+    "id": 852,
+    "session_id": 54,
+    "timestamp": "2026-01-23T16:37:46.464839+00:00",
+    "brand": "Apple",
+    "confidence": 0.571,
+    "dwell_seconds": 2.39
+  },
+  {
+    "id": 853,
+    "session_id": 54,
+    "timestamp": "2026-01-23T16:37:54.464839+00:00",
+    "brand": "Starbucks",
+    "confidence": 0.959,
+    "dwell_seconds": 2.66
+  },
+  {
+    "id": 854,
+    "session_id": 54,
+    "timestamp": "2026-01-23T16:38:22.464839+00:00",
+    "brand": "Starbucks",
+    "confidence": 0.921,
+    "dwell_seconds": 2.23
+  },
+  {
+    "id": 855,
+    "session_id": 54,
+    "timestamp": "2026-01-23T16:38:42.464839+00:00",
+    "brand": "Starbucks",
+    "confidence": 0.672,
+    "dwell_seconds": 2.21
+  },
+  {
+    "id": 856,
+    "session_id": 54,
+    "timestamp": "2026-01-23T16:39:00.464839+00:00",
+    "brand": "Starbucks",
+    "confidence": 0.713,
+    "dwell_seconds": 2.1
+  },
+  {
+    "id": 857,
+    "session_id": 54,
+    "timestamp": "2026-01-23T16:39:20.464839+00:00",
+    "brand": "Spotify",
+    "confidence": 0.882,
+    "dwell_seconds": 2.81
+  },
+  {
+    "id": 858,
+    "session_id": 54,
+    "timestamp": "2026-01-23T16:39:45.464839+00:00",
+    "brand": "Spotify",
+    "confidence": 0.651,
+    "dwell_seconds": 2.6
+  },
+  {
+    "id": 859,
+    "session_id": 54,
+    "timestamp": "2026-01-23T16:39:52.464839+00:00",
+    "brand": "Spotify",
+    "confidence": 0.893,
+    "dwell_seconds": 2.84
+  },
+  {
+    "id": 860,
+    "session_id": 54,
+    "timestamp": "2026-01-23T16:40:13.464839+00:00",
+    "brand": "Starbucks",
+    "confidence": 0.953,
+    "dwell_seconds": 2.66
+  },
+  {
+    "id": 861,
+    "session_id": 55,
+    "timestamp": "2026-01-24T21:35:03.700184+00:00",
+    "brand": "Netflix",
+    "confidence": 0.779,
+    "dwell_seconds": 4.31
+  },
+  {
+    "id": 862,
+    "session_id": 55,
+    "timestamp": "2026-01-24T21:36:33.700184+00:00",
+    "brand": "Sony",
+    "confidence": 0.784,
+    "dwell_seconds": 3.61
+  },
+  {
+    "id": 863,
+    "session_id": 55,
+    "timestamp": "2026-01-24T21:38:21.700184+00:00",
+    "brand": "Sony",
+    "confidence": 0.62,
+    "dwell_seconds": 3.72
+  },
+  {
+    "id": 864,
+    "session_id": 55,
+    "timestamp": "2026-01-24T21:40:34.700184+00:00",
+    "brand": "Sony",
+    "confidence": 0.76,
+    "dwell_seconds": 3.79
+  },
+  {
+    "id": 865,
+    "session_id": 55,
+    "timestamp": "2026-01-24T21:42:57.700184+00:00",
+    "brand": "Samsung",
+    "confidence": 0.81,
+    "dwell_seconds": 3.78
+  },
+  {
+    "id": 866,
+    "session_id": 55,
+    "timestamp": "2026-01-24T21:44:16.700184+00:00",
+    "brand": "Samsung",
+    "confidence": 0.913,
+    "dwell_seconds": 3.98
+  },
+  {
+    "id": 867,
+    "session_id": 55,
+    "timestamp": "2026-01-24T21:49:12.700184+00:00",
+    "brand": "Sony",
+    "confidence": 0.808,
+    "dwell_seconds": 3.85
+  },
+  {
+    "id": 868,
+    "session_id": 55,
+    "timestamp": "2026-01-24T21:54:39.700184+00:00",
+    "brand": "Sony",
+    "confidence": 0.936,
+    "dwell_seconds": 3.65
+  },
+  {
+    "id": 869,
+    "session_id": 55,
+    "timestamp": "2026-01-24T21:56:43.700184+00:00",
+    "brand": "Sony",
+    "confidence": 0.875,
+    "dwell_seconds": 3.64
+  },
+  {
+    "id": 870,
+    "session_id": 55,
+    "timestamp": "2026-01-24T22:02:57.700184+00:00",
+    "brand": "Deliveroo",
+    "confidence": 0.909,
+    "dwell_seconds": 4.51
+  },
+  {
+    "id": 871,
+    "session_id": 55,
+    "timestamp": "2026-01-24T22:06:33.700184+00:00",
+    "brand": "Deliveroo",
+    "confidence": 0.964,
+    "dwell_seconds": 4.26
+  },
+  {
+    "id": 872,
+    "session_id": 55,
+    "timestamp": "2026-01-24T22:09:12.700184+00:00",
+    "brand": "Samsung",
+    "confidence": 0.806,
+    "dwell_seconds": 3.42
+  },
+  {
+    "id": 873,
+    "session_id": 55,
+    "timestamp": "2026-01-24T22:13:18.700184+00:00",
+    "brand": "Samsung",
+    "confidence": 0.866,
+    "dwell_seconds": 3.48
+  },
+  {
+    "id": 874,
+    "session_id": 56,
+    "timestamp": "2026-01-24T15:08:01.908560+00:00",
+    "brand": "Nespresso",
+    "confidence": 0.699,
+    "dwell_seconds": 3.86
+  },
+  {
+    "id": 875,
+    "session_id": 56,
+    "timestamp": "2026-01-24T15:09:39.908560+00:00",
+    "brand": "Nespresso",
+    "confidence": 0.795,
+    "dwell_seconds": 3.07
+  },
+  {
+    "id": 876,
+    "session_id": 56,
+    "timestamp": "2026-01-24T15:10:53.908560+00:00",
+    "brand": "Nespresso",
+    "confidence": 0.887,
+    "dwell_seconds": 4.14
+  },
+  {
+    "id": 877,
+    "session_id": 56,
+    "timestamp": "2026-01-24T15:11:33.908560+00:00",
+    "brand": "Nespresso",
+    "confidence": 0.898,
+    "dwell_seconds": 3.47
+  },
+  {
+    "id": 878,
+    "session_id": 56,
+    "timestamp": "2026-01-24T15:12:18.908560+00:00",
+    "brand": "Post-it",
+    "confidence": 0.816,
+    "dwell_seconds": 3.65
+  },
+  {
+    "id": 879,
+    "session_id": 56,
+    "timestamp": "2026-01-24T15:14:24.908560+00:00",
+    "brand": "Post-it",
+    "confidence": 0.839,
+    "dwell_seconds": 3.9
+  },
+  {
+    "id": 880,
+    "session_id": 56,
+    "timestamp": "2026-01-24T15:16:46.908560+00:00",
+    "brand": "Post-it",
+    "confidence": 0.76,
+    "dwell_seconds": 4.01
+  },
+  {
+    "id": 881,
+    "session_id": 56,
+    "timestamp": "2026-01-24T15:18:15.908560+00:00",
+    "brand": "Post-it",
+    "confidence": 0.823,
+    "dwell_seconds": 3.9
+  },
+  {
+    "id": 882,
+    "session_id": 56,
+    "timestamp": "2026-01-24T15:19:52.908560+00:00",
+    "brand": "Post-it",
+    "confidence": 0.823,
+    "dwell_seconds": 3.56
+  },
+  {
+    "id": 883,
+    "session_id": 56,
+    "timestamp": "2026-01-24T15:21:46.908560+00:00",
+    "brand": "Apple",
+    "confidence": 0.952,
+    "dwell_seconds": 4.7
+  },
+  {
+    "id": 884,
+    "session_id": 56,
+    "timestamp": "2026-01-24T15:23:50.908560+00:00",
+    "brand": "Apple",
+    "confidence": 0.646,
+    "dwell_seconds": 3.35
+  },
+  {
+    "id": 885,
+    "session_id": 56,
+    "timestamp": "2026-01-24T15:26:11.908560+00:00",
+    "brand": "Nespresso",
+    "confidence": 0.89,
+    "dwell_seconds": 3.73
+  },
+  {
+    "id": 886,
+    "session_id": 56,
+    "timestamp": "2026-01-24T15:26:41.908560+00:00",
+    "brand": "Nespresso",
+    "confidence": 0.884,
+    "dwell_seconds": 3.23
+  },
+  {
+    "id": 887,
+    "session_id": 56,
+    "timestamp": "2026-01-24T15:27:43.908560+00:00",
+    "brand": "Dell",
+    "confidence": 0.864,
+    "dwell_seconds": 3.83
+  },
+  {
+    "id": 888,
+    "session_id": 56,
+    "timestamp": "2026-01-24T15:28:40.908560+00:00",
+    "brand": "Dell",
+    "confidence": 0.821,
+    "dwell_seconds": 3.44
+  },
+  {
+    "id": 889,
+    "session_id": 56,
+    "timestamp": "2026-01-24T15:30:56.908560+00:00",
+    "brand": "Dell",
+    "confidence": 0.65,
+    "dwell_seconds": 2.61
+  },
+  {
+    "id": 890,
+    "session_id": 56,
+    "timestamp": "2026-01-24T15:32:54.908560+00:00",
+    "brand": "Dell",
+    "confidence": 0.858,
+    "dwell_seconds": 3.55
+  },
+  {
+    "id": 891,
+    "session_id": 56,
+    "timestamp": "2026-01-24T15:33:37.908560+00:00",
+    "brand": "Nespresso",
+    "confidence": 0.899,
+    "dwell_seconds": 4.19
+  },
+  {
+    "id": 892,
+    "session_id": 56,
+    "timestamp": "2026-01-24T15:34:46.908560+00:00",
+    "brand": "Nespresso",
+    "confidence": 0.879,
+    "dwell_seconds": 3.69
+  },
+  {
+    "id": 893,
+    "session_id": 56,
+    "timestamp": "2026-01-24T15:36:31.908560+00:00",
+    "brand": "Apple",
+    "confidence": 0.974,
+    "dwell_seconds": 4.23
+  },
+  {
+    "id": 894,
+    "session_id": 56,
+    "timestamp": "2026-01-24T15:37:00.908560+00:00",
+    "brand": "Apple",
+    "confidence": 0.922,
+    "dwell_seconds": 3.26
+  },
+  {
+    "id": 895,
+    "session_id": 56,
+    "timestamp": "2026-01-24T15:38:20.908560+00:00",
+    "brand": "Nespresso",
+    "confidence": 0.774,
+    "dwell_seconds": 3.25
+  },
+  {
+    "id": 896,
+    "session_id": 56,
+    "timestamp": "2026-01-24T15:40:39.908560+00:00",
+    "brand": "Nespresso",
+    "confidence": 0.711,
+    "dwell_seconds": 3.22
+  },
+  {
+    "id": 897,
+    "session_id": 56,
+    "timestamp": "2026-01-24T15:41:57.908560+00:00",
+    "brand": "Apple",
+    "confidence": 0.911,
+    "dwell_seconds": 3.94
+  },
+  {
+    "id": 898,
+    "session_id": 56,
+    "timestamp": "2026-01-24T15:44:29.908560+00:00",
+    "brand": "Apple",
+    "confidence": 0.846,
+    "dwell_seconds": 3.79
+  },
+  {
+    "id": 899,
+    "session_id": 56,
+    "timestamp": "2026-01-24T15:46:38.908560+00:00",
+    "brand": "Apple",
+    "confidence": 0.914,
+    "dwell_seconds": 3.56
+  },
+  {
+    "id": 900,
+    "session_id": 57,
+    "timestamp": "2026-01-24T12:56:32.248314+00:00",
+    "brand": "Coca-Cola",
+    "confidence": 0.815,
+    "dwell_seconds": 3.27
+  },
+  {
+    "id": 901,
+    "session_id": 57,
+    "timestamp": "2026-01-24T12:56:55.248314+00:00",
+    "brand": "Coca-Cola",
+    "confidence": 0.815,
+    "dwell_seconds": 3.38
+  },
+  {
+    "id": 902,
+    "session_id": 57,
+    "timestamp": "2026-01-24T12:57:08.248314+00:00",
+    "brand": "Coca-Cola",
+    "confidence": 0.86,
+    "dwell_seconds": 4.03
+  },
+  {
+    "id": 903,
+    "session_id": 57,
+    "timestamp": "2026-01-24T12:57:23.248314+00:00",
+    "brand": "Cadbury",
+    "confidence": 0.771,
+    "dwell_seconds": 2.51
+  },
+  {
+    "id": 904,
+    "session_id": 57,
+    "timestamp": "2026-01-24T12:57:29.248314+00:00",
+    "brand": "Cadbury",
+    "confidence": 0.911,
+    "dwell_seconds": 3.36
+  },
+  {
+    "id": 905,
+    "session_id": 57,
+    "timestamp": "2026-01-24T12:57:53.248314+00:00",
+    "brand": "Kellogg's",
+    "confidence": 0.839,
+    "dwell_seconds": 4.04
+  },
+  {
+    "id": 906,
+    "session_id": 57,
+    "timestamp": "2026-01-24T12:58:13.248314+00:00",
+    "brand": "Heinz",
+    "confidence": 0.871,
+    "dwell_seconds": 3.9
+  },
+  {
+    "id": 907,
+    "session_id": 57,
+    "timestamp": "2026-01-24T12:58:40.248314+00:00",
+    "brand": "Heinz",
+    "confidence": 0.859,
+    "dwell_seconds": 2.8
+  },
+  {
+    "id": 908,
+    "session_id": 57,
+    "timestamp": "2026-01-24T12:59:08.248314+00:00",
+    "brand": "Heinz",
+    "confidence": 0.85,
+    "dwell_seconds": 2.99
+  },
+  {
+    "id": 909,
+    "session_id": 57,
+    "timestamp": "2026-01-24T12:59:17.248314+00:00",
+    "brand": "Heinz",
+    "confidence": 0.689,
+    "dwell_seconds": 3.38
+  },
+  {
+    "id": 910,
+    "session_id": 57,
+    "timestamp": "2026-01-24T12:59:48.248314+00:00",
+    "brand": "Heinz",
+    "confidence": 0.91,
+    "dwell_seconds": 3.27
+  },
+  {
+    "id": 911,
+    "session_id": 57,
+    "timestamp": "2026-01-24T13:00:04.248314+00:00",
+    "brand": "Heinz",
+    "confidence": 0.795,
+    "dwell_seconds": 3.06
+  },
+  {
+    "id": 912,
+    "session_id": 57,
+    "timestamp": "2026-01-24T13:00:23.248314+00:00",
+    "brand": "Heinz",
+    "confidence": 0.843,
+    "dwell_seconds": 2.84
+  },
+  {
+    "id": 913,
+    "session_id": 57,
+    "timestamp": "2026-01-24T13:00:41.248314+00:00",
+    "brand": "Heinz",
+    "confidence": 0.828,
+    "dwell_seconds": 3.39
+  },
+  {
+    "id": 914,
+    "session_id": 57,
+    "timestamp": "2026-01-24T13:01:04.248314+00:00",
+    "brand": "Kellogg's",
+    "confidence": 0.963,
+    "dwell_seconds": 4.51
+  },
+  {
+    "id": 915,
+    "session_id": 57,
+    "timestamp": "2026-01-24T13:01:31.248314+00:00",
+    "brand": "Kellogg's",
+    "confidence": 0.805,
+    "dwell_seconds": 3.25
+  },
+  {
+    "id": 916,
+    "session_id": 57,
+    "timestamp": "2026-01-24T13:01:49.248314+00:00",
+    "brand": "Kellogg's",
+    "confidence": 0.916,
+    "dwell_seconds": 3.39
+  },
+  {
+    "id": 917,
+    "session_id": 57,
+    "timestamp": "2026-01-24T13:02:16.248314+00:00",
+    "brand": "Kellogg's",
+    "confidence": 0.903,
+    "dwell_seconds": 3.57
+  },
+  {
+    "id": 918,
+    "session_id": 57,
+    "timestamp": "2026-01-24T13:02:49.248314+00:00",
+    "brand": "Kellogg's",
+    "confidence": 0.631,
+    "dwell_seconds": 3.1
+  },
+  {
+    "id": 919,
+    "session_id": 57,
+    "timestamp": "2026-01-24T13:03:14.248314+00:00",
+    "brand": "Kellogg's",
+    "confidence": 0.878,
+    "dwell_seconds": 3.73
+  },
+  {
+    "id": 920,
+    "session_id": 57,
+    "timestamp": "2026-01-24T13:03:35.248314+00:00",
+    "brand": "Kellogg's",
+    "confidence": 0.853,
+    "dwell_seconds": 3.72
+  },
+  {
+    "id": 921,
+    "session_id": 57,
+    "timestamp": "2026-01-24T13:03:46.248314+00:00",
+    "brand": "Cadbury",
+    "confidence": 0.919,
+    "dwell_seconds": 3.28
+  },
+  {
+    "id": 922,
+    "session_id": 57,
+    "timestamp": "2026-01-24T13:03:56.248314+00:00",
+    "brand": "Kellogg's",
+    "confidence": 0.843,
+    "dwell_seconds": 3.25
+  },
+  {
+    "id": 923,
+    "session_id": 57,
+    "timestamp": "2026-01-24T13:04:12.248314+00:00",
+    "brand": "Kellogg's",
+    "confidence": 0.793,
+    "dwell_seconds": 3.97
+  },
+  {
+    "id": 924,
+    "session_id": 57,
+    "timestamp": "2026-01-24T13:04:18.248314+00:00",
+    "brand": "Cadbury",
+    "confidence": 0.873,
+    "dwell_seconds": 3.69
+  },
+  {
+    "id": 925,
+    "session_id": 57,
+    "timestamp": "2026-01-24T13:04:45.248314+00:00",
+    "brand": "Tesco",
+    "confidence": 0.67,
+    "dwell_seconds": 3.33
+  },
+  {
+    "id": 926,
+    "session_id": 57,
+    "timestamp": "2026-01-24T13:05:02.248314+00:00",
+    "brand": "Tesco",
+    "confidence": 0.902,
+    "dwell_seconds": 4.43
+  },
+  {
+    "id": 927,
+    "session_id": 57,
+    "timestamp": "2026-01-24T13:05:13.248314+00:00",
+    "brand": "Tesco",
+    "confidence": 0.799,
+    "dwell_seconds": 2.66
+  },
+  {
+    "id": 928,
+    "session_id": 57,
+    "timestamp": "2026-01-24T13:05:37.248314+00:00",
+    "brand": "Tesco",
+    "confidence": 0.824,
+    "dwell_seconds": 2.97
+  },
+  {
+    "id": 929,
+    "session_id": 57,
+    "timestamp": "2026-01-24T13:06:11.248314+00:00",
+    "brand": "Tesco",
+    "confidence": 0.873,
+    "dwell_seconds": 3.95
+  },
+  {
+    "id": 930,
+    "session_id": 58,
+    "timestamp": "2026-01-25T17:49:53.200842+00:00",
+    "brand": "Lucozade",
+    "confidence": 0.911,
+    "dwell_seconds": 4.02
+  },
+  {
+    "id": 931,
+    "session_id": 58,
+    "timestamp": "2026-01-25T17:50:23.200842+00:00",
+    "brand": "Lucozade",
+    "confidence": 0.772,
+    "dwell_seconds": 3.4
+  },
+  {
+    "id": 932,
+    "session_id": 58,
+    "timestamp": "2026-01-25T17:51:05.200842+00:00",
+    "brand": "Lucozade",
+    "confidence": 0.902,
+    "dwell_seconds": 3.68
+  },
+  {
+    "id": 933,
+    "session_id": 58,
+    "timestamp": "2026-01-25T17:51:27.200842+00:00",
+    "brand": "Lucozade",
+    "confidence": 0.774,
+    "dwell_seconds": 3.42
+  },
+  {
+    "id": 934,
+    "session_id": 58,
+    "timestamp": "2026-01-25T17:51:50.200842+00:00",
+    "brand": "Lucozade",
+    "confidence": 0.835,
+    "dwell_seconds": 3.45
+  },
+  {
+    "id": 935,
+    "session_id": 58,
+    "timestamp": "2026-01-25T17:52:17.200842+00:00",
+    "brand": "Lucozade",
+    "confidence": 0.751,
+    "dwell_seconds": 3.66
+  },
+  {
+    "id": 936,
+    "session_id": 58,
+    "timestamp": "2026-01-25T17:52:31.200842+00:00",
+    "brand": "Lucozade",
+    "confidence": 0.926,
+    "dwell_seconds": 2.83
+  },
+  {
+    "id": 937,
+    "session_id": 58,
+    "timestamp": "2026-01-25T17:53:02.200842+00:00",
+    "brand": "Lucozade",
+    "confidence": 0.807,
+    "dwell_seconds": 3.3
+  },
+  {
+    "id": 938,
+    "session_id": 58,
+    "timestamp": "2026-01-25T17:53:44.200842+00:00",
+    "brand": "Under Armour",
+    "confidence": 0.896,
+    "dwell_seconds": 3.7
+  },
+  {
+    "id": 939,
+    "session_id": 59,
+    "timestamp": "2026-01-25T20:12:19.739008+00:00",
+    "brand": "IKEA",
+    "confidence": 0.702,
+    "dwell_seconds": 3.77
+  },
+  {
+    "id": 940,
+    "session_id": 59,
+    "timestamp": "2026-01-25T20:17:47.739008+00:00",
+    "brand": "IKEA",
+    "confidence": 0.719,
+    "dwell_seconds": 3.6
+  },
+  {
+    "id": 941,
+    "session_id": 59,
+    "timestamp": "2026-01-25T20:22:51.739008+00:00",
+    "brand": "Samsung",
+    "confidence": 0.827,
+    "dwell_seconds": 3.18
+  },
+  {
+    "id": 942,
+    "session_id": 59,
+    "timestamp": "2026-01-25T20:28:48.739008+00:00",
+    "brand": "Netflix",
+    "confidence": 0.775,
+    "dwell_seconds": 3.52
+  },
+  {
+    "id": 943,
+    "session_id": 59,
+    "timestamp": "2026-01-25T20:34:24.739008+00:00",
+    "brand": "Netflix",
+    "confidence": 0.901,
+    "dwell_seconds": 4.17
+  },
+  {
+    "id": 944,
+    "session_id": 59,
+    "timestamp": "2026-01-25T20:40:53.739008+00:00",
+    "brand": "Netflix",
+    "confidence": 0.898,
+    "dwell_seconds": 3.72
+  },
+  {
+    "id": 945,
+    "session_id": 59,
+    "timestamp": "2026-01-25T20:42:06.739008+00:00",
+    "brand": "Netflix",
+    "confidence": 0.932,
+    "dwell_seconds": 3.84
+  },
+  {
+    "id": 946,
+    "session_id": 59,
+    "timestamp": "2026-01-25T20:47:51.739008+00:00",
+    "brand": "Netflix",
+    "confidence": 0.721,
+    "dwell_seconds": 4.22
+  },
+  {
+    "id": 947,
+    "session_id": 59,
+    "timestamp": "2026-01-25T20:54:00.739008+00:00",
+    "brand": "Netflix",
+    "confidence": 0.898,
+    "dwell_seconds": 4.06
+  },
+  {
+    "id": 948,
+    "session_id": 59,
+    "timestamp": "2026-01-25T20:58:37.739008+00:00",
+    "brand": "Netflix",
+    "confidence": 0.967,
+    "dwell_seconds": 4.28
+  },
+  {
+    "id": 949,
+    "session_id": 59,
+    "timestamp": "2026-01-25T21:04:51.739008+00:00",
+    "brand": "IKEA",
+    "confidence": 0.792,
+    "dwell_seconds": 4.04
+  },
+  {
+    "id": 950,
+    "session_id": 59,
+    "timestamp": "2026-01-25T21:11:22.739008+00:00",
+    "brand": "Deliveroo",
+    "confidence": 0.884,
+    "dwell_seconds": 4.36
+  },
+  {
+    "id": 951,
+    "session_id": 59,
+    "timestamp": "2026-01-25T21:16:45.739008+00:00",
+    "brand": "Deliveroo",
+    "confidence": 0.886,
+    "dwell_seconds": 4.21
+  },
+  {
+    "id": 952,
+    "session_id": 59,
+    "timestamp": "2026-01-25T21:23:05.739008+00:00",
+    "brand": "Deliveroo",
+    "confidence": 0.807,
+    "dwell_seconds": 3.89
+  },
+  {
+    "id": 953,
+    "session_id": 59,
+    "timestamp": "2026-01-25T21:27:52.739008+00:00",
+    "brand": "Deliveroo",
+    "confidence": 0.822,
+    "dwell_seconds": 4.41
+  },
+  {
+    "id": 954,
+    "session_id": 60,
+    "timestamp": "2026-01-26T15:25:55.458183+00:00",
+    "brand": "Pret",
+    "confidence": 0.947,
+    "dwell_seconds": 3.87
+  },
+  {
+    "id": 955,
+    "session_id": 60,
+    "timestamp": "2026-01-26T15:26:25.458183+00:00",
+    "brand": "Pret",
+    "confidence": 0.868,
+    "dwell_seconds": 3.87
+  },
+  {
+    "id": 956,
+    "session_id": 60,
+    "timestamp": "2026-01-26T15:29:18.458183+00:00",
+    "brand": "Pret",
+    "confidence": 0.938,
+    "dwell_seconds": 3.19
+  },
+  {
+    "id": 957,
+    "session_id": 60,
+    "timestamp": "2026-01-26T15:29:57.458183+00:00",
+    "brand": "Pret",
+    "confidence": 0.955,
+    "dwell_seconds": 4.15
+  },
+  {
+    "id": 958,
+    "session_id": 60,
+    "timestamp": "2026-01-26T15:31:35.458183+00:00",
+    "brand": "Pret",
+    "confidence": 0.927,
+    "dwell_seconds": 3.7
+  },
+  {
+    "id": 959,
+    "session_id": 60,
+    "timestamp": "2026-01-26T15:34:33.458183+00:00",
+    "brand": "Costa",
+    "confidence": 0.815,
+    "dwell_seconds": 3.91
+  },
+  {
+    "id": 960,
+    "session_id": 60,
+    "timestamp": "2026-01-26T15:37:47.458183+00:00",
+    "brand": "Costa",
+    "confidence": 0.916,
+    "dwell_seconds": 4.33
+  },
+  {
+    "id": 961,
+    "session_id": 60,
+    "timestamp": "2026-01-26T15:39:09.458183+00:00",
+    "brand": "Costa",
+    "confidence": 0.881,
+    "dwell_seconds": 3.23
+  },
+  {
+    "id": 962,
+    "session_id": 60,
+    "timestamp": "2026-01-26T15:40:05.458183+00:00",
+    "brand": "Costa",
+    "confidence": 0.839,
+    "dwell_seconds": 3.84
+  },
+  {
+    "id": 963,
+    "session_id": 60,
+    "timestamp": "2026-01-26T15:43:21.458183+00:00",
+    "brand": "Costa",
+    "confidence": 0.725,
+    "dwell_seconds": 3.6
+  },
+  {
+    "id": 964,
+    "session_id": 60,
+    "timestamp": "2026-01-26T15:46:18.458183+00:00",
+    "brand": "Costa",
+    "confidence": 0.965,
+    "dwell_seconds": 3.46
+  },
+  {
+    "id": 965,
+    "session_id": 60,
+    "timestamp": "2026-01-26T15:47:15.458183+00:00",
+    "brand": "Costa",
+    "confidence": 0.626,
+    "dwell_seconds": 3.52
+  },
+  {
+    "id": 966,
+    "session_id": 60,
+    "timestamp": "2026-01-26T15:50:04.458183+00:00",
+    "brand": "Innocent",
+    "confidence": 0.863,
+    "dwell_seconds": 3.5
+  },
+  {
+    "id": 967,
+    "session_id": 60,
+    "timestamp": "2026-01-26T15:52:04.458183+00:00",
+    "brand": "Innocent",
+    "confidence": 0.933,
+    "dwell_seconds": 3.76
+  },
+  {
+    "id": 968,
+    "session_id": 60,
+    "timestamp": "2026-01-26T15:55:13.458183+00:00",
+    "brand": "Apple",
+    "confidence": 0.681,
+    "dwell_seconds": 3.82
+  },
+  {
+    "id": 969,
+    "session_id": 60,
+    "timestamp": "2026-01-26T15:58:24.458183+00:00",
+    "brand": "Pret",
+    "confidence": 0.928,
+    "dwell_seconds": 3.34
+  },
+  {
+    "id": 970,
+    "session_id": 60,
+    "timestamp": "2026-01-26T15:59:56.458183+00:00",
+    "brand": "Pret",
+    "confidence": 0.873,
+    "dwell_seconds": 3.16
+  },
+  {
+    "id": 971,
+    "session_id": 61,
+    "timestamp": "2026-01-26T23:46:04.700625+00:00",
+    "brand": "Sony",
+    "confidence": 0.921,
+    "dwell_seconds": 3.8
+  },
+  {
+    "id": 972,
+    "session_id": 61,
+    "timestamp": "2026-01-26T23:49:06.700625+00:00",
+    "brand": "Netflix",
+    "confidence": 0.849,
+    "dwell_seconds": 3.67
+  },
+  {
+    "id": 973,
+    "session_id": 61,
+    "timestamp": "2026-01-26T23:51:47.700625+00:00",
+    "brand": "Netflix",
+    "confidence": 0.787,
+    "dwell_seconds": 3.35
+  },
+  {
+    "id": 974,
+    "session_id": 61,
+    "timestamp": "2026-01-26T23:54:23.700625+00:00",
+    "brand": "Deliveroo",
+    "confidence": 0.805,
+    "dwell_seconds": 3.77
+  },
+  {
+    "id": 975,
+    "session_id": 61,
+    "timestamp": "2026-01-26T23:56:17.700625+00:00",
+    "brand": "Deliveroo",
+    "confidence": 0.973,
+    "dwell_seconds": 3.17
+  },
+  {
+    "id": 976,
+    "session_id": 61,
+    "timestamp": "2026-01-26T23:57:25.700625+00:00",
+    "brand": "Deliveroo",
+    "confidence": 0.715,
+    "dwell_seconds": 2.92
+  },
+  {
+    "id": 977,
+    "session_id": 61,
+    "timestamp": "2026-01-27T00:01:07.700625+00:00",
+    "brand": "Samsung",
+    "confidence": 0.781,
+    "dwell_seconds": 3.04
+  },
+  {
+    "id": 978,
+    "session_id": 61,
+    "timestamp": "2026-01-27T00:02:32.700625+00:00",
+    "brand": "Samsung",
+    "confidence": 0.805,
+    "dwell_seconds": 2.96
+  },
+  {
+    "id": 979,
+    "session_id": 61,
+    "timestamp": "2026-01-27T00:06:53.700625+00:00",
+    "brand": "Samsung",
+    "confidence": 0.902,
+    "dwell_seconds": 3.75
+  },
+  {
+    "id": 980,
+    "session_id": 61,
+    "timestamp": "2026-01-27T00:10:43.700625+00:00",
+    "brand": "Deliveroo",
+    "confidence": 0.882,
+    "dwell_seconds": 3.53
+  },
+  {
+    "id": 981,
+    "session_id": 61,
+    "timestamp": "2026-01-27T00:13:59.700625+00:00",
+    "brand": "Sony",
+    "confidence": 0.895,
+    "dwell_seconds": 2.68
+  },
+  {
+    "id": 982,
+    "session_id": 61,
+    "timestamp": "2026-01-27T00:19:19.700625+00:00",
+    "brand": "Sony",
+    "confidence": 0.925,
+    "dwell_seconds": 3.36
+  },
+  {
+    "id": 983,
+    "session_id": 61,
+    "timestamp": "2026-01-27T00:24:46.700625+00:00",
+    "brand": "Samsung",
+    "confidence": 0.897,
+    "dwell_seconds": 3.43
+  },
+  {
+    "id": 984,
+    "session_id": 61,
+    "timestamp": "2026-01-27T00:29:40.700625+00:00",
+    "brand": "Samsung",
+    "confidence": 0.841,
+    "dwell_seconds": 2.35
+  },
+  {
+    "id": 985,
+    "session_id": 61,
+    "timestamp": "2026-01-27T00:33:01.700625+00:00",
+    "brand": "IKEA",
+    "confidence": 0.956,
+    "dwell_seconds": 3.45
+  },
+  {
+    "id": 986,
+    "session_id": 61,
+    "timestamp": "2026-01-27T00:37:10.700625+00:00",
+    "brand": "IKEA",
+    "confidence": 0.765,
+    "dwell_seconds": 1.93
+  },
+  {
+    "id": 987,
+    "session_id": 61,
+    "timestamp": "2026-01-27T00:40:52.700625+00:00",
+    "brand": "IKEA",
+    "confidence": 0.77,
+    "dwell_seconds": 3.55
+  },
+  {
+    "id": 988,
+    "session_id": 61,
+    "timestamp": "2026-01-27T00:46:19.700625+00:00",
+    "brand": "IKEA",
+    "confidence": 0.915,
+    "dwell_seconds": 2.82
+  },
+  {
+    "id": 989,
+    "session_id": 61,
+    "timestamp": "2026-01-27T00:51:03.700625+00:00",
+    "brand": "IKEA",
+    "confidence": 0.916,
+    "dwell_seconds": 3.0
+  },
+  {
+    "id": 990,
+    "session_id": 61,
+    "timestamp": "2026-01-27T00:54:37.700625+00:00",
+    "brand": "Deliveroo",
+    "confidence": 0.781,
+    "dwell_seconds": 3.63
+  },
+  {
+    "id": 991,
+    "session_id": 61,
+    "timestamp": "2026-01-27T00:57:22.700625+00:00",
+    "brand": "Sony",
+    "confidence": 0.75,
+    "dwell_seconds": 3.06
+  },
+  {
+    "id": 992,
+    "session_id": 62,
+    "timestamp": "2026-01-26T17:20:10.523072+00:00",
+    "brand": "Slack",
+    "confidence": 0.787,
+    "dwell_seconds": 3.2
+  },
+  {
+    "id": 993,
+    "session_id": 62,
+    "timestamp": "2026-01-26T17:22:54.523072+00:00",
+    "brand": "Nespresso",
+    "confidence": 0.836,
+    "dwell_seconds": 3.45
+  },
+  {
+    "id": 994,
+    "session_id": 62,
+    "timestamp": "2026-01-26T17:24:56.523072+00:00",
+    "brand": "Nespresso",
+    "confidence": 0.685,
+    "dwell_seconds": 3.77
+  },
+  {
+    "id": 995,
+    "session_id": 62,
+    "timestamp": "2026-01-26T17:25:29.523072+00:00",
+    "brand": "Nespresso",
+    "confidence": 0.872,
+    "dwell_seconds": 3.41
+  },
+  {
+    "id": 996,
+    "session_id": 62,
+    "timestamp": "2026-01-26T17:27:08.523072+00:00",
+    "brand": "Post-it",
+    "confidence": 0.76,
+    "dwell_seconds": 3.21
+  },
+  {
+    "id": 997,
+    "session_id": 62,
+    "timestamp": "2026-01-26T17:29:53.523072+00:00",
+    "brand": "Slack",
+    "confidence": 0.787,
+    "dwell_seconds": 3.0
+  },
+  {
+    "id": 998,
+    "session_id": 62,
+    "timestamp": "2026-01-26T17:32:26.523072+00:00",
+    "brand": "Post-it",
+    "confidence": 0.843,
+    "dwell_seconds": 3.64
+  },
+  {
+    "id": 999,
+    "session_id": 62,
+    "timestamp": "2026-01-26T17:34:05.523072+00:00",
+    "brand": "Dell",
+    "confidence": 0.654,
+    "dwell_seconds": 3.21
+  },
+  {
+    "id": 1000,
+    "session_id": 62,
+    "timestamp": "2026-01-26T17:35:28.523072+00:00",
+    "brand": "Dell",
+    "confidence": 0.871,
+    "dwell_seconds": 3.21
+  }
+]

@@ -22,6 +22,9 @@ Usage:
     python3 generator_upgraded.py --preset ml --stats
     python3 generator_upgraded.py --sessions 5000 --contexts 12 --sqlite
     python3 generator_upgraded.py --preset ml --messy      # nulls, dupes, outliers
+    python3 generator_upgraded.py --preset ml --test-instances 1000
+        # writes test_events.json: a held-out set (different seed, same
+        # generating process) for evaluating a model trained on events.json
 """
 
 from __future__ import annotations
@@ -263,6 +266,26 @@ def make_messy(events: list[dict], rng: random.Random) -> list[dict]:
     return events + dupes
 
 
+def generate_test_events(n_events: int, n_contexts: int, seed: int, messy: bool):
+    """Return a held-out list of ~n_events events for model evaluation.
+
+    Uses the same generating process as generate() — same ground-truth
+    relationships between confidence/hour/brand and dwell_seconds — but with
+    a seed offset far outside the range anyone would pass to --seed, so a
+    test set never accidentally overlaps a training draw. Session count is
+    grown until the target is met, then events are truncated to exactly
+    n_events.
+    """
+    test_seed = seed + 1_000_000
+    n_sessions = max(10, n_events // 10)
+    while True:
+        sessions, events = generate(n_sessions, n_contexts, test_seed, messy)
+        if len(events) >= n_events:
+            break
+        n_sessions *= 2
+    return events[:n_events]
+
+
 # ---------------------------------------------------------------------------
 # Output
 # ---------------------------------------------------------------------------
@@ -374,11 +397,25 @@ def main() -> None:
     p.add_argument("--sqlite", action="store_true", help="also write events.db")
     p.add_argument("--messy", action="store_true", help="inject dirty data")
     p.add_argument("--stats", action="store_true", help="print diagnostics")
+    p.add_argument("--test-instances", type=int, nargs="?", const=1000,
+                   help="write a held-out test_events.json with this many "
+                        "events (default 1000) instead of the normal "
+                        "training output")
     args = p.parse_args()
 
     n_sessions, n_contexts = PRESETS[args.preset]
     n_sessions = args.sessions or n_sessions
     n_contexts = min(args.contexts or n_contexts, len(CONTEXT_CATALOGUE))
+
+    if args.test_instances:
+        test_events = generate_test_events(
+            args.test_instances, n_contexts, args.seed, args.messy
+        )
+        args.out.mkdir(parents=True, exist_ok=True)
+        (args.out / "test_events.json").write_text(json.dumps(test_events, indent=2))
+        print(f"wrote {len(test_events):,} test events "
+              f"-> {args.out}/test_events.json (seed={args.seed + 1_000_000})")
+        return
 
     sessions, events = generate(n_sessions, n_contexts, args.seed, args.messy)
     write_json(args.out, sessions, events)
